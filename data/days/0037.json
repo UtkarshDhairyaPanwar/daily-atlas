@@ -490,7 +490,9 @@
       "lon": 46.17
      },
      "when": "c. 2112 to 2004 BC",
-     "image_ids": [],
+     "image_ids": [
+      "img_ur3tablet_1"
+     ],
      "media_ids": [],
      "spot_it": "Rows of small clay tablets packed with wedge-shaped signs: the payroll and output of state weaving sheds.",
      "story_md": "Under the **Third Dynasty of Ur**, textiles were the biggest activity in state workshops. One office in Girsu province oversaw about **6,000 workers**, probably spread across several workshops. Most were women, with children working beside them, and everyone was paid in **rations** of barley, oil and wool. Scribes recorded working days, the kind of cloth produced and how much time each piece took, with startling precision. Weavers could be moved to the harvest, to grinding flour or to hauling boats when the state needed hands. About 120,000 tablets survive from this period, which is why historians know more about Sumerian weavers' shifts than about most medieval workers.",
@@ -594,6 +596,7 @@
      "name": "The shendyt kilt",
      "when": "c. 3000 BC to Roman times",
      "image_ids": [
+      "img_shendyt_1",
       "img_rahotep_1"
      ],
      "media_ids": [],
@@ -1806,7 +1809,8 @@
      "name": "Dhoti and shendyt: unstitched wisdom",
      "when": "Ancient to today",
      "image_ids": [
-      "img_dhoti_1"
+      "img_dhoti_1",
+      "img_shendyt_1"
      ],
      "media_ids": [],
      "spot_it": "A single rectangle of cloth wrapped around the hips and tucked at the waist, with no seams at all.",
@@ -4503,6 +4507,36 @@
    "caption": "Cleopatra VII, Roman marble bust, c. 40 to 30 BC, Altes Museum, Berlin."
   },
   {
+   "id": "img_shendyt_1",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Greywacke_Statue_of_Menkaure,_Cairo_Museum.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Greywacke_Statue_of_Menkaure%2C_Cairo_Museum.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Greywacke_Statue_of_Menkaure%2C_Cairo_Museum.jpg/1280px-Greywacke_Statue_of_Menkaure%2C_Cairo_Museum.jpg",
+   "width": 4608,
+   "height": 3072,
+   "author": "Darer101",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Darer101, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Greywacke statue of King Menkaure in a pleated shendyt kilt, flanked by two goddesses",
+   "caption": "Menkaure triad, c. 2500 BC, Egyptian Museum, Cairo: the royal pleated shendyt."
+  },
+  {
+   "id": "img_ur3tablet_1",
+   "file_page": "https://commons.wikimedia.org/wiki/File:A_verdict_about_murder._Terracotta_tablet_from_Girsu,_Iraq._2112-2004_BCE._Ancient_Orient_Museum,_Istanbul.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/A_verdict_about_murder._Terracotta_tablet_from_Girsu%2C_Iraq._2112-2004_BCE._Ancient_Orient_Museum%2C_Istanbul.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/A_verdict_about_murder._Terracotta_tablet_from_Girsu%2C_Iraq._2112-2004_BCE._Ancient_Orient_Museum%2C_Istanbul.jpg/1280px-A_verdict_about_murder._Terracotta_tablet_from_Girsu%2C_Iraq._2112-2004_BCE._Ancient_Orient_Museum%2C_Istanbul.jpg",
+   "width": 3461,
+   "height": 3787,
+   "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A small clay tablet covered in Sumerian cuneiform",
+   "caption": "An Ur III tablet from Girsu (a murder verdict), from the same state archives that list the weavers."
+  },
+  {
    "id": "img_akhenaten_1",
    "file_page": "https://commons.wikimedia.org/wiki/File:Akhenaten,_Nefertiti_and_their_children.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Akhenaten%2C_Nefertiti_and_their_children.jpg",
@@ -5209,12 +5243,6 @@
    "note": "No openly licensed Commons photo of this exact thing was found on 2026-10-25; left without an image rather than use a wrong one."
   },
   {
-   "claim": "Photo of The Ur III textile workshops",
-   "status": "no_image",
-   "spotlight_id": "ur3_weavers",
-   "note": "No openly licensed Commons photo of this exact thing was found on 2026-10-25; left without an image rather than use a wrong one."
-  },
-  {
    "claim": "Photo of The bead-net dress",
    "status": "no_image",
    "spotlight_id": "bead_net_dress",
@@ -5469,6 +5497,7 @@
   "title": "Writing was invented to count sheep and cloth",
   "body_md": "If you want to know why clothing mattered so much in Mesopotamia, look at what the first writing was for. The oldest tablets, about 5,000 of them, mostly from **Uruk** and dated about 3350 to 3000 BC, are not poems, prayers or laws. About **85 per cent** are **accounts**: barley, beer, **sheep** and workers' rations moving in and out of temple stores, counted and checked by officials. Most of the rest are lists of signs, and the lists of manufactured goods already include words for cloth.\n\nThe archaeologist **Denise Schmandt-Besserat** argued that writing grew out of an older system of small clay **tokens**, cones, spheres and discs, each standing for a quantity of a good. Officials sealed tokens inside clay envelopes as receipts, then began pressing the tokens into the outside so they could see what was inside without breaking it. From there it was a short step to drawing the signs on flat clay and dropping the tokens altogether. Critics point out that token shapes vary a lot and some common goods, like sheep, have few tokens, so the details are debated. But the basic point is widely accepted: **writing began as bookkeeping**.\n\nThat explains the extraordinary paperwork you met today. The 6,000 weavers of Girsu, the Kültepe letters about cloth and silver, the ration lists in wool: these are the same tradition grown up. In Mesopotamia, the hand that wrote and the hand that wove were tied together from the start. A sheep was wealth, its wool was cloth, cloth was wages, and wages had to be written down. Next time you see a cuneiform tablet in a museum, the odds are good it is about something very ordinary, like a delivery of wool.",
   "image_ids": [
+   "img_ur3tablet_1",
    "img_kultepe_1"
   ],
   "card_ids": [

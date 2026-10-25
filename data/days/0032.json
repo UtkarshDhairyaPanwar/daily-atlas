@@ -465,28 +465,6 @@
      "source_ids": [
       "wiki_kite"
      ]
-    },
-    {
-     "id": "asola",
-     "kind": "wildlife",
-     "name": "Asola Bhatti Wildlife Sanctuary",
-     "where": {
-      "label": "Southern Ridge, on the Haryana border",
-      "lat": 28.48,
-      "lon": 77.23
-     },
-     "when": "Notified 1986; expanded 1991",
-     "image_ids": [
-      "img_asola"
-     ],
-     "media_ids": [],
-     "spot_it": "Flooded old quarry pits ringed by scrub forest, with nilgai at the water's edge.",
-     "story_md": "The sanctuary covers about **32 km²** of the southern ridge, much of it old stone quarries (*bhatti* means kiln). When mining stopped, the pits filled with rainwater and became lakes. Camera traps have recorded **leopards** here, along with striped hyenas, golden jackals, nilgai and more than 200 bird species. Leopards also wander between the sanctuary and Haryana's forests along a corridor that roads keep cutting. The lakes now also draw migratory waterbirds each winter.",
-     "why_it_matters": "It is a reminder that a city of 22 million still has a top predator.",
-     "memory_hook": "Leopards in the quarry, a forty-minute drive from Parliament.",
-     "source_ids": [
-      "wiki_asola"
-     ]
     }
    ],
    "check": [
@@ -682,7 +660,7 @@
      ],
      "media_ids": [],
      "spot_it": "A squat, square red sandstone gatehouse inlaid with white marble bands, with horseshoe-shaped pointed arches and a low dome.",
-     "story_md": "Built by **Alauddin Khalji** in **1311** as a gate to the Qutb mosque, the Alai Darwaza is often called the first building in India with **true arches and a true dome**, made with radiating voussoirs rather than stacked, overhanging stones. Its craftsmen probably came from Seljuk Turkey and Persia, refugees from the Mongols. Alauddin himself was ruthless and inventive: he fixed grain prices in Delhi by decree, kept a spy network in the markets, and began a second minar meant to be twice the height of the Qutb. The **Alai Minar** stalled at about 25 m when he died in 1316. Its rough stump still stands nearby.",
+     "story_md": "Built by **Alauddin Khalji** in **1311** as a gate to the Qutb mosque, the Alai Darwaza is often called the first building in India with **true arches and a true dome**, made with radiating voussoirs rather than stacked, overhanging stones. Its craftsmen probably came from Seljuk Turkey and Persia, refugees from the Mongols. Alauddin himself was ruthless and inventive: he fixed grain prices in Delhi by decree, kept a spy network in the markets, and began a second minar meant to be twice the height of the Qutb. The **Alai Minar** stalled at about 25 m when he died in 1316.",
      "why_it_matters": "It brought a new engineering idea to India that every later dome relies on.",
      "memory_hook": "The first true dome, and next door, the stump of a tower that was meant to be twice the Qutb.",
      "source_ids": [
@@ -728,34 +706,12 @@
      ],
      "media_ids": [],
      "spot_it": "Miles of sloping, tumbled grey rubble walls with round bastions on a rocky rise, goats grazing in the ruins.",
-     "story_md": "**Ghiyasuddin Tughlaq** built this colossal fortress city in about four years, with walls running some **6.5 km**. Legend says he forced the workers of the Sufi saint **Nizamuddin Auliya** to work on his walls instead of the saint's step-well, and the saint cursed the city: *'Ya rahe ujar, ya base Gujar'*, may it stay desolate or be home to herders. It was abandoned soon after his death in 1325. His son **Muhammad bin Tughlaq** later ordered much of Delhi's population to move to **Daulatabad**, about 1,100 km south, in 1327, then let them return. His tomb, just outside the walls, sits in what was once a lake.",
+     "story_md": "**Ghiyasuddin Tughlaq** built this colossal fortress city in about four years, with walls running some **6.5 km**. Legend says he forced the workers of the Sufi saint **Nizamuddin Auliya** to work on his walls instead of the saint's step-well, and the saint cursed the city: *'Ya rahe ujar, ya base Gujar'*, may it stay desolate or be home to herders. It was abandoned soon after his death in 1325. His son **Muhammad bin Tughlaq** later ordered much of Delhi's population to move to **Daulatabad**, about 1,100 km south, in 1327, then let them return.",
      "why_it_matters": "It is the most dramatic ruin in Delhi, and a story about power losing to a saint.",
      "memory_hook": "Desolate or herders: the curse came true.",
      "source_ids": [
       "wiki_tughlaqabad",
       "wiki_tughlaq"
-     ]
-    },
-    {
-     "id": "hauz_khas",
-     "kind": "monument",
-     "name": "Hauz Khas",
-     "where": {
-      "label": "Hauz Khas Village, south Delhi",
-      "lat": 28.5535,
-      "lon": 77.194
-     },
-     "when": "Tank about 1295; madrasa 1352",
-     "image_ids": [
-      "img_hauz_khas"
-     ],
-     "media_ids": [],
-     "spot_it": "An L-shaped run of domed pavilions and arcades on a high bank above a lake, with cafés and boutiques crowding the lane behind.",
-     "story_md": "Alauddin Khalji dug a vast **reservoir** here around 1295 to supply water to his city of Siri; *hauz khas* means 'royal tank'. Sixty years later **Firoz Shah Tughlaq** desilted it and built a **madrasa** along its banks, one of the leading Islamic colleges of its day, and chose to be buried there. The tank later silted up again, and was revived as a lake fed by treated water. In the 1980s the village behind the ruins became a designer's quarter and later Delhi's densest nightlife strip. The same arches serve as a backdrop for wedding shoots by day and a crowd heading to rooftop bars by night.",
-     "why_it_matters": "It shows how a medieval water project became a 21st-century hangout.",
-     "memory_hook": "A sultan's water tank, a college, and now a bar street.",
-     "source_ids": [
-      "wiki_hauzkhas"
      ]
     },
     {
@@ -1000,7 +956,7 @@
      ],
      "media_ids": [],
      "spot_it": "A dense bazaar street under a cobweb of wires, cycle rickshaws, porters with sacks on their heads, temple bells and a gurdwara dome.",
-     "story_md": "The avenue was designed by Shah Jahan's daughter **Jahanara**. A canal once ran down its centre and pooled in a square where moonlight reflected in the water, which is one explanation of the name 'moonlit square'. Today, within a kilometre, stand the Jain **Lal Mandir**, the **Gauri Shankar** temple, **Gurdwara Sis Ganj** where the ninth Sikh Guru, **Tegh Bahadur**, was executed in 1675, the **Sunehri Masjid** and a Baptist church of 1814. A redevelopment completed in **2021** pedestrianised the main stretch in the daytime and buried some of the wires. Its lanes specialise: silver in Dariba Kalan, wedding cards in Chawri Bazar, spices in Khari Baoli.",
+     "story_md": "The avenue was designed by Shah Jahan's daughter **Jahanara**. A canal once ran down its centre and pooled in a square where moonlight reflected in the water, which is one explanation of the name 'moonlit square'. Today, within a kilometre, stand the Jain **Lal Mandir**, the **Gauri Shankar** temple, **Gurdwara Sis Ganj** where the ninth Sikh Guru, **Tegh Bahadur**, was executed in 1675, the **Sunehri Masjid** and a Baptist church of 1814. A redevelopment completed in **2021** pedestrianised the main stretch in the daytime and buried some of the wires.",
      "why_it_matters": "It is a 370-year-old shopping street that still works.",
      "memory_hook": "Moonlight once floated in its canal; now it is lit by wedding bulbs.",
      "source_ids": [
@@ -1048,7 +1004,7 @@
      ],
      "media_ids": [],
      "spot_it": "An old man with a white beard propped on cushions, in the only photograph of him, taken in 1858 after his capture.",
-     "story_md": "The last Mughal emperor was a poet and calligrapher in his 80s who ruled little beyond the Red Fort. In **May 1857** rebel sepoys proclaimed him emperor of Hindustan, and for four months Delhi was the rebellion's capital. When the British stormed back in **September 1857**, he fled to Humayun's Tomb and surrendered. Officer **William Hodson** shot three of the princes dead near a gate still called **Khooni Darwaza**, the bloody gate. Zafar was tried, exiled to **Rangoon** in Burma, and died there in **1862**, buried in an unmarked grave that was only rediscovered in **1991**. His couplet about not finding two yards of earth in his beloved land is famous.",
+     "story_md": "The last Mughal emperor was a poet and calligrapher in his 80s who ruled little beyond the Red Fort. In **May 1857** rebel sepoys proclaimed him emperor of Hindustan, and for four months Delhi was the rebellion's capital. When the British stormed back in **September 1857**, he fled to Humayun's Tomb and surrendered. Officer **William Hodson** shot three of the princes dead near a gate still called **Khooni Darwaza**, the bloody gate. Zafar was tried, exiled to **Rangoon** in Burma, and died there in **1862**, buried in an unmarked grave that was only rediscovered in **1991**.",
      "why_it_matters": "With him, 331 years of Mughal rule ended.",
      "memory_hook": "The last emperor could not get two yards of Delhi soil.",
      "source_ids": [
@@ -1129,29 +1085,6 @@
      ]
     },
     {
-     "id": "lutyens",
-     "kind": "person",
-     "name": "Edwin Lutyens",
-     "where": {
-      "label": "New Delhi",
-      "lat": 28.6139,
-      "lon": 77.209
-     },
-     "when": "1869 to 1944",
-     "image_ids": [
-      "img_lutyens"
-     ],
-     "media_ids": [],
-     "spot_it": "A round-faced Englishman with a moustache and pipe; his signature is the white-bungalowed zone still called Lutyens' Delhi.",
-     "story_md": "Lutyens was already Britain's leading country-house architect when he was chosen in 1912. He was openly dismissive of Indian architecture at first, then folded its elements into his own grand classicism. He quarrelled bitterly with his partner **Herbert Baker** over the gradient of the road up Raisina Hill, which hides the Viceroy's House from view as you approach; Lutyens called it his 'Bakerloo'. **Lutyens' Bungalow Zone**, about **28 km²** of low-density bungalows for ministers, judges and senior officials, is still the most powerful real estate in India, with plots worth hundreds of crores.",
-     "why_it_matters": "His plan still decides who lives where in India's power elite.",
-     "memory_hook": "He lost an argument about a slope and called it his Bakerloo.",
-     "source_ids": [
-      "wiki_lutyens",
-      "wiki_newdelhi"
-     ]
-    },
-    {
      "id": "connaught_place",
      "kind": "place",
      "name": "Connaught Place",
@@ -1168,7 +1101,7 @@
       "vid_metro_park"
      ],
      "spot_it": "Two concentric rings of white colonnaded Georgian buildings around a circular park, with a giant tricolour flying in the centre.",
-     "story_md": "Designed by **Robert Tor Russell** and modelled on Bath's Royal Crescent, CP was the commercial heart of the new capital, named after the **Duke of Connaught**. Its inner and outer circles are now officially **Rajiv Chowk** and **Indira Chowk**, though nobody calls them that. Under the central park lies **Rajiv Chowk metro station**, one of the busiest in the network, and beside it **Palika Bazaar**, an underground market. In the mid-2010s CP was listed among the world's most expensive office locations by rent. Its oldest shops, from coffee houses to bookshops, keep a slightly faded, colonial-era air.",
+     "story_md": "Designed by **Robert Tor Russell** and modelled on Bath's Royal Crescent, CP was the commercial heart of the new capital, named after the **Duke of Connaught**. Its inner and outer circles are now officially **Rajiv Chowk** and **Indira Chowk**, though nobody calls them that. Under the central park lies **Rajiv Chowk metro station**, one of the busiest in the network, and beside it **Palika Bazaar**, an underground market. In the mid-2010s CP was listed among the world's most expensive office locations by rent.",
      "why_it_matters": "It is the meeting point of the city, above and below ground.",
      "memory_hook": "Bath's crescent, bent into a circle, with a metro hub underneath.",
      "source_ids": [
@@ -1360,7 +1293,7 @@
    "id": "faith",
    "order": 9,
    "title": "Many languages, every faith",
-   "intro_md": "Delhi is where **Hindustani** was born. In the bazaars around the sultans' and Mughal camps, Persian, Turkic and Arabic words mixed with the local Khari Boli dialect; the word *Urdu* itself comes from the Turkic *ordu*, a camp. That same street speech, written in two scripts, became modern **Hindi** and **Urdu**.\n\nToday Hindi is the main language for about **81%** of residents, followed by **Punjabi** (about 5%) and **Urdu** (about 6%) in the 2011 census. The **Delhi Official Languages Act, 2000** made Punjabi and Urdu the territory's second official languages, which is why metro signs and some government boards use them. Old Delhi's working-class Muslims still speak **Karkhandari**, a dialect of the artisans' workshops.\n\nBy religion, the 2011 census counted **81.7%** Hindus, **12.9%** Muslims, **3.4%** Sikhs, **1%** Jains and smaller numbers of Christians and Buddhists. Delhi's places of worship are among the most visited buildings in India, and several are famous for what they do as much as what they look like: a temple of no idols, a kitchen that feeds tens of thousands, and a hospital for birds.",
+   "intro_md": "Delhi is where **Hindustani** was born. In the bazaars around the sultans' and Mughal camps, Persian, Turkic and Arabic words mixed with the local Khari Boli dialect; the word *Urdu* itself comes from the Turkic *ordu*, a camp. That same street speech, written in two scripts, became modern **Hindi** and **Urdu**.\n\nToday Hindi is the main language for about **81%** of residents, followed by **Punjabi** (about 5%) and **Urdu** (about 6%) in the 2011 census. The **Delhi Official Languages Act, 2000** made Punjabi and Urdu the territory's second official languages, which is why metro signs and some government boards use them. Old Delhi's working-class Muslims still speak **Karkhandari**, a dialect of the artisans' workshops.\n\nBy religion, the 2011 census counted **81.7%** Hindus, **12.9%** Muslims, **3.4%** Sikhs, **1%** Jains and smaller numbers of Christians and Buddhists.",
    "visual": {
     "type": "donut",
     "title": "Religion in Delhi, 2011 census (%)",
@@ -1431,7 +1364,7 @@
      ],
      "media_ids": [],
      "spot_it": "A huge, elaborately carved pink sandstone and white marble temple with a frieze of 148 stone elephants around its base.",
-     "story_md": "Built by the **BAPS Swaminarayan Sanstha** and opened in **2005**, the complex was put together by about **7,000 artisans** and some **300,000 volunteers** over five years. The central monument is carved from Rajasthani pink sandstone and Italian marble with no structural steel, in a traditional style the builders call **Maharu-Gurjara**. Its base, the **Gajendra Pith**, carries 148 life-size stone elephants. The complex also has a boat ride through a re-created history of India, a musical fountain, and a strict no-phones rule. Guinness World Records listed it as the largest comprehensive Hindu temple in 2007.",
+     "story_md": "Built by the **BAPS Swaminarayan Sanstha** and opened in **2005**, the complex was put together by about **7,000 artisans** and some **300,000 volunteers** over five years. The central monument is carved from Rajasthani pink sandstone and Italian marble with no structural steel, in a traditional style the builders call **Maharu-Gurjara**. Its base, the **Gajendra Pith**, carries 148 life-size stone elephants. The complex also has a boat ride through a re-created history of India, a musical fountain, and a strict no-phones rule.",
      "why_it_matters": "It is the most visited new monument in Delhi.",
      "memory_hook": "Seven thousand carvers, 148 elephants, not a single steel beam.",
      "source_ids": [
@@ -1453,7 +1386,7 @@
      ],
      "media_ids": [],
      "spot_it": "A white building of 27 marble-clad petals in groups of three, opening upward, on a raised platform with nine reflecting pools.",
-     "story_md": "The **Bahá'í House of Worship** was designed by the Iranian-born architect **Fariborz Sahba** and opened in **1986**. It has **27 free-standing petals** of white Greek marble arranged in clusters of three to form nine sides, as Bahá'í temples must. There are no idols, no sermons and no rituals: people of any faith sit in silence or listen to readings from many scriptures. It holds about **2,500** people. By some counts it has been among the most visited buildings in the world, drawing millions a year. Its concrete shells, clad in marble, won several engineering and architecture awards.",
+     "story_md": "The **Bahá'í House of Worship** was designed by the Iranian-born architect **Fariborz Sahba** and opened in **1986**. It has **27 free-standing petals** of white Greek marble arranged in clusters of three to form nine sides, as Bahá'í temples must. There are no idols, no sermons and no rituals: people of any faith sit in silence or listen to readings from many scriptures. It holds about **2,500** people. By some counts it has been among the most visited buildings in the world, drawing millions a year.",
      "why_it_matters": "It is a modern landmark that belongs to no single faith.",
      "memory_hook": "A marble lotus with no idols inside.",
      "source_ids": [
@@ -1520,7 +1453,7 @@
      ],
      "media_ids": [],
      "spot_it": "Pieces of charred tandoori chicken in a smooth, orange, buttery tomato gravy, finished with cream and kasuri methi.",
-     "story_md": "The standard story: at **Moti Mahal** in Peshawar and then in Daryaganj after 1947, cooks needed to use leftover tandoori chicken that dried out in the display. **Kundan Lal Gujral** is credited with tossing it into a sauce of tomatoes, butter and cream. Moti Mahal served Nehru, foreign heads of state and Jackie Kennedy. The **Daryaganj** chain, run by the family of **Kundan Lal Jaggi**, says Jaggi was Gujral's partner and a co-creator, citing a partnership deed from 1949. Moti Mahal's suit asked for **₹2 crore** in damages. Whoever is right, it began in this neighbourhood and is now cooked from Glasgow to Tokyo.",
+     "story_md": "The standard story: at **Moti Mahal** in Peshawar and then in Daryaganj after 1947, cooks needed to use leftover tandoori chicken that dried out in the display. **Kundan Lal Gujral** is credited with tossing it into a sauce of tomatoes, butter and cream. Moti Mahal served Nehru, foreign heads of state and Jackie Kennedy. The **Daryaganj** chain, run by the family of **Kundan Lal Jaggi**, says Jaggi was Gujral's partner and a co-creator, citing a partnership deed from 1949. Moti Mahal's suit asked for **₹2 crore** in damages.",
      "why_it_matters": "It is Delhi's biggest food export to the world.",
      "memory_hook": "Leftover chicken, a pot of butter, a court case.",
      "source_ids": [
@@ -1618,30 +1551,6 @@
      "source_ids": [
       "wiki_chole"
      ]
-    },
-    {
-     "id": "momos",
-     "kind": "dish",
-     "name": "Delhi momos",
-     "where": {
-      "label": "Every market corner",
-      "lat": 28.7,
-      "lon": 77.22
-     },
-     "when": "From the 1960s via Tibetan refugees",
-     "image_ids": [
-      "img_momos",
-      "img_momos2"
-     ],
-     "media_ids": [],
-     "spot_it": "A steamer basket of white pleated dumplings on a street cart, with a bright red chilli and garlic sauce.",
-     "story_md": "Momos came with **Tibetan refugees** after 1959 and with migrants from Darjeeling, Sikkim and the northeast. In Delhi they mutated: now there are **tandoori momos**, fried momos, cheese momos, 'afghani' momos in cream, and paneer momos for vegetarians. The fiery red chutney that goes with them is a Delhi invention as much as a Tibetan one. Street momo carts are so common that, in 2017, a BJP leader in Jammu called for a ban on momos as unhealthy, which prompted a wave of mockery in Delhi. Majnu ka Tilla is still where students go for the original.",
-     "why_it_matters": "It shows how a refugee food became a city's favourite snack.",
-     "memory_hook": "From Lhasa to a tandoor in Lajpat Nagar.",
-     "source_ids": [
-      "wiki_momo",
-      "wiki_majnu"
-     ]
     }
    ],
    "check": [
@@ -1736,7 +1645,7 @@
      ],
      "media_ids": [],
      "spot_it": "A procession carrying huge fans (pankhas) made of flowers to Yogmaya temple and the shrine of Bakhtiyar Kaki, with shehnai and dancers.",
-     "story_md": "In **1812** the British exiled **Mirza Jahangir**, a son of the Mughal emperor Akbar II, to Allahabad for firing at the British Resident. His mother vowed that if he returned she would offer a chadar of flowers at the Sufi shrine of **Qutbuddin Bakhtiyar Kaki** in Mehrauli. He did, and the whole city joined her procession, adding a flower fan for the Hindu **Yogmaya temple** next door. The festival, 'procession of the florists', ran yearly until the British banned it in **1942** under 'divide and rule'. **Nehru** helped revive it in **1961**. Each year a fan is still presented to the Prime Minister.",
+     "story_md": "In **1812** the British exiled **Mirza Jahangir**, a son of the Mughal emperor Akbar II, to Allahabad for firing at the British Resident. His mother vowed that if he returned she would offer a chadar of flowers at the Sufi shrine of **Qutbuddin Bakhtiyar Kaki** in Mehrauli. He did, and the whole city joined her procession, adding a flower fan for the Hindu **Yogmaya temple** next door. The festival, 'procession of the florists', ran yearly until the British banned it in **1942** under 'divide and rule'. **Nehru** helped revive it in **1961**.",
      "why_it_matters": "It is a living symbol of Hindu Muslim togetherness in Delhi.",
      "memory_hook": "A mother's vow, two shrines, one flower fan.",
      "source_ids": [
@@ -1829,7 +1738,7 @@
    "id": "daily_life",
    "order": 12,
    "title": "How Delhi moves and lives",
-   "intro_md": "Delhi is a city of long distances and sharp divides. Its planned colonies, unauthorised colonies, urban villages, slums and Lutyens' bungalows can sit within a kilometre of one another. About **4 million** people live in some **1,700 unauthorised colonies**, built on farmland without approved plans; a 2019 law began giving them ownership rights.\n\nGetting around has changed more than anything. The **Delhi Metro**, opened in **2002**, now carries several million trips a day. Buses moved to compressed natural gas in the early 2000s after a **Supreme Court** order, and in the 2020s the city built one of the largest electric bus fleets in India. Women travel free on DTC buses since **2019**.\n\nSociety runs on certain constants. Wedding season, roughly November to February, closes roads with baraats and brass bands. Delhi's **Resident Welfare Associations** run colony life, from security guards to park maintenance. Surveys show strong family ties and long working hours. And a stereotype, Delhiites as aggressive drivers and status-conscious show-offs, is popular in the rest of India; road crash data does show Delhi among the highest totals of road deaths among Indian cities.",
+   "intro_md": "Delhi is a city of long distances and sharp divides. Its planned colonies, unauthorised colonies, urban villages, slums and Lutyens' bungalows can sit within a kilometre of one another. About **4 million** people live in some **1,700 unauthorised colonies**, built on farmland without approved plans; a 2019 law began giving them ownership rights.\n\nGetting around has changed more than anything. The **Delhi Metro**, opened in **2002**, now carries several million trips a day. Buses moved to compressed natural gas in the early 2000s after a **Supreme Court** order, and in the 2020s the city built one of the largest electric bus fleets in India. Women travel free on DTC buses since **2019**.\n\nSociety runs on certain constants. Wedding season, roughly November to February, closes roads with baraats and brass bands. Delhi's **Resident Welfare Associations** run colony life, from security guards to park maintenance. And a stereotype, Delhiites as aggressive drivers and status-conscious show-offs, is popular in the rest of India; road crash data does show Delhi among the highest totals of road deaths among Indian cities.",
    "spotlights": [
     {
      "id": "delhi_metro",
@@ -1847,7 +1756,7 @@
      ],
      "media_ids": [],
      "spot_it": "Steel trains on elevated concrete tracks above traffic, colour-coded lines, women-only first coaches, and tokens shaped like coins.",
-     "story_md": "Built by the **Delhi Metro Rail Corporation** under **E. Sreedharan**, the 'Metro Man', the first stretch opened on **24 December 2002**. Today DMRC's own network runs to roughly **375 km** on 10 colour-coded lines with about **270 stations**, and more than 400 km counting connected lines in Noida and Gurugram, among the longest systems in the world. The first carriage of every train is **reserved for women**. In 2011 Delhi Metro became the first railway project to earn **carbon credits** from the UN for cutting emissions. The **Phase 4** expansion has been opening in stages since **2025**, and a July 2026 plan listed some **217 km** of new lines across Phases 4, 5A and 5B.",
+     "story_md": "Built by the **Delhi Metro Rail Corporation** under **E. Sreedharan**, the 'Metro Man', the first stretch opened on **24 December 2002**. Today DMRC's own network runs to roughly **375 km** on 10 colour-coded lines with about **270 stations**, and more than 400 km counting connected lines in Noida and Gurugram, among the longest systems in the world. The first carriage of every train is **reserved for women**. In 2011 Delhi Metro became the first railway project to earn **carbon credits** from the UN for cutting emissions.",
      "why_it_matters": "It changed how a city of 20 million moves, and how its women travel.",
      "memory_hook": "Opened on Christmas Eve, now one of the longest metros on Earth.",
      "source_ids": [
@@ -1878,29 +1787,6 @@
       "wiki_auto",
       "wiki_cng_delhi"
      ]
-    },
-    {
-     "id": "dilli_haat",
-     "kind": "place",
-     "name": "Dilli Haat",
-     "where": {
-      "label": "INA, South Delhi",
-      "lat": 28.5734,
-      "lon": 77.2075
-     },
-     "when": "Opened 1994",
-     "image_ids": [
-      "img_dilli_haat",
-      "img_dilli_haat2"
-     ],
-     "media_ids": [],
-     "spot_it": "An open-air market of brick and thatched stalls, each selling a different state's crafts, and a food court with a counter for every state.",
-     "story_md": "Built over a covered drain opposite INA market and opened in **1994**, Dilli Haat was designed by **Pradeep Sachdeva** as a permanent version of a village *haat*, a weekly market. Stalls are rented to artisans on a rotation, usually for **15 days**, so the crafts change through the year: Kutch embroidery one fortnight, Kashmiri papier-mâché the next. The food stalls, one for almost every state, are where many Delhiites first tried Naga pork, Assamese pitha or Kashmiri wazwan. Similar haats followed at Pitampura and Janakpuri.",
-     "why_it_matters": "It brings the whole of India's crafts to one courtyard in the capital.",
-     "memory_hook": "Every state in a fortnight, built on a drain.",
-     "source_ids": [
-      "wiki_dillihaat"
-     ]
     }
    ],
    "check": [
@@ -1919,7 +1805,7 @@
    "id": "economy",
    "order": 13,
    "title": "How Delhi earns",
-   "intro_md": "Delhi's economy is a services machine. In **2025 to 26**, services made up about **86%** of its value added, industry about **13%** and farming under **1%**. Its GSDP was projected at about **₹13.27 lakh crore** at current prices, growing **9.4%** in that year. Government, finance, trade, real estate, IT, hotels and the vast business of being the capital all feed it.\n\nIt is also India's biggest **wholesale** market. Old Delhi's specialised bazaars, many dating to Mughal times, sell to traders from across north India: spices at **Khari Baoli**, textiles at **Chandni Chowk** and **Gandhi Nagar**, paper at **Chawri Bazar**, hardware at **Bhagirath Palace**, which is one of Asia's biggest electrical markets. **Azadpur Mandi** feeds much of north India with fruit and vegetables.\n\nThe flip side: a large share of workers are informal, and the wider NCR, not Delhi itself, now holds most of the new offices and factories, in **Gurugram** and **Noida**. The CAG reported in 2025 that Delhi's share of national GDP has slipped slightly over a decade.",
+   "intro_md": "Delhi's economy is a services machine. In **2025 to 26**, services made up about **86%** of its value added, industry about **13%** and farming under **1%**. Its GSDP was projected at about **₹13.27 lakh crore** at current prices, growing **9.4%** in that year. Government, finance, trade, real estate, IT, hotels and the vast business of being the capital all feed it.\n\nIt is also India's biggest **wholesale** market. Old Delhi's specialised bazaars, many dating to Mughal times, sell to traders from across north India: spices at **Khari Baoli**, textiles at **Chandni Chowk** and **Gandhi Nagar**, paper at **Chawri Bazar**, hardware at **Bhagirath Palace**, which is one of Asia's biggest electrical markets. **Azadpur Mandi** feeds much of north India with fruit and vegetables.\n\nThe flip side: a large share of workers are informal, and the wider NCR, not Delhi itself, now holds most of the new offices and factories, in **Gurugram** and **Noida**.",
    "visual": {
     "type": "donut",
     "title": "Delhi's economy by sector, 2025 to 26 (% of value added)",
@@ -1963,28 +1849,6 @@
      ]
     },
     {
-     "id": "azadpur_mandi",
-     "kind": "place",
-     "name": "Azadpur Mandi",
-     "where": {
-      "label": "North-west Delhi",
-      "lat": 28.7094,
-      "lon": 77.1756
-     },
-     "when": "Opened 1977",
-     "image_ids": [
-      "img_azadpur"
-     ],
-     "media_ids": [],
-     "spot_it": "A sprawling yard of trucks unloading crates of apples, onions and bananas before dawn, auctioneers shouting and porters running.",
-     "story_md": "Azadpur is usually cited as **Asia's largest market for fruit and vegetables**. It handles many thousands of tonnes of produce a day, from Himachal apples and Kashmir cherries to Nashik onions. Its prices move the market across north India; when onion prices spike, television news goes to Azadpur first. Work starts around **3 am**. Thousands of commission agents, or *arhtiyas*, and their porters work in conditions often criticised as crowded and unsafe, and plans to modernise it have been talked about for years.",
-     "why_it_matters": "It is the stomach of north India.",
-     "memory_hook": "When onions cost too much, the cameras go to Azadpur.",
-     "source_ids": [
-      "wiki_azadpur"
-     ]
-    },
-    {
      "id": "nehru_place",
      "kind": "place",
      "name": "Nehru Place",
@@ -1999,7 +1863,7 @@
      ],
      "media_ids": [],
      "spot_it": "Grey concrete office blocks around a crowded plaza of stalls selling laptops, cables, printer ink and software.",
-     "story_md": "Planned as a **district centre** in the 1970s, Nehru Place became the hub of north India's **computer hardware** trade. Its stalls sell everything from new laptops to second-hand parts, repairs while you wait, and custom-built gaming PCs. For years it was also notorious for **pirated software**; the US trade representative listed it among the world's 'notorious markets' for counterfeits in the 2010s. Behind the stalls are the offices of companies, startups and IT firms. Delhi's tech scene has mostly moved to Gurugram and Noida, but Nehru Place is where Delhi still goes to fix a laptop.",
+     "story_md": "Planned as a **district centre** in the 1970s, Nehru Place became the hub of north India's **computer hardware** trade. Its stalls sell everything from new laptops to second-hand parts, repairs while you wait, and custom-built gaming PCs. For years it was also notorious for **pirated software**; the US trade representative listed it among the world's 'notorious markets' for counterfeits in the 2010s. Behind the stalls are the offices of companies, startups and IT firms.",
      "why_it_matters": "It is the hands-on base of Delhi's tech economy.",
      "memory_hook": "Fix your laptop in an hour, under a concrete sky.",
      "source_ids": [
@@ -2073,7 +1937,7 @@
      ],
      "media_ids": [],
      "spot_it": "A thick grey-yellow haze that hides buildings a few hundred metres away, the sun a dull orange disc, and masks on every face.",
-     "story_md": "**PM2.5**, particles smaller than 2.5 microns, is the main killer. On bad days in November, levels have reached **over 30 times** the WHO's 24-hour guideline. In **November 2017**, United Airlines briefly suspended flights to Delhi; in **2019** the government declared a public health emergency and handed out masks to schoolchildren. Responses include the **Graded Response Action Plan (GRAP)**, odd-even car rationing trials in 2016 and 2019, two experimental **smog towers** in 2021, and bans on firecrackers that are widely ignored. The emissions mix shifts by week: in late October and early November, farm fires can contribute more than a third of PM2.5 on some days.",
+     "story_md": "**PM2.5**, particles smaller than 2.5 microns, is the main killer. On bad days in November, levels have reached **over 30 times** the WHO's 24-hour guideline. In **November 2017**, United Airlines briefly suspended flights to Delhi; in **2019** the government declared a public health emergency and handed out masks to schoolchildren. Responses include the **Graded Response Action Plan (GRAP)**, odd-even car rationing trials in 2016 and 2019, two experimental **smog towers** in 2021, and bans on firecrackers that are widely ignored.",
      "why_it_matters": "It is one of the biggest public health problems in any city on Earth.",
      "memory_hook": "Breathe in, and you have smoked a few cigarettes.",
      "source_ids": [
@@ -2161,7 +2025,7 @@
       "vid_india_gate"
      ],
      "spot_it": "A bearded batsman with a fierce glare and a tattooed arm, celebrating a century with a roar.",
-     "story_md": "Kohli grew up in **Uttam Nagar** and **Paschim Vihar** and trained at the **West Delhi Cricket Academy** under **Rajkumar Sharma**. In **December 2006**, aged 18, he batted for Delhi in a Ranji match the morning after his father's death, scored 90 and then went to the cremation. He led India to the Under-19 World Cup in **2008**. He has scored more than **80 international centuries**, second only to Sachin Tendulkar, and holds the record for most ODI hundreds. He retired from T20 internationals after India's **2024** World Cup win and from Tests in **May 2025**. The Arun Jaitley Stadium in Delhi has a stand named after him.",
+     "story_md": "Kohli grew up in **Uttam Nagar** and **Paschim Vihar** and trained at the **West Delhi Cricket Academy** under **Rajkumar Sharma**. In **December 2006**, aged 18, he batted for Delhi in a Ranji match the morning after his father's death, scored 90 and then went to the cremation. He led India to the Under-19 World Cup in **2008**. He has scored more than **80 international centuries**, second only to Sachin Tendulkar, and holds the record for most ODI hundreds. He retired from T20 internationals after India's **2024** World Cup win and from Tests in **May 2025**.",
      "why_it_matters": "He made a West Delhi street swagger into a national style.",
      "memory_hook": "Batted on the morning of his father's death, and kept batting for two decades.",
      "source_ids": [
@@ -2304,7 +2168,7 @@
      ],
      "media_ids": [],
      "spot_it": "A long, narrow stone step-well with 103 steps descending between arched walls, hidden among office towers.",
-     "story_md": "Agrasen ki Baoli is a **60 m long**, **15 m wide** stepped well whose **103 steps** lead down to a water level that has mostly dried up. Tradition credits the legendary king **Agrasen**, ancestor of the Agrawal community, but the present structure is thought to date from the Tughlaq or Lodi period. It was nearly forgotten until films and Instagram rediscovered it: *PK* (2014) and *Sultan* (2016) were shot here. Urban legends about haunting and dark water drawing people in made it a favourite for ghost-hunting students. It is cool at the bottom even in May.",
+     "story_md": "Agrasen ki Baoli is a **60 m long**, **15 m wide** stepped well whose **103 steps** lead down to a water level that has mostly dried up. Tradition credits the legendary king **Agrasen**, ancestor of the Agrawal community, but the present structure is thought to date from the Tughlaq or Lodi period. It was nearly forgotten until films and Instagram rediscovered it: *PK* (2014) and *Sultan* (2016) were shot here. Urban legends about haunting and dark water drawing people in made it a favourite for ghost-hunting students.",
      "why_it_matters": "It is a reminder that Delhi once stored rainwater in public architecture.",
      "memory_hook": "A hundred steps down, into the 14th century, five minutes from CP.",
      "source_ids": [
@@ -2326,35 +2190,12 @@
      ],
      "media_ids": [],
      "spot_it": "A formal park of axial water channels and lawns, with restored Mughal tombs, a lotus pond and a bonsai house.",
-     "story_md": "This 36-hectare garden was a Mughal grove, then a British nursery that raised trees for New Delhi's avenues from about **1913**. The Aga Khan Trust for Culture restored it over about a decade, rebuilding **15 monuments**, including the **Sunderwala Burj** and **Lakkarwala Burj**, and planting some **300 species** of trees. It opened to the public in **2018**. With its mughal-style axes and bird life, it became Delhi's favourite new park, a weekend venue for food markets and picnics. Together with Humayun's Tomb and Nizamuddin Basti next door, it forms one of the largest heritage-led renewal projects in India.",
+     "story_md": "This 36-hectare garden was a Mughal grove, then a British nursery that raised trees for New Delhi's avenues from about **1913**. The Aga Khan Trust for Culture restored it over about a decade, rebuilding **15 monuments**, including the **Sunderwala Burj** and **Lakkarwala Burj**, and planting some **300 species** of trees. It opened to the public in **2018**. With its mughal-style axes and bird life, it became Delhi's favourite new park, a weekend venue for food markets and picnics.",
      "why_it_matters": "It shows how restoration can create new public space in a crowded city.",
      "memory_hook": "A nursery for New Delhi's trees became a park of its own.",
      "source_ids": [
       "wiki_sunder",
       "akdn_humayun"
-     ]
-    },
-    {
-     "id": "jamali_kamali",
-     "kind": "monument",
-     "name": "Jamali Kamali",
-     "where": {
-      "label": "Mehrauli Archaeological Park",
-      "lat": 28.5214,
-      "lon": 77.1867
-     },
-     "when": "Mosque 1528 to 1529; tomb 1535",
-     "image_ids": [
-      "img_jamali"
-     ],
-     "media_ids": [],
-     "spot_it": "A red sandstone mosque with a five-arched front, and a small flat-roofed tomb nearby with a painted plaster ceiling.",
-     "story_md": "**Jamali** was the pen name of **Shaikh Fazlullah**, a Sufi poet who served the Lodi sultans, Babur and Humayun. His tomb holds two graves: his and that of a man named **Kamali**, about whom history records nothing. The pairing has prompted endless speculation, from close disciple to lover, none provable. The tomb's ceiling is among the finest surviving painted plaster in Delhi, with Persian verses by Jamali himself. The site is also one of Delhi's most famous 'haunted' places, a reputation built on folklore, not evidence. It is free to enter and usually almost empty.",
-     "why_it_matters": "It holds early Mughal art and one of Delhi's oldest open questions.",
-     "memory_hook": "Two graves, one poet, one mystery.",
-     "source_ids": [
-      "wiki_jamali",
-      "wiki_mehrauli"
      ]
     }
    ],
@@ -2435,7 +2276,7 @@
      ],
      "media_ids": [],
      "spot_it": "A vast curving convention centre shaped like a conch shell, with a giant bronze Nataraja statue at its entrance.",
-     "story_md": "Built on the site of the old **Pragati Maidan** exhibition halls, including the much-loved 1972 **Hall of Nations** demolished in 2017 despite architects' protests, **Bharat Mandapam** opened in **July 2023**. Its shape is said to be inspired by the **shankh**, the conch shell. It hosted the **G20 summit** of **September 2023**, where the African Union joined as a permanent member. At its entrance stands a **27-foot** Nataraja statue made by sculptors of Swamimalai in Tamil Nadu, said to be the world's tallest. It is now Delhi's main venue for summits, trade fairs and the World Book Fair.",
+     "story_md": "Built on the site of the old **Pragati Maidan** exhibition halls, including the much-loved 1972 **Hall of Nations** demolished in 2017 despite architects' protests, **Bharat Mandapam** opened in **July 2023**. Its shape is said to be inspired by the **shankh**, the conch shell. It hosted the **G20 summit** of **September 2023**, where the African Union joined as a permanent member. At its entrance stands a **27-foot** Nataraja statue made by sculptors of Swamimalai in Tamil Nadu, said to be the world's tallest.",
      "why_it_matters": "It is the stage on which India now hosts the world.",
      "memory_hook": "A conch-shaped hall, a 27-foot dancing Shiva, and the G20.",
      "source_ids": [
@@ -2763,19 +2604,6 @@
    "image_id": "img_black_kite"
   },
   {
-   "id": "c_asola",
-   "type": "fact",
-   "front": "Which big cat lives in Asola Bhatti sanctuary?",
-   "back": "The leopard.",
-   "source_ids": [
-    "wiki_asola"
-   ],
-   "section_id": "land",
-   "spotlight_id": "asola",
-   "core": false,
-   "image_id": "img_asola"
-  },
-  {
    "id": "c_purana",
    "type": "image",
    "front": "Name this fort and the emperor who died on its library stairs.",
@@ -2813,19 +2641,6 @@
    "spotlight_id": "tughlaqabad",
    "core": false,
    "image_id": "img_tughlaqabad"
-  },
-  {
-   "id": "c_hauzkhas",
-   "type": "fact",
-   "front": "What does 'Hauz Khas' mean?",
-   "back": "Royal tank: Alauddin Khalji's reservoir, about 1295.",
-   "source_ids": [
-    "wiki_hauzkhas"
-   ],
-   "section_id": "sultanate",
-   "spotlight_id": "hauz_khas",
-   "core": false,
-   "image_id": "img_hauz_khas"
   },
   {
    "id": "c_khusrau",
@@ -3032,19 +2847,6 @@
    "spotlight_id": "delhi_metro",
    "core": false,
    "image_id": "img_metro"
-  },
-  {
-   "id": "c_dillihaat",
-   "type": "fact",
-   "front": "How long does an artisan's stall at Dilli Haat last?",
-   "back": "Usually about 15 days, on rotation.",
-   "source_ids": [
-    "wiki_dillihaat"
-   ],
-   "section_id": "daily_life",
-   "spotlight_id": "dilli_haat",
-   "core": false,
-   "image_id": "img_dilli_haat"
   },
   {
    "id": "c_khari",
@@ -4507,21 +4309,6 @@
    "caption": "A black kite above Lodhi Garden."
   },
   {
-   "id": "img_asola",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Rhesus_Macaque_Mother_with_Infant_at_Asola_Bhatti_Wildlife_Sanctuary.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rhesus_Macaque_Mother_with_Infant_at_Asola_Bhatti_Wildlife_Sanctuary.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Rhesus_Macaque_Mother_with_Infant_at_Asola_Bhatti_Wildlife_Sanctuary.jpg/1280px-Rhesus_Macaque_Mother_with_Infant_at_Asola_Bhatti_Wildlife_Sanctuary.jpg",
-   "width": 6000,
-   "height": 4000,
-   "author": "Gannu03",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "attribution": "Photo: Gannu03, CC BY-SA 4.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Rhesus macaque mother with infant in Asola Bhatti sanctuary",
-   "caption": "Rhesus macaques in Asola Bhatti Wildlife Sanctuary."
-  },
-  {
    "id": "img_purana_qila",
    "file_page": "https://commons.wikimedia.org/wiki/File:Purana_Qila,_Delhi_2.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Purana_Qila%2C_Delhi_2.jpg",
@@ -4625,21 +4412,6 @@
    "verified_on": "2026-10-25",
    "alt": "Sloping rubble walls and bastions of Tughlaqabad Fort",
    "caption": "Tughlaqabad Fort's walls."
-  },
-  {
-   "id": "img_hauz_khas",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Hauz_Khas_Madrasa_and_tomb_complex_from_across_the_Hauz_Khas_tank_(3546826317).jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hauz_Khas_Madrasa_and_tomb_complex_from_across_the_Hauz_Khas_tank_%283546826317%29.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Hauz_Khas_Madrasa_and_tomb_complex_from_across_the_Hauz_Khas_tank_%283546826317%29.jpg/1280px-Hauz_Khas_Madrasa_and_tomb_complex_from_across_the_Hauz_Khas_tank_%283546826317%29.jpg",
-   "width": 2048,
-   "height": 1536,
-   "author": "Varun Shiv Kapur from New Delhi, India",
-   "license": "CC BY 2.0",
-   "license_url": "https://creativecommons.org/licenses/by/2.0",
-   "attribution": "Photo: Varun Shiv Kapur from New Delhi, India, CC BY 2.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Domed madrasa and tomb pavilions across the Hauz Khas lake",
-   "caption": "Hauz Khas madrasa and tank."
   },
   {
    "id": "img_qawwali",
@@ -4880,21 +4652,6 @@
    "verified_on": "2026-10-25",
    "alt": "George V and Queen Mary on a raised dais at the 1911 Delhi Durbar",
    "caption": "The Delhi Durbar, 12 December 1911."
-  },
-  {
-   "id": "img_lutyens",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Sir_Edwin_Lutyens_1.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Sir_Edwin_Lutyens_1.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Sir_Edwin_Lutyens_1.jpg/1280px-Sir_Edwin_Lutyens_1.jpg",
-   "width": 2355,
-   "height": 2971,
-   "author": "Sjukmidlands",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "attribution": "Photo: Sjukmidlands, CC BY-SA 4.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Portrait bust of the architect Edwin Lutyens",
-   "caption": "Edwin Lutyens, portrait bust."
   },
   {
    "id": "img_cp",
@@ -5152,36 +4909,6 @@
    "caption": "Chole bhature."
   },
   {
-   "id": "img_momos",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Momos,_New_Delhi.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Momos%2C_New_Delhi.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Momos%2C_New_Delhi.jpg/1280px-Momos%2C_New_Delhi.jpg",
-   "width": 4160,
-   "height": 2717,
-   "author": "Kxnyshk",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "attribution": "Photo: Kxnyshk, CC BY-SA 4.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Plate of steamed momos with red chutney in New Delhi",
-   "caption": "Steamed momos."
-  },
-  {
-   "id": "img_momos2",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Veg_tandoori_momos_at_Hunger_Strike,_Amar_Colony,_Delhi,_India..jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Veg_tandoori_momos_at_Hunger_Strike%2C_Amar_Colony%2C_Delhi%2C_India..jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Veg_tandoori_momos_at_Hunger_Strike%2C_Amar_Colony%2C_Delhi%2C_India..jpg/1280px-Veg_tandoori_momos_at_Hunger_Strike%2C_Amar_Colony%2C_Delhi%2C_India..jpg",
-   "width": 4096,
-   "height": 3072,
-   "author": "Contrapunctus-1",
-   "license": "CC0",
-   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-   "attribution": "Photo: Contrapunctus-1, CC0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Tandoori momos with a charred orange coating",
-   "caption": "Tandoori momos, a Delhi invention."
-  },
-  {
    "id": "img_phool",
    "file_page": "https://commons.wikimedia.org/wiki/File:Flower_bedecked_panka_presented_during_Phool_Walon_Ki_Sair_festival.JPG",
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flower_bedecked_panka_presented_during_Phool_Walon_Ki_Sair_festival.JPG",
@@ -5272,36 +4999,6 @@
    "caption": "A CNG auto-rickshaw near Rashtrapati Bhavan."
   },
   {
-   "id": "img_dilli_haat",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Dilli_Haat_2024.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Dilli_Haat_2024.jpg",
-   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Dilli_Haat_2024.jpg",
-   "width": 1080,
-   "height": 1920,
-   "author": "Iloveplantsforever",
-   "license": "CC0",
-   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-   "attribution": "Photo: Iloveplantsforever, CC0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Courtyard and stalls of Dilli Haat",
-   "caption": "Dilli Haat, INA."
-  },
-  {
-   "id": "img_dilli_haat2",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Dilli_Haat_Sarangi_Making.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Dilli_Haat_Sarangi_Making.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dilli_Haat_Sarangi_Making.jpg/1280px-Dilli_Haat_Sarangi_Making.jpg",
-   "width": 3888,
-   "height": 2592,
-   "author": "Pallav.journo",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "attribution": "Photo: Pallav.journo, CC BY-SA 4.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Craftsman making a sarangi at a Dilli Haat stall",
-   "caption": "Sarangi making at Dilli Haat."
-  },
-  {
    "id": "img_khari",
    "file_page": "https://commons.wikimedia.org/wiki/File:Khari_baoli,Delhi.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Khari_baoli%2CDelhi.jpg",
@@ -5330,21 +5027,6 @@
    "verified_on": "2026-10-25",
    "alt": "Shop selling heaps of spices at Khari Baoli",
    "caption": "Spices by the sack."
-  },
-  {
-   "id": "img_azadpur",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Eicher_Truck_at_Azadpur_Vegetable_Market.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Eicher_Truck_at_Azadpur_Vegetable_Market.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Eicher_Truck_at_Azadpur_Vegetable_Market.jpg/1280px-Eicher_Truck_at_Azadpur_Vegetable_Market.jpg",
-   "width": 1368,
-   "height": 1920,
-   "author": "Prateek Rungta from Delhi, India",
-   "license": "CC BY 2.0",
-   "license_url": "https://creativecommons.org/licenses/by/2.0",
-   "attribution": "Photo: Prateek Rungta from Delhi, India, CC BY 2.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Truck unloading at Azadpur vegetable market",
-   "caption": "Azadpur Mandi."
   },
   {
    "id": "img_nehru_place",
@@ -5497,36 +5179,6 @@
    "caption": "103 steps down."
   },
   {
-   "id": "img_rajghat",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Raj_Ghat_Delhi_India.JPG",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Raj_Ghat_Delhi_India.JPG",
-   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Raj_Ghat_Delhi_India.JPG",
-   "width": 1280,
-   "height": 960,
-   "author": "Shahnoor Habib Munmun",
-   "license": "CC BY 3.0",
-   "license_url": "https://creativecommons.org/licenses/by/3.0",
-   "attribution": "Photo: Shahnoor Habib Munmun, CC BY 3.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Black marble platform of Raj Ghat with an eternal flame",
-   "caption": "Raj Ghat, Gandhi's memorial."
-  },
-  {
-   "id": "img_safdarjung",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Tomb_of_Safdarjung,_New_Delhi.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tomb_of_Safdarjung%2C_New_Delhi.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Tomb_of_Safdarjung%2C_New_Delhi.jpg/1280px-Tomb_of_Safdarjung%2C_New_Delhi.jpg",
-   "width": 4752,
-   "height": 3168,
-   "author": "Pranav Singh",
-   "license": "CC BY-SA 3.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-   "attribution": "Photo: Pranav Singh, CC BY-SA 3.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Safdarjung's Tomb with its domed mausoleum",
-   "caption": "Safdarjung's Tomb, 1754."
-  },
-  {
    "id": "img_nizamuddin2",
    "file_page": "https://commons.wikimedia.org/wiki/File:A_Glimpse_of_Nizamuddin_Auliya%27s_Tomb.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/A_Glimpse_of_Nizamuddin_Auliya%27s_Tomb.jpg",
@@ -5645,21 +5297,6 @@
    "verified_on": "2026-10-25",
    "alt": "Sunder Nursery with Mughal tomb and lawns",
    "caption": "Sunder Nursery."
-  },
-  {
-   "id": "img_jamali",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Jamali_Kamali_mosque1.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Jamali_Kamali_mosque1.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Jamali_Kamali_mosque1.jpg/1280px-Jamali_Kamali_mosque1.jpg",
-   "width": 2048,
-   "height": 1536,
-   "author": "Varun Shiv Kapur",
-   "license": "CC BY 2.0",
-   "license_url": "https://creativecommons.org/licenses/by/2.0",
-   "attribution": "Photo: Varun Shiv Kapur, CC BY 2.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Jamali Kamali mosque in Mehrauli",
-   "caption": "Jamali Kamali mosque."
   },
   {
    "id": "img_old_parliament",
@@ -6695,35 +6332,34 @@
    "fact": "The Iron Pillar in the Qutb complex was cast about 1,600 years ago and has stood in the open ever since with barely any rust; scientists traced the secret to unusually high phosphorus that lets a protective film form.",
    "why_surprising": "Ancient smiths beat a problem modern steelmakers still pay to solve.",
    "score": 10,
-   "spotlight_id": "iron_pillar",
    "source_ids": [
     "wiki_iron_pillar",
     "balasub_pillar"
-   ]
+   ],
+   "spotlight_id": "iron_pillar"
   },
   {
    "fact": "Delhi's black kites thrive partly because people in Old Delhi throw meat into the air for them as charity, giving the city one of the densest populations of large raptors of any city on Earth.",
    "why_surprising": "A megacity's top predator is fed by ritual.",
    "score": 9,
-   "spotlight_id": "black_kite",
    "source_ids": [
     "wiki_kite"
-   ]
+   ],
+   "spotlight_id": "black_kite"
   },
   {
    "fact": "In 1356 Firoz Shah Tughlaq moved a 13 m Ashokan pillar 200 km to Delhi on a 42-wheeled cart and by river, though nobody at his court could read it; the script was deciphered only in 1837.",
    "why_surprising": "A sultan collected an antique he could not read.",
    "score": 9,
-   "spotlight_id": "topra_pillar",
    "source_ids": [
     "wiki_topra"
-   ]
+   ],
+   "spotlight_id": "topra_pillar"
   },
   {
    "fact": "The Muslim share of Delhi's population fell from about 33% in 1941 to under 6% in 1951, while the city's population almost doubled with Partition refugees.",
    "why_surprising": "One decade rewrote the city's makeup.",
    "score": 9,
-   "spotlight_id": null,
    "source_ids": [
     "wiki_delhi",
     "wiki_partition_delhi"
@@ -6733,88 +6369,87 @@
    "fact": "Every Thursday people leave written letters to djinns in the ruins of Feroz Shah Kotla, asking for jobs, cures and love.",
    "why_surprising": "A 14th-century ruin works as a post office for spirits.",
    "score": 8,
-   "spotlight_id": "topra_pillar",
    "source_ids": [
     "wiki_kotla"
-   ]
+   ],
+   "spotlight_id": "topra_pillar"
   },
   {
    "fact": "Humayun, the second Mughal emperor, died after falling down the steep stairs of his own library in the Purana Qila in 1556.",
    "why_surprising": "An emperor who won back an empire was undone by a staircase.",
    "score": 8,
-   "spotlight_id": "purana_qila",
    "source_ids": [
     "wiki_purana"
-   ]
+   ],
+   "spotlight_id": "purana_qila"
   },
   {
    "fact": "Two Delhi restaurant families are fighting in the Delhi High Court over who invented butter chicken and dal makhani, with ₹2 crore in damages claimed.",
    "why_surprising": "A curry is the subject of an intellectual property suit.",
    "score": 8,
-   "spotlight_id": "butter_chicken",
    "source_ids": [
     "dh_butter"
-   ]
+   ],
+   "spotlight_id": "butter_chicken"
   },
   {
    "fact": "Daulat ki chaat, an Old Delhi winter dessert, is hand-whipped milk foam traditionally set by night dew and sold only until the sun melts it.",
    "why_surprising": "A dessert made with weather.",
    "score": 8,
-   "spotlight_id": "daulat_ki_chaat",
    "source_ids": [
     "wiki_daulat"
-   ]
+   ],
+   "spotlight_id": "daulat_ki_chaat"
   },
   {
    "fact": "The Supreme Court, not the government, forced every Delhi bus, auto and taxi to switch to CNG in 1998, creating one of the world's largest CNG fleets by 2002.",
    "why_surprising": "Judges, not ministers, repainted the city's autos.",
    "score": 8,
-   "spotlight_id": "cng_auto",
    "source_ids": [
     "wiki_cng_delhi"
-   ]
+   ],
+   "spotlight_id": "cng_auto"
   },
   {
    "fact": "A Jain temple opposite the Red Fort has run a hospital for birds since 1929.",
    "why_surprising": "A Mughal-era temple keeps an ICU for pigeons.",
    "score": 8,
-   "spotlight_id": "jain_bird_hospital",
    "source_ids": [
     "wiki_jainbirds"
-   ]
+   ],
+   "spotlight_id": "jain_bird_hospital"
   },
   {
    "fact": "Delhi covers about 2% of the Yamuna's length but is estimated to contribute about 76% of its pollution load.",
    "why_surprising": "A tiny stretch does most of the damage.",
    "score": 8,
-   "spotlight_id": "yamuna",
    "source_ids": [
     "isas_yamuna"
-   ]
+   ],
+   "spotlight_id": "yamuna"
   },
   {
    "fact": "Bahadur Shah Zafar, the last Mughal emperor, was exiled to Rangoon and buried in an unmarked grave that was found only in 1991.",
    "why_surprising": "The last of the Mughals lay lost for 129 years.",
    "score": 8,
-   "spotlight_id": "bahadur_shah_zafar",
    "source_ids": [
     "wiki_zafar"
-   ]
+   ],
+   "spotlight_id": "bahadur_shah_zafar"
   },
   {
    "fact": "The crown George V wore at the 1911 Delhi Durbar was made specially because British law forbade the coronation crown from leaving the country; it holds more than 6,000 diamonds.",
    "why_surprising": "An empire needed a travel crown.",
    "score": 7,
-   "spotlight_id": "delhi_durbar",
    "source_ids": [
     "wiki_durbar"
-   ]
+   ],
+   "spotlight_id": "delhi_durbar"
   },
   {
    "fact": "Lutyens lost a bitter argument with Herbert Baker over the slope of Raisina Hill, which hides the Viceroy's House as you approach; he called it his 'Bakerloo'.",
    "why_surprising": "India's grandest vista has a design flaw born of a quarrel.",
    "score": 7,
-   "spotlight_id": "lutyens",
    "source_ids": [
     "wiki_lutyens"
    ]
@@ -6823,7 +6458,6 @@
    "fact": "Leopards live in Asola Bhatti Wildlife Sanctuary, in old quarry land inside Delhi's borders.",
    "why_surprising": "A city of 22 million still has a big cat.",
    "score": 7,
-   "spotlight_id": "asola",
    "source_ids": [
     "wiki_asola"
    ]
@@ -6832,7 +6466,6 @@
    "fact": "Delhi's October 2025 cloud-seeding trials produced no measurable rain because the clouds held only about 15 to 20% moisture.",
    "why_surprising": "You cannot seed rain from dry air.",
    "score": 6,
-   "spotlight_id": null,
    "source_ids": [
     "wion_cloud",
     "bs_cloud"
