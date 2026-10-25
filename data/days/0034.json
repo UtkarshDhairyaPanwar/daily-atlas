@@ -1393,6 +1393,7 @@
      "when": "Traditionally 11th century",
      "image_ids": [
       "img_lamayuru",
+      "img_moonland",
       "img_lamayuru2"
      ],
      "media_ids": [],
@@ -1525,7 +1526,8 @@
      "when": "10th day of the 5th Tibetan month, June or July",
      "image_ids": [
       "img_cham",
-      "img_cham2"
+      "img_cham2",
+      "img_cham3"
      ],
      "media_ids": [
       "vid_cham",
@@ -1575,7 +1577,8 @@
      },
      "when": "Every June since 1997",
      "image_ids": [
-      "img_shey"
+      "img_sindhu",
+      "img_sindhu2"
      ],
      "media_ids": [],
      "spot_it": "Rows of white tents and pilgrims in Indian state dress offering water and prayers on the stony bank of the Indus.",
@@ -1873,7 +1876,10 @@
       "lon": 77.58
      },
      "when": "Mid-December to mid-February",
-     "image_ids": [],
+     "image_ids": [
+      "img_hockey",
+      "img_hockey2"
+     ],
      "media_ids": [],
      "spot_it": "Players in mixed kit and helmets on a natural ice rink below brown mountains, with crowds standing round in down jackets.",
      "story_md": "**Ice hockey** is Ladakh's most popular sport, played on natural ice from about mid-December to mid-February, when ponds and flooded fields freeze. Ladakhis have played it since at least the 1970s, often with second-hand kit and on ice they flood and smooth themselves. Leh's teams dominate India's national championships, and the **Ladakh women's team** has represented India abroad. The first **Khelo India Winter Games** were held in Ladakh and Gulmarg in **2020**. An indoor rink in Leh with artificial ice is meant to lengthen the season as winters warm.",
@@ -2167,6 +2173,7 @@
      },
      "when": "From 1974; past 500,000 a year by 2022",
      "image_ids": [
+      "img_bikers",
       "img_pangong3",
       "img_pangong4"
      ],
@@ -2821,7 +2828,7 @@
   },
   {
    "id": "c_lamayuru",
-   "type": "fact",
+   "type": "image",
    "front": "What is Moonland?",
    "back": "The eroded ancient lake sediments around Lamayuru.",
    "source_ids": [
@@ -2829,7 +2836,8 @@
    ],
    "section_id": "faith",
    "spotlight_id": "lamayuru",
-   "core": false
+   "core": false,
+   "image_id": "img_moonland"
   },
   {
    "id": "c_diskit",
@@ -5646,6 +5654,111 @@
    "verified_on": "2026-10-25",
    "alt": "Masked dancers at the Dosmoche festival, Leh",
    "caption": "Masked dances at Dosmoche, Leh, 2018."
+  },
+  {
+   "id": "img_sindhu",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Sindhu_Darshan_festival,_India.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sindhu_Darshan_festival%2C_India.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Sindhu_Darshan_festival%2C_India.jpg/1280px-Sindhu_Darshan_festival%2C_India.jpg",
+   "width": 6000,
+   "height": 3974,
+   "author": "Peter Olshevsky",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Peter Olshevsky, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Gathering at the Sindhu Darshan festival on the Indus bank",
+   "caption": "Sindhu Darshan festival."
+  },
+  {
+   "id": "img_sindhu2",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Leh_2011_Ladkh_people_(6908391259).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Leh_2011_Ladkh_people_%286908391259%29.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Leh_2011_Ladkh_people_%286908391259%29.jpg/1280px-Leh_2011_Ladkh_people_%286908391259%29.jpg",
+   "width": 5184,
+   "height": 3456,
+   "author": "Saad Faruque from Bangalore, India",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "attribution": "Photo: Saad Faruque from Bangalore, India, CC BY 2.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Ladakhi drummers at the Sindhu ghat during Sindhu Darshan",
+   "caption": "Ladakhi musicians at the Sindhu ghat, 2011."
+  },
+  {
+   "id": "img_moonland",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Lamayuru_Monastery_with_Moonland_in_the_Background.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lamayuru_Monastery_with_Moonland_in_the_Background.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Lamayuru_Monastery_with_Moonland_in_the_Background.jpg/1280px-Lamayuru_Monastery_with_Moonland_in_the_Background.jpg",
+   "width": 4150,
+   "height": 2356,
+   "author": "Kushaldonde",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Kushaldonde, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Lamayuru monastery with pale eroded Moonland behind",
+   "caption": "Lamayuru and Moonland."
+  },
+  {
+   "id": "img_bikers",
+   "file_page": "https://commons.wikimedia.org/wiki/File:The_world%27s_highest_motorable_claim-_Khardung_La_Pass.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/The_world%27s_highest_motorable_claim-_Khardung_La_Pass.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/The_world%27s_highest_motorable_claim-_Khardung_La_Pass.jpg/1280px-The_world%27s_highest_motorable_claim-_Khardung_La_Pass.jpg",
+   "width": 3064,
+   "height": 5456,
+   "author": "Ashishyadav.photographs",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Ashishyadav.photographs, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Motorbikes and visitors crowding the Khardung La summit",
+   "caption": "Riders at the Khardung La summit sign."
+  },
+  {
+   "id": "img_hockey",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Local_Ice_Hockey_tournament_in_Leh,_Ladakh.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Local_Ice_Hockey_tournament_in_Leh%2C_Ladakh.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Local_Ice_Hockey_tournament_in_Leh%2C_Ladakh.jpg/1280px-Local_Ice_Hockey_tournament_in_Leh%2C_Ladakh.jpg",
+   "width": 2268,
+   "height": 4032,
+   "author": "Stanzin1945",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Photo: Stanzin1945, CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Local teams playing ice hockey on an outdoor rink in Leh",
+   "caption": "A local ice hockey tournament in Leh."
+  },
+  {
+   "id": "img_hockey2",
+   "file_page": "https://commons.wikimedia.org/wiki/File:The_world%27s_luckiest_ice_hockey_team_..._(49468341237).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/The_world%27s_luckiest_ice_hockey_team_..._%2849468341237%29.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_world%27s_luckiest_ice_hockey_team_..._%2849468341237%29.jpg/1280px-The_world%27s_luckiest_ice_hockey_team_..._%2849468341237%29.jpg",
+   "width": 6048,
+   "height": 4024,
+   "author": "Alosh Bennett from Hyderabad, India",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "attribution": "Photo: Alosh Bennett from Hyderabad, India, CC BY 2.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Ice hockey at the winter sports ground in Leh below mountains",
+   "caption": "Ice hockey at Leh's winter sports ground."
+  },
+  {
+   "id": "img_cham3",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Cham_dance_during_Dosmoche_festival_in_Leh_Palace_DSCN5689_1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Cham_dance_during_Dosmoche_festival_in_Leh_Palace_DSCN5689_1.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Cham_dance_during_Dosmoche_festival_in_Leh_Palace_DSCN5689_1.jpg/1280px-Cham_dance_during_Dosmoche_festival_in_Leh_Palace_DSCN5689_1.jpg",
+   "width": 2852,
+   "height": 2000,
+   "author": "Sumita Roy Dutta",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Sumita Roy Dutta, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Masked cham dancers at Leh Palace",
+   "caption": "Cham at Leh Palace during Dosmoche."
   }
  ],
  "media": [
@@ -6601,12 +6714,6 @@
    "claim": "Photo of The Changpa nomads",
    "status": "no_image",
    "spotlight_id": "changpa",
-   "note": "No correct, openly licensed photo was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of Ice hockey on frozen ponds",
-   "status": "no_image",
-   "spotlight_id": "ice_hockey",
    "note": "No correct, openly licensed photo was found on Wikimedia Commons; left blank rather than use a wrong one."
   },
   {
