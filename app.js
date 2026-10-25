@@ -435,6 +435,38 @@ function bindImages(root, d) {
   });
 }
 
+
+// ---------- Feel: press state, sound, haptics ----------
+const PRESSABLE = ".btn,.press,.opt,.qk,.node,.area-chips button,.gcard,.today-card,.lib-item,.step,.photos button,.cmp button,.tabbar a,[data-surprise]";
+let actx = null;
+function tone(kind) {
+  if (S.settings.sound === false) return;
+  try {
+    actx ||= new (window.AudioContext || window.webkitAudioContext)();
+    const t = actx.currentTime, g = actx.createGain(); g.connect(actx.destination);
+    const note = (f1, f2, start, dur, vol, type = "sine") => { const o = actx.createOscillator(), gg = actx.createGain(); o.type = type; o.frequency.setValueAtTime(f1, t + start); o.frequency.exponentialRampToValueAtTime(f2, t + start + dur); gg.gain.setValueAtTime(0.0001, t + start); gg.gain.exponentialRampToValueAtTime(vol, t + start + 0.008); gg.gain.exponentialRampToValueAtTime(0.0001, t + start + dur); o.connect(gg); gg.connect(g); o.start(t + start); o.stop(t + start + dur + 0.02); };
+    if (kind === "tap") note(320, 140, 0, 0.05, 0.08, "triangle");
+    else if (kind === "right") { note(660, 660, 0, 0.12, 0.12); note(990, 990, 0.09, 0.18, 0.12); }
+    else if (kind === "wrong") note(150, 90, 0, 0.22, 0.12, "square");
+    else if (kind === "stamp") { note(120, 60, 0, 0.18, 0.2, "triangle"); note(880, 1320, 0.12, 0.25, 0.08); }
+  } catch (e) {}
+}
+// iOS 18+ Safari gives a haptic tick when a switch checkbox toggles; Android uses vibrate.
+const hapticLabel = (() => { const l = document.createElement("label"); l.id = "haptic"; l.innerHTML = '<input type="checkbox" switch>'; document.body.appendChild(l); return l; })();
+function haptic(ms = 8) {
+  if (S.settings.haptics === false) return;
+  try { if (navigator.vibrate) navigator.vibrate(ms); else hapticLabel.click(); } catch (e) {}
+}
+function feel(kind) { tone(kind); haptic(kind === "wrong" ? [12, 40, 12] : kind === "right" ? [10, 30, 18] : 8); }
+let pressed = null, pressedAt = 0;
+document.addEventListener("pointerdown", e => {
+  const el = e.target.closest(PRESSABLE); if (!el || el.disabled) return;
+  pressed = el; pressedAt = performance.now(); el.classList.add("is-pressed"); feel("tap");
+}, { passive: true });
+const release = () => { if (!pressed) return; const el = pressed; pressed = null; const wait = Math.max(0, 70 - (performance.now() - pressedAt)); setTimeout(() => el.classList.remove("is-pressed"), wait); };
+["pointerup", "pointercancel", "pointerleave", "scroll"].forEach(ev => document.addEventListener(ev, release, { passive: true, capture: true }));
+document.addEventListener("touchstart", () => {}, { passive: true }); // lets :active work on iOS
+
 // ---------- quiz engine ----------
 // render(item, d, el, done(correct)) handles every quiz type in the schema.
 function quizImg(d, id, w = 960) { const i = d._img[id]; return i ? `<div class="qimg"><img src="${esc(imgUrl(i, w))}" alt="${esc(i.alt)}"></div>${credit(i)}` : ""; }
@@ -448,7 +480,7 @@ function renderQuiz(item, d, el, done) {
   const type = item.type;
   const head = `<div class="q"><div class="prompt">${esc(item.prompt || item.statement || "")}</div>`;
   let answered = false;
-  const finish = (ok, extra) => { if (answered) return; answered = true; feedback(el.querySelector(".q"), ok, item, d, extra); done(ok); };
+  const finish = (ok, extra) => { if (answered) return; answered = true; feel(ok ? "right" : "wrong"); feedback(el.querySelector(".q"), ok, item, d, extra); done(ok); };
 
   if (["mcq", "odd_one_out", "image_id", "listen_id"].includes(type) || (type === "guess_clues" && item.options && !item.clues)) {
     const media = type === "listen_id" ? renderMedia(d._media[item.media_id]) : (item.image_id ? quizImg(d, item.image_id) : "");
@@ -980,7 +1012,7 @@ route(/^\/close\/([\w-]+)$/, async id => {
   const items = shuffle((d.quiz || []).filter(q => q.type !== "map_pin" || Math.random() < .5)).slice(0, 10);
   runQuizFlow({ title: `Close · ${entry.title}`, intro: `<div class="eyebrow accent">Close</div><h2 style="margin-top:6px">${items.length} questions, no notes</h2><p class="muted" style="margin-top:8px">The score tells you how much stuck today. Your cards will bring the weak spots back.</p>`,
     items, d, back: "#/today", onAnswer: () => { rec().games++; save(); },
-    onFinish: (r, n) => { p.score = [r, n]; p.completedOn = now(); p.steps.close = true; const f = floor(entry, d); if (f.met) rec().floor = true; save(); ticket(entry, d, true); } });
+    onFinish: (r, n) => { setTimeout(() => feel("stamp"), 350); p.score = [r, n]; p.completedOn = now(); p.steps.close = true; const f = floor(entry, d); if (f.met) rec().floor = true; save(); ticket(entry, d, true); } });
 });
 function ticket(entry, d, fresh = false) {
   const p = P(entry.id);
@@ -1040,6 +1072,8 @@ route(/^\/settings$/, async () => {
     <input class="txt" id="cue" placeholder="After dinner, on the sofa" value="${esc(S.settings.cue)}">
     <div class="set-row"><div class="t"><b>Daily minimum of new cards</b><span>The floor. You can always go past it.</span></div><select id="minnew" class="txt" style="width:90px;min-height:42px">${[10, 15, 20, 25, 30].map(n => `<option ${n === S.settings.minNew ? "selected" : ""}>${n}</option>`).join("")}</select></div>
     <div class="set-row"><div class="t"><b>Theme</b><span>Follows your phone by default</span></div><select id="theme" class="txt" style="width:110px;min-height:42px">${["auto", "light", "dark"].map(n => `<option ${n === S.settings.theme ? "selected" : ""}>${n}</option>`).join("")}</select></div>
+    <div class="set-row"><div class="t"><b>Sounds</b><span>Soft taps, a chime when right, a thud when wrong</span></div><select id="snd" class="txt" style="width:90px;min-height:42px"><option value="1" ${S.settings.sound !== false ? "selected" : ""}>On</option><option value="0" ${S.settings.sound === false ? "selected" : ""}>Off</option></select></div>
+    <div class="set-row"><div class="t"><b>Vibration</b><span>A small tick on every press (Android, iPhone with iOS 18 or later)</span></div><select id="hap" class="txt" style="width:90px;min-height:42px"><option value="1" ${S.settings.haptics !== false ? "selected" : ""}>On</option><option value="0" ${S.settings.haptics === false ? "selected" : ""}>Off</option></select></div>
     <div class="set-row"><div class="t"><b>Back up progress</b><span>Saves a file you can restore from. Do it weekly.</span></div><button class="btn sm" id="exp">Export</button></div>
     <div class="set-row"><div class="t"><b>Restore</b><span>From an exported file</span></div><label class="btn sm">Import<input type="file" accept="application/json" id="imp" hidden></label></div>
     <div class="set-row"><div class="t"><b>Storage</b><span>${esc(est || "unknown")} · ${persisted ? "protected" : "not yet protected"}</span></div>${persisted ? "" : '<button class="btn sm" id="persist">Protect</button>'}</div>
@@ -1050,6 +1084,8 @@ route(/^\/settings$/, async () => {
   $("#cue").oninput = e => { S.settings.cue = e.target.value; save(); };
   $("#minnew").onchange = e => { S.settings.minNew = +e.target.value; save(); };
   $("#theme").onchange = e => { S.settings.theme = e.target.value; applyTheme(); save(); };
+  $("#snd").onchange = e => { S.settings.sound = e.target.value === "1"; save(); };
+  $("#hap").onchange = e => { S.settings.haptics = e.target.value === "1"; save(); };
   $("#exp").onclick = () => { const b = new Blob([JSON.stringify(S)], { type: "application/json" }); const a = document.createElement("a"); a.href = URL.createObjectURL(b); a.download = `daily-atlas-backup-${dStr(now())}.json`; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 2000); };
   $("#imp").onchange = async e => { const f = e.target.files[0]; if (!f) return; try { const j = JSON.parse(await f.text()); if (!j.cards || !j.progress) throw 0; S = Object.assign(fresh(), j); save(); toast("Restored"); go(); } catch (er) { toast("That file is not a Daily Atlas backup"); } };
   const ps = $("#persist"); if (ps) ps.onclick = async () => { const ok = await navigator.storage?.persist?.(); toast(ok ? "Storage protected" : "Your browser said no. Add to Home Screen first."); go(); };
