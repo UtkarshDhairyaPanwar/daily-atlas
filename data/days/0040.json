@@ -355,7 +355,9 @@
       "lon": 4.4857
      },
      "when": "Died 1610, Leiden",
-     "image_ids": [],
+     "image_ids": [
+      "img_ceulen"
+     ],
      "media_ids": [],
      "spot_it": "A memorial plaque in a Leiden church carved with a circle and a long string of digits of pi.",
      "story_md": "**Ludolph van Ceulen**, a German-Dutch fencing master and mathematics teacher, spent much of his life calculating pi by hand, using polygons with more than four quintillion sides. He reached **35 decimal places**, a record for the time, and asked for the digits to be carved on his tombstone in St Peter's Church, Leiden. The original stone was lost; a replica was placed in **2000**. Germans long called pi the *Ludolphine number*. Today computers have computed pi to over a hundred trillion digits, yet about **40 digits** are enough to compute the circumference of the observable universe to within the width of a hydrogen atom.",
@@ -474,7 +476,9 @@
       "lon": 29.6
      },
      "when": "About 20,000 years old (debated)",
-     "image_ids": [],
+     "image_ids": [
+      "img_ishango"
+     ],
      "media_ids": [],
      "spot_it": "A dark baboon fibula about 10 cm long with a sliver of quartz at one end and three columns of grouped notches.",
      "story_md": "Belgian geologist **Jean de Heinzelin** found the bone in **1950** at Ishango, by Lake Edward in what is now the Democratic Republic of the Congo. It carries **168 notches** in three columns. One column groups them as 11, 13, 17 and 19, which are exactly the primes between 10 and 20, and another as 9, 19, 21 and 11. That looks like arithmetic, and the bone is often called the oldest mathematical object. Experts disagree: it may be a tally, a lunar calendar or a coincidence, and the primes reading is widely doubted. The original sits in a vault at the **Royal Belgian Institute of Natural Sciences** in Brussels.",
@@ -560,7 +564,9 @@
       "lon": -71.97
      },
      "when": "Inca empire, 15th to 16th century",
-     "image_ids": [],
+     "image_ids": [
+      "img_quipu"
+     ],
      "media_ids": [],
      "spot_it": "A main cord with dozens of coloured strings hanging from it, each tied with clusters of knots at different heights.",
      "story_md": "The Inca ran an empire of perhaps 10 million people along the Andes with no written script. Accounts were kept on **quipus** (khipu): cords knotted in a **base-10 place system**. Knot type and position give the digits: clusters near the top are hundreds or thousands, lower clusters tens, and the lowest knots units. An empty space works as zero. Trained keepers, the *quipucamayoc*, read them for taxes, census and stores. Spanish chroniclers saw them used to settle disputes. About **1,000** survive. Some may also encode narrative, which nobody has yet cracked.",
@@ -631,7 +637,9 @@
       "lon": 17.12
      },
      "when": "c. 570 to c. 495 BCE",
-     "image_ids": [],
+     "image_ids": [
+      "img_pythagoras"
+     ],
      "media_ids": [],
      "spot_it": "A bearded marble head in a headband, a Roman copy; the face is a guess, since no portrait from life survives.",
      "story_md": "**Pythagoras** ran a community on Croton in southern Italy that mixed mathematics, music and strict rules, including a ban on eating beans. He left no writings, and almost everything about him was written centuries later. The theorem with his name was known long before: Babylonian tablets and India's Shulba Sutras use it. What his followers did push was the idea that **all things are number**, backed by a real discovery: strings whose lengths are in simple ratios like 2:1 and 3:2 sound harmonious. Then came the proof that the square root of 2 is **irrational**. The story that **Hippasus** was drowned for revealing it appears only in late sources.",
@@ -750,7 +758,9 @@
      "kind": "document",
      "name": "The Shulba Sutras",
      "when": "Perhaps 800 to 500 BCE",
-     "image_ids": [],
+     "image_ids": [
+      "img_agnicayana"
+     ],
      "media_ids": [],
      "spot_it": "Ritual instructions in Sanskrit for laying bricks into altars shaped like a falcon, a tortoise or a wheel.",
      "story_md": "Vedic ritual demanded fire altars of exact shapes and areas, built with cords and pegs. The **Shulba Sutras** (*shulba* means cord) give the geometry. **Baudhayana** states that the diagonal of a rectangle produces both areas its sides produce separately: the Pythagorean rule, with examples like 3, 4, 5 and 5, 12, 13. He gives the square root of 2 as 1 + 1/3 + 1/(3x4) minus 1/(3x4x34), which is **577/408**, correct to five decimal places. There are rules to turn a square into a circle of nearly the same area. A man who desires heaven, one text says, should build an altar in the form of a **falcon**.",
@@ -951,7 +961,9 @@
       "lon": 77.59
      },
      "when": "4 November 1929 to 21 April 2013",
-     "image_ids": [],
+     "image_ids": [
+      "img_shakuntala"
+     ],
      "media_ids": [],
      "spot_it": "A smiling woman in a sari beside a blackboard of huge numbers; the 2020 film starring Vidya Balan told her story.",
      "story_md": "Born in **Bangalore**, Shakuntala Devi toured with arithmetic shows from childhood. On **18 June 1980**, at **Imperial College London**, the computing department picked two random 13-digit numbers: 7,686,369,774,870 times 2,465,099,745,779. She gave the 26-digit answer in **28 seconds**. The feat entered the **1982 Guinness Book of Records**. In **1988** psychologist **Arthur Jensen** at Berkeley tested her: she gave the cube root of 61,629,875 (it is 395) before he finished writing the problem down. Mental calculation is a different skill from mathematics, but her shows made millions of Indians curious about numbers.",
@@ -1079,7 +1091,9 @@
       "lon": 51.6798
      },
      "when": "Shrine built 1453, Isfahan",
-     "image_ids": [],
+     "image_ids": [
+      "img_girih"
+     ],
      "media_ids": [],
      "spot_it": "Interlaced star-and-polygon strapwork in blue, white and gold on the walls of a Persian shrine, never quite repeating.",
      "story_md": "Islamic artists from about **1200** made patterns using a set of **five tile shapes** whose angles are all multiples of **36 degrees**. In **2007** physicists **Peter Lu** and **Paul Steinhardt** showed in *Science* that the patterns on the **Darb-i Imam shrine** in Isfahan, built in **1453**, come close to **quasicrystalline** order: they never repeat, yet follow strict rules, like Roger Penrose's tilings of the **1970s**. Quasicrystals were found in real metal by Dan Shechtman in **1982**, a discovery so disbelieved it won a Nobel only in **2011**. The craftsmen probably used the tiles as a design tool, not a theory, which is part of the wonder.",
@@ -1177,7 +1191,8 @@
      },
      "when": "Euler's paper 1736",
      "image_ids": [
-      "img_konigsberg"
+      "img_konigsberg",
+      "img_euler"
      ],
      "media_ids": [],
      "spot_it": "An old city map with an island, a river splitting in two and seven bridges linking four land areas.",
@@ -1292,6 +1307,7 @@
      "name": "Russell's paradox and Principia Mathematica",
      "when": "Paradox 1901; Principia 1910 to 1913",
      "image_ids": [
+      "img_russell",
       "img_principia"
      ],
      "media_ids": [],
@@ -1637,9 +1653,12 @@
     "title": "Many cultures, one subject",
     "data": {
      "image_ids": [
+      "img_nine_chapters",
       "img_dresden",
       "img_sangaku",
-      "img_soroban"
+      "img_soroban",
+      "img_quipu",
+      "img_girih"
      ]
     }
    },
@@ -1649,7 +1668,9 @@
      "kind": "work",
      "name": "The Nine Chapters on the Mathematical Art",
      "when": "Compiled by about 1st century CE; commentary 263 CE",
-     "image_ids": [],
+     "image_ids": [
+      "img_nine_chapters"
+     ],
      "media_ids": [],
      "spot_it": "A Chinese printed book page in columns of characters, with problems on fields, grain and taxes.",
      "story_md": "Nine chapters, **246 problems**, each with an answer and a method: fields, grain exchange, fair taxes, construction, right triangles. Chapter 8, *fangcheng*, solves systems of linear equations by arranging numbers in a grid and eliminating, the method Europe credits to Gauss. Coefficients were laid out with **counting rods** on a board: red rods for positive numbers, black for negative, the earliest systematic use of negative numbers anywhere. In **263 CE** **Liu Hui** added a commentary with proofs and computed pi to about 3.1416 using a polygon of **3,072 sides**. The book was the core of Chinese mathematical education for over a thousand years.",
@@ -1779,7 +1800,9 @@
      "kind": "experiment",
      "name": "Honeybees and nothing",
      "when": "Published 2018",
-     "image_ids": [],
+     "image_ids": [
+      "img_bee"
+     ],
      "media_ids": [],
      "spot_it": "A honeybee landing on a white card with a few black shapes, choosing the card with fewer.",
      "story_md": "Researchers in **Australia and France** trained honeybees to choose the card with **fewer shapes**, rewarding them with sugar water. Then they showed a card with **no shapes at all**. The bees put the empty card at the low end of the scale, treating **nothing as less than one**, something children only manage around age four. The study by **Scarlett Howard** and colleagues appeared in *Science* in **2018**. Other work suggests bees keep a running count of landmarks up to about **four** while flying. A brain of under a million neurons can order quantities, which suggests number sense is cheap for evolution to build.",
@@ -1819,7 +1842,9 @@
       "lon": 7.59
      },
      "when": "1707 to 1783",
-     "image_ids": [],
+     "image_ids": [
+      "img_euler"
+     ],
      "media_ids": [
       "vid_euler"
      ],
@@ -1883,7 +1908,9 @@
       "lon": -122.17
      },
      "when": "12 May 1977 to 14 July 2017",
-     "image_ids": [],
+     "image_ids": [
+      "img_mirzakhani"
+     ],
      "media_ids": [],
      "spot_it": "A smiling woman with short hair, often photographed beside huge sheets of paper covered in curved doodles.",
      "story_md": "Born in **Tehran**, **Mirzakhani** won gold at the International Mathematical Olympiad in **1994** and **1995**, the second time with a **perfect score**. At Harvard and then Stanford she studied the geometry of curved surfaces, such as how many simple closed loops of a given length lie on a hyperbolic surface. She worked by drawing on vast sheets laid on the floor; her young daughter thought her mother was painting. In **2014** she became the **first woman and the first Iranian** to win the Fields Medal. She died of breast cancer at **40**. Her birthday, **12 May**, is now **International Women in Mathematics Day**.",
@@ -1903,7 +1930,9 @@
       "lon": -118.44
      },
      "when": "Born 1975",
-     "image_ids": [],
+     "image_ids": [
+      "img_tao"
+     ],
      "media_ids": [],
      "spot_it": "A cheerful man with glasses and a slight smile, an Australian-American at UCLA.",
      "story_md": "**Terence Tao** was born in Adelaide to parents from Hong Kong. He won an IMO bronze at **10**, silver at 11 and gold at **12**, still the youngest gold medallist. He won the Fields Medal in **2006** for work across harmonic analysis, number theory and more; with Ben Green he proved that the primes contain **arithmetic progressions of any length**. He writes one of the most-read mathematics blogs and works openly on collaborative projects. Since 2023 he has been a leading voice on **AI in mathematics**, testing tools such as proof assistants and language models and also warning, in **2025**, against judging AI on results produced under unclear conditions.",
@@ -2119,7 +2148,9 @@
      "kind": "person",
      "name": "Did Einstein fail maths?",
      "when": "Myth popular from the 1930s",
-     "image_ids": [],
+     "image_ids": [
+      "img_einstein"
+     ],
      "media_ids": [],
      "spot_it": "A 1921 photo of Albert Einstein with tidier hair than in the famous later shots.",
      "story_md": "The story says even Einstein flunked mathematics, to comfort struggling students. In fact Einstein taught himself **Euclidean geometry** at about **12** and had mastered **differential and integral calculus** by about 15. He did fail the general entrance exam to the Zurich Polytechnic in **1895**, at 16, two years younger than usual, because of the non-science parts; his maths and physics marks were excellent. When a rabbi showed him a 1935 *Ripley's Believe It or Not* item claiming he had failed maths, he replied that he had never failed in mathematics. He did lean heavily on mathematician friends such as **Marcel Grossmann** for the geometry of general relativity.",
@@ -2196,7 +2227,9 @@
       "lon": 153.07
      },
      "when": "IMO 2025, Sunshine Coast, Australia, July 2025",
-     "image_ids": [],
+     "image_ids": [
+      "img_imo"
+     ],
      "media_ids": [],
      "spot_it": "Teenagers in rows of desks in a big hall, writing by hand for two 4.5-hour papers; in 2025, two AI labs entered unofficially.",
      "story_md": "The **IMO** began in **Romania in 1959** with seven countries; now over 100 send six students each. In **2024** DeepMind's **AlphaProof** reached silver-medal level but needed problems translated into the **Lean** language and took days. In **July 2025**, an advanced **Gemini Deep Think** solved **five of six** problems in plain English within the **4.5-hour** limit and scored **35/42**, certified by IMO coordinators as gold standard. OpenAI announced a similar score for an experimental model, graded by former medallists. Human gold medallists still did better: several students scored a perfect 42.",
@@ -2231,7 +2264,9 @@
      "kind": "event",
      "name": "Fermat's Last Theorem, checked by machine",
      "when": "4 September 2026",
-     "image_ids": [],
+     "image_ids": [
+      "img_buzzard"
+     ],
      "media_ids": [],
      "spot_it": "Screens of Lean code, line after line of formal steps, the language where every proof is checked by software.",
      "story_md": "**Lean** is a programming language in which a proof is accepted only if software checks every step down to the axioms. Its shared library **mathlib** holds a huge body of formal mathematics. In **2024** **Kevin Buzzard** of Imperial College London began a multi-year project to formalise Wiles's proof. On **4 September 2026**, Anthropic released a complete formalisation, about **13 million lines** of Lean written largely autonomously by Claude over **11 days**. Buzzard compiled it and confirmed the final statement matches mathlib's Fermat's Last Theorem with no extra axioms, while noting it tells us nothing mathematically new and that his project to formalise the modern proof continues.",
@@ -2618,7 +2653,7 @@
   },
   {
    "id": "c_ishango",
-   "type": "fact",
+   "type": "image",
    "front": "What is this object and why is it famous?",
    "back": "The Ishango bone, about 20,000 years old, with notches grouped as 11, 13, 17, 19.",
    "source_ids": [
@@ -2626,7 +2661,8 @@
    ],
    "section_id": "counting",
    "spotlight_id": "ishango",
-   "core": false
+   "core": false,
+   "image_id": "img_ishango"
   },
   {
    "id": "c_plimpton",
@@ -2655,7 +2691,7 @@
   },
   {
    "id": "c_quipu",
-   "type": "fact",
+   "type": "image",
    "front": "What is this and how does it store numbers?",
    "back": "An Inca quipu: knots on cords in base-10 place value.",
    "source_ids": [
@@ -2663,7 +2699,8 @@
    ],
    "section_id": "counting",
    "spotlight_id": "quipu",
-   "core": false
+   "core": false,
+   "image_id": "img_quipu"
   },
   {
    "id": "c_sqrt2",
@@ -2777,7 +2814,7 @@
   },
   {
    "id": "c_girih",
-   "type": "fact",
+   "type": "image",
    "front": "What is special about these Isfahan tile patterns?",
    "back": "Darb-i Imam (1453) girih patterns come close to quasicrystalline order.",
    "source_ids": [
@@ -2786,7 +2823,8 @@
    ],
    "section_id": "baghdad_pisa",
    "spotlight_id": "girih",
-   "core": false
+   "core": false,
+   "image_id": "img_girih"
   },
   {
    "id": "c_konigsberg",
@@ -2939,7 +2977,7 @@
   },
   {
    "id": "c_euler",
-   "type": "fact",
+   "type": "image",
    "front": "Who is this, and what is his famous identity?",
    "back": "Leonhard Euler; e to the i pi plus 1 = 0.",
    "source_ids": [
@@ -2947,7 +2985,8 @@
    ],
    "section_id": "giants",
    "spotlight_id": "euler",
-   "core": false
+   "core": false,
+   "image_id": "img_euler"
   },
   {
    "id": "c_gauss",
@@ -2975,7 +3014,7 @@
   },
   {
    "id": "c_mirzakhani",
-   "type": "fact",
+   "type": "image",
    "front": "Who is she and what did she achieve in 2014?",
    "back": "Maryam Mirzakhani, first woman and first Iranian to win the Fields Medal.",
    "source_ids": [
@@ -2983,7 +3022,8 @@
    ],
    "section_id": "giants",
    "spotlight_id": "mirzakhani",
-   "core": false
+   "core": false,
+   "image_id": "img_mirzakhani"
   },
   {
    "id": "c_flt",
@@ -4233,6 +4273,36 @@
    "caption": "Eugene Wigner, who named the 'unreasonable effectiveness' of mathematics."
   },
   {
+   "id": "img_ceulen",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Portret_van_Ludolf_van_Ceulen_op_56-jarige_leeftijd,_RP-P-1898-A-20585.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Portret_van_Ludolf_van_Ceulen_op_56-jarige_leeftijd%2C_RP-P-1898-A-20585.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Portret_van_Ludolf_van_Ceulen_op_56-jarige_leeftijd%2C_RP-P-1898-A-20585.jpg/1280px-Portret_van_Ludolf_van_Ceulen_op_56-jarige_leeftijd%2C_RP-P-1898-A-20585.jpg",
+   "width": 3610,
+   "height": 4978,
+   "author": "Rijksmuseum",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "Photo: Rijksmuseum, CC0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Engraved portrait of Ludolph van Ceulen in a ruff collar",
+   "caption": "Ludolph van Ceulen at 56, engraving, Rijksmuseum. He spent years computing pi to 35 digits."
+  },
+  {
+   "id": "img_ishango",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Ishango_bone_(cropped).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ishango_bone_%28cropped%29.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ishango_bone_%28cropped%29.jpg",
+   "width": 891,
+   "height": 1230,
+   "author": "Joeykentin",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Joeykentin, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A dark bone tool with rows of cut notches",
+   "caption": "The Ishango bone, about 20,000 years old, Royal Belgian Institute of Natural Sciences."
+  },
+  {
    "id": "img_ybc7289",
    "file_page": "https://commons.wikimedia.org/wiki/File:YBC-7289-OBV-REV.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/YBC-7289-OBV-REV.jpg",
@@ -4278,6 +4348,36 @@
    "caption": "Part of the Rhind Mathematical Papyrus, copied by Ahmes c. 1550 BCE."
   },
   {
+   "id": "img_quipu",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Inca_Quipu.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Inca_Quipu.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Inca_Quipu.jpg",
+   "width": 625,
+   "height": 380,
+   "author": "Claus Ableiter nur hochgeladen aus enWiki",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "attribution": "Photo: Claus Ableiter nur hochgeladen aus enWiki, CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Knotted cotton cords hanging from a main cord",
+   "caption": "An Inca quipu, Larco Museum, Lima: numbers stored in knots."
+  },
+  {
+   "id": "img_pythagoras",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Kapitolinischer_Pythagoras_adjusted.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kapitolinischer_Pythagoras_adjusted.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kapitolinischer_Pythagoras_adjusted.jpg",
+   "width": 449,
+   "height": 599,
+   "author": "The original uploader was Galilea at German Wikipedia.",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: The original uploader was Galilea at German Wikipedia., Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Marble bust of a bearded man in a headband",
+   "caption": "Bust of Pythagoras, Capitoline Museums, Rome; a Roman copy, no likeness from life survives."
+  },
+  {
    "id": "img_euclid_papyrus",
    "file_page": "https://commons.wikimedia.org/wiki/File:P._Oxy._I_29.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/P._Oxy._I_29.jpg",
@@ -4321,6 +4421,21 @@
    "verified_on": "2026-10-26",
    "alt": "Parchment page with faint text beneath later writing",
    "caption": "A page of the Archimedes Palimpsest, On Floating Bodies."
+  },
+  {
+   "id": "img_agnicayana",
+   "file_page": "https://commons.wikimedia.org/wiki/File:%E0%B4%B6%E0%B5%8D%E0%B4%AF%E0%B5%87%E0%B4%A8-%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B4%BF%E2%80%8C-%E0%B4%A8%E0%B4%BF%E0%B5%BC%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B4%BE%E0%B4%A3%E0%B4%82.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%E0%B4%B6%E0%B5%8D%E0%B4%AF%E0%B5%87%E0%B4%A8-%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B4%BF%E2%80%8C-%E0%B4%A8%E0%B4%BF%E0%B5%BC%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B4%BE%E0%B4%A3%E0%B4%82.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%E0%B4%B6%E0%B5%8D%E0%B4%AF%E0%B5%87%E0%B4%A8-%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B4%BF%E2%80%8C-%E0%B4%A8%E0%B4%BF%E0%B5%BC%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B4%BE%E0%B4%A3%E0%B4%82.jpg",
+   "width": 1000,
+   "height": 352,
+   "author": "Arayilpdas at Malayalam Wikipedia.",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Photo: Arayilpdas at Malayalam Wikipedia., CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Priests laying bricks for a fire altar in the shape of a falcon",
+   "caption": "Building the falcon-shaped altar (shyena chiti) at the Panjal Athirathram, Kerala."
   },
   {
    "id": "img_meru",
@@ -4458,6 +4573,21 @@
    "caption": "Ramanujan's home on Sarangapani Street, Kumbakonam."
   },
   {
+   "id": "img_shakuntala",
+   "file_page": "https://commons.wikimedia.org/wiki/File:19681016%E7%8B%84%E5%A8%81.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/19681016%E7%8B%84%E5%A8%81.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/19681016%E7%8B%84%E5%A8%81.jpg/1280px-19681016%E7%8B%84%E5%A8%81.jpg",
+   "width": 1339,
+   "height": 2100,
+   "author": "中央通訊社",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: 中央通訊社, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Black and white photo of Shakuntala Devi",
+   "caption": "Shakuntala Devi, photographed in Taiwan, 1968."
+  },
+  {
    "id": "img_khwarizmi",
    "file_page": "https://commons.wikimedia.org/wiki/File:1983_CPA_5426.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/1983_CPA_5426.jpg",
@@ -4486,6 +4616,21 @@
    "verified_on": "2026-10-26",
    "alt": "Medieval manuscript page with Hindu-Arabic numerals in a margin box",
    "caption": "A page of Liber Abaci, with the rabbit-problem numbers in the margin."
+  },
+  {
+   "id": "img_girih",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Darb-i_Imam_shrine_spandrel.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Darb-i_Imam_shrine_spandrel.JPG",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Darb-i_Imam_shrine_spandrel.JPG",
+   "width": 646,
+   "height": 431,
+   "author": "Unknown artisan, 15th century",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Unknown artisan, 15th century, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Interlaced star and polygon tilework on a shrine wall",
+   "caption": "Girih tilework at the Darb-i Imam shrine, Isfahan, 1453."
   },
   {
    "id": "img_lobachevsky",
@@ -4548,6 +4693,21 @@
    "caption": "A world map coloured with only four colours."
   },
   {
+   "id": "img_euler",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Leonhard_Euler.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Leonhard_Euler.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Leonhard_Euler.jpg/1280px-Leonhard_Euler.jpg",
+   "width": 4672,
+   "height": 6040,
+   "author": "Jakob Emanuel Handmann",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Jakob Emanuel Handmann, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Portrait of Leonhard Euler in a cap",
+   "caption": "Leonhard Euler, painted by Jakob Emanuel Handmann, 1753."
+  },
+  {
    "id": "img_cantor",
    "file_page": "https://commons.wikimedia.org/wiki/File:Georg_Cantor2.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Georg_Cantor2.jpg",
@@ -4561,6 +4721,21 @@
    "verified_on": "2026-10-26",
    "alt": "Portrait of Georg Cantor with a beard",
    "caption": "Georg Cantor."
+  },
+  {
+   "id": "img_russell",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Bertrand_Russell_transparent_bg.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bertrand_Russell_transparent_bg.png",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bertrand_Russell_transparent_bg.png",
+   "width": 1255,
+   "height": 1859,
+   "author": "Honourable Bertrand Russell.jpg: Photographer not identified derivative work:...",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Honourable Bertrand Russell.jpg: Photographer not identified derivative work:..., Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Portrait of Bertrand Russell",
+   "caption": "Bertrand Russell."
   },
   {
    "id": "img_principia",
@@ -4728,6 +4903,21 @@
    "caption": "Joseph Fourier."
   },
   {
+   "id": "img_nine_chapters",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Square_city.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Square_city.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Square_city.jpg",
+   "width": 912,
+   "height": 682,
+   "author": "Gisling",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "attribution": "Photo: Gisling, CC BY 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Diagram for a problem about a square walled city and a tree",
+   "caption": "Problem 17 of chapter 9 of the Nine Chapters: the walled city and the tree, a right-triangle puzzle."
+  },
+  {
    "id": "img_dresden",
    "file_page": "https://commons.wikimedia.org/wiki/File:Dresden_Codex_p09.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Dresden_Codex_p09.jpg",
@@ -4788,6 +4978,21 @@
    "caption": "Clever Hans being presented to an audience in Berlin."
   },
   {
+   "id": "img_bee",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_Western_honey_bee.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Apis_mellifera_Western_honey_bee.jpg/1280px-Apis_mellifera_Western_honey_bee.jpg",
+   "width": 1923,
+   "height": 1599,
+   "author": "Andreas Trepte",
+   "license": "CC BY-SA 2.5",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "attribution": "Photo: Andreas Trepte, CC BY-SA 2.5, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Honeybee on a flower",
+   "caption": "A western honeybee, Apis mellifera."
+  },
+  {
    "id": "img_gauss",
    "file_page": "https://commons.wikimedia.org/wiki/File:Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
@@ -4816,6 +5021,36 @@
    "verified_on": "2026-10-26",
    "alt": "An old man and a young boy bent over a table of papers",
    "caption": "Paul Erdős working with 10-year-old Terence Tao in 1985."
+  },
+  {
+   "id": "img_mirzakhani",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Lyon_7e_-_All%C3%A9e_Maryam_Mirzakhani_-_Plaque.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lyon_7e_-_All%C3%A9e_Maryam_Mirzakhani_-_Plaque.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Lyon_7e_-_All%C3%A9e_Maryam_Mirzakhani_-_Plaque.jpg/1280px-Lyon_7e_-_All%C3%A9e_Maryam_Mirzakhani_-_Plaque.jpg",
+   "width": 4128,
+   "height": 3096,
+   "author": "Romainbehar",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "Photo: Romainbehar, CC0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Street name plaque reading Allée Maryam Mirzakhani",
+   "caption": "Allée Maryam Mirzakhani in Lyon, one of several streets named after her."
+  },
+  {
+   "id": "img_tao",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Terence_Tao_at_IPAM%27s_Fireside_Chat_2026_(31m20s).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Terence_Tao_at_IPAM%27s_Fireside_Chat_2026_%2831m20s%29.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Terence_Tao_at_IPAM%27s_Fireside_Chat_2026_%2831m20s%29.jpg/1280px-Terence_Tao_at_IPAM%27s_Fireside_Chat_2026_%2831m20s%29.jpg",
+   "width": 1920,
+   "height": 1080,
+   "author": "Institute for Pure &amp; Applied Mathematics",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Photo: Institute for Pure &amp; Applied Mathematics, CC BY 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Terence Tao during a recorded panel discussion",
+   "caption": "Terence Tao at an IPAM fireside chat on AI and mathematics, March 2026."
   },
   {
    "id": "img_fermat",
@@ -4893,6 +5128,51 @@
    "caption": "The Parthenon: no ancient evidence it was built on the golden ratio."
   },
   {
+   "id": "img_einstein",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/1280px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+   "width": 2523,
+   "height": 3313,
+   "author": "Ferdinand Schmutzer / Adam Cuerden",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Ferdinand Schmutzer / Adam Cuerden, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Portrait photo of Albert Einstein",
+   "caption": "Albert Einstein in Vienna, 1921."
+  },
+  {
+   "id": "img_imo",
+   "file_page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B5_IMO_2005.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B5_IMO_2005.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B5_IMO_2005.jpg",
+   "width": 800,
+   "height": 600,
+   "author": "Sportsmentos",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Sportsmentos, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Members of a national team at the International Mathematical Olympiad",
+   "caption": "Team Russia at the International Mathematical Olympiad, 2005."
+  },
+  {
+   "id": "img_buzzard",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Kevin_buzzard_in_2007.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Kevin_buzzard_in_2007.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Kevin_buzzard_in_2007.jpg",
+   "width": 642,
+   "height": 930,
+   "author": "Paulabuzzard at en.wikipedia",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "attribution": "Photo: Paulabuzzard at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Portrait of Kevin Buzzard",
+   "caption": "Kevin Buzzard in 2007. He leads the Lean project on Fermat's Last Theorem."
+  },
+  {
    "id": "img_fields_medal",
    "file_page": "https://commons.wikimedia.org/wiki/File:FieldsMedalFrontArchimedes.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/FieldsMedalFrontArchimedes.jpg",
@@ -4906,6 +5186,21 @@
    "verified_on": "2026-10-26",
    "alt": "Gold medal with the profile of Archimedes",
    "caption": "The Fields Medal, showing Archimedes."
+  },
+  {
+   "id": "img_benford",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Loi_de_Benford_freq_relat.PNG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Loi_de_Benford_freq_relat.PNG",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Loi_de_Benford_freq_relat.PNG",
+   "width": 546,
+   "height": 329,
+   "author": "The original uploader was NonNobis at French Wikipedia.",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "attribution": "Photo: The original uploader was NonNobis at French Wikipedia., CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Bar chart: first digit 1 is most common, falling to 9",
+   "caption": "Benford's law: about 30% of first digits are 1, under 5% are 9."
   }
  ],
  "media": [
@@ -5931,96 +6226,6 @@
    "status": "no_image",
    "note": "No suitable licensed image of the BB(5) machine.",
    "spotlight_id": "busy_beaver"
-  },
-  {
-   "claim": "Image for Ludolph van Ceulen's pi tombstone",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "pi_tombstone"
-  },
-  {
-   "claim": "Image for The Ishango bone",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "ishango"
-  },
-  {
-   "claim": "Image for Quipu, the Inca knot record",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "quipu"
-  },
-  {
-   "claim": "Image for Pythagoras and the irrational shock",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "pythagoras"
-  },
-  {
-   "claim": "Image for The Shulba Sutras",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "sulba_sutras"
-  },
-  {
-   "claim": "Image for Shakuntala Devi, the human computer",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "shakuntala_devi"
-  },
-  {
-   "claim": "Image for Girih tiles at Darb-i Imam",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "girih"
-  },
-  {
-   "claim": "Image for The Nine Chapters on the Mathematical Art",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "nine_chapters"
-  },
-  {
-   "claim": "Image for Honeybees and nothing",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "bees_zero"
-  },
-  {
-   "claim": "Image for Leonhard Euler",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "euler"
-  },
-  {
-   "claim": "Image for Maryam Mirzakhani",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "mirzakhani"
-  },
-  {
-   "claim": "Image for Terence Tao",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "tao"
-  },
-  {
-   "claim": "Image for Did Einstein fail maths?",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "einstein_myth"
-  },
-  {
-   "claim": "Image for Machines at the Maths Olympiad",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "imo_ai"
-  },
-  {
-   "claim": "Image for Fermat's Last Theorem, checked by machine",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "flt_lean"
   }
  ],
  "best_facts": [
@@ -6192,7 +6397,9 @@
   "area": "Crime",
   "title": "Benford's law: how first digits catch fraud",
   "body_md": "Open a list of real numbers from life: river lengths, town populations, company expenses, electricity bills. Count how many start with 1. You might expect one in nine. In fact it is about **30%**. Numbers starting with 2 come next at about 18%, and only about **4.6%** start with 9.\n\nThis pattern is called **Benford's law**, after the physicist Frank Benford, who tested it on more than 20,000 numbers in 1938. The astronomer Simon Newcomb had spotted it in 1881, because the early pages of his book of logarithm tables were more worn than the later ones.\n\nWhy? Many real quantities grow by multiplying, not adding. A town of 1,000 people must double to reach 2,000, but going from 9,000 to 10,000 is only an 11% rise. So numbers spend longer with a leading 1. The law works best for data that spans several orders of magnitude.\n\nIt has a practical use. People who invent numbers tend to spread first digits too evenly. Forensic accountants and tax authorities run Benford tests to flag suspicious ledgers, and researchers use it to check election and scientific data, carefully, since some honest data does not follow it. It is a neat example of today's theme: a pattern found in pure mathematics turns up in your electricity bill and in courtrooms.",
-  "image_ids": [],
+  "image_ids": [
+   "img_benford"
+  ],
   "card_ids": [
    "c_side_benford",
    "c_side_fraud"
