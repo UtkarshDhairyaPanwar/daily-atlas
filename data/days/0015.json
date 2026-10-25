@@ -1092,7 +1092,8 @@
       "img_umanglai",
       "img_pakhangba",
       "img_govindajee1",
-      "img_sankirtan1"
+      "img_sankirtan1",
+      "img_church"
      ]
     }
    },
@@ -1478,7 +1479,18 @@
    "order": 13,
    "title": "Looms, pots and reeds",
    "intro_md": "In most Meitei homes there was once a loom, and many still have one. Handloom weaving is one of the largest sources of work in Manipur, mostly for women, and Manipur counts among the Indian states with the most handloom workers. Cloth is part of almost every ritual: the right phanek for a wedding, the right shawl for an honour, white for the temple.\n\nThe hills have their own crafts: Tangkhul black pottery, Kuki and Naga shawls with tribal patterns, cane and bamboo work. The valley's wetlands give kauna reed.\n\nSeveral Manipur products carry Geographical Indication tags, which protect their names: the cloths Shaphee Lanphee, Wangkhei Phee and Moirang Phee, black rice (Chak-hao), the Kachai lemon, the Tamenglong orange and the Hathei chilli, and kauna craft.",
-   "visual": null,
+   "visual": {
+    "type": "photo_grid",
+    "title": "Made in Manipur",
+    "data": {
+     "image_ids": [
+      "img_longpi2",
+      "img_cane",
+      "img_kajenglei",
+      "img_phanek1"
+     ]
+    }
+   },
    "spotlights": [
     {
      "id": "longpi",
@@ -1576,7 +1588,9 @@
       "img_soibum1",
       "img_chilli",
       "img_singju2",
-      "img_ima2"
+      "img_snails",
+      "img_mushrooms",
+      "img_pork"
      ]
     }
    },
@@ -1639,7 +1653,9 @@
      "id": "ngari",
      "kind": "dish",
      "name": "Ngari, fermented fish",
-     "image_ids": [],
+     "image_ids": [
+      "img_ngari1"
+     ],
      "media_ids": [],
      "spot_it": "Small dried fish packed tight in an earthen pot, fermented for months; strong smell, deep taste.",
      "story_md": "Ngari is made from small sun-dried fish, usually the pool barb, pressed into earthen pots whose insides are coated with mustard oil, sealed and left to ferment for months. Unusually for fermented fish, no salt is added. The result is pungent and full of savoury depth, and it seasons almost everything: eromba, singju, chutneys and stews. For many outsiders ngari's smell is the first shock of a Manipuri kitchen; for Meitei it is the smell of home.",
@@ -1757,7 +1773,10 @@
      "kind": "festival",
      "name": "Ningol Chakouba",
      "when": "October or November",
-     "image_ids": [],
+     "image_ids": [
+      "img_ningol1",
+      "img_ningol2"
+     ],
      "media_ids": [],
      "spot_it": "Married women in their best phaneks arriving at their parents' homes for a lavish lunch.",
      "story_md": "Ningol Chakouba, 'the feast for married daughters', falls on the second day of the lunar month of Hiyangei, in October or November. Married women go back to their parents' home, where brothers and fathers host them to a feast and give them gifts. It is a festival of the bond between a woman and the family she left at marriage. It has spread from the Meitei to other communities, and markets are packed with gifts in the week before.",
@@ -1859,9 +1878,13 @@
      "id": "meira_paibi",
      "kind": "custom",
      "name": "Meira Paibi, the torch-bearers",
-     "image_ids": [],
+     "image_ids": [
+      "img_meirapaibi1",
+      "img_meirapaibi2",
+      "img_meirapaibi3"
+     ],
      "media_ids": [],
-     "spot_it": "Groups of older women with lit torches patrolling village lanes at night.",
+     "spot_it": "Groups of women with lit bamboo torches marching or patrolling village lanes at night.",
      "story_md": "Meira Paibi means 'women torch-bearers'. From the late 1970s, groups of Meitei women began patrolling their neighbourhoods at night with burning torches, at first against alcohol and drugs, and later against arrests and killings by security forces under AFSPA. On 15 July 2004, after the death of Thangjam Manorama in custody, a group of older women stood naked in front of the Assam Rifles base at Kangla holding a banner that read 'Indian Army Rape Us'. The protest shook India. Since 2023 Meira Paibi groups have also blocked roads and army convoys, which critics say has shielded armed men.",
      "why_it_matters": "They are the most powerful civil force in the valley, admired and contested.",
      "memory_hook": "Mothers with torches: the night watch of the valley.",
@@ -1976,7 +1999,9 @@
       "lat": 24.86,
       "lon": 93.62
      },
-     "image_ids": [],
+     "image_ids": [
+      "img_rail_map"
+     ],
      "media_ids": [],
      "spot_it": "Tall concrete piers carrying a railway across a deep gorge in the hills.",
      "story_md": "Manipur has had almost no railway. The 111 km Jiribam to Imphal line, being built through some of India's toughest hills, will change that. It needs about 62 km of tunnels, including one of about 11.55 km, and the Noney bridge over the Ijai river, whose piers rise about 141 m, often called the world's tallest railway bridge piers. The first 55 km section to Khongsang opened in 2022. The rest was officially targeted for completion by about December 2026.",
@@ -3976,30 +4001,30 @@
   },
   {
    "id": "img_phumdi1",
-   "file_page": "https://commons.wikimedia.org/wiki/File:A_classical_Meitei_miniature_sculpture_of_a_Kangla_Sa_(Kangla_Sha)_displayed_in_front_of_the_Kangla_Museum_-_replica_of_the_colossal_statues_in_the_Kangla_Fort_(Kangla_Palace),_Imphal,_Kangleipak_(Manipur)_02.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/A_classical_Meitei_miniature_sculpture_of_a_Kangla_Sa_%28Kangla_Sha%29_displayed_in_front_of_the_Kangla_Museum_-_replica_of_the_colossal_statues_in_the_Kangla_Fort_%28Kangla_Palace%29%2C_Imphal%2C_Kangleipak_%28Manipur%29_02.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/A_classical_Meitei_miniature_sculpture_of_a_Kangla_Sa_%28Kangla_Sha%29_displayed_in_front_of_the_Kangla_Museum_-_replica_of_the_colossal_statues_in_the_Kangla_Fort_%28Kangla_Palace%29%2C_Imphal%2C_Kangleipak_%28Manipur%29_02.jpg/1280px-thumbnail.jpg",
-   "width": 1792,
-   "height": 4000,
+   "file_page": "https://commons.wikimedia.org/wiki/File:Floating_biomasses_(%22Phumdi%22_or_%22Phumthi%22_or_%22Phum%22_in_Classical_Meitei_language)_%26_islands_in_the_Loktak_Lake_(alias_%22Meitei_Sea%22)_-_World%27s_only_floating_lake_-_in_Kangleipak_(Manipur)_02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Floating_biomasses_%28%22Phumdi%22_or_%22Phumthi%22_or_%22Phum%22_in_Classical_Meitei_language%29_%26_islands_in_the_Loktak_Lake_%28alias_%22Meitei_Sea%22%29_-_World%27s_only_floating_lake_-_in_Kangleipak_%28Manipur%29_02.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Floating_biomasses_%28%22Phumdi%22_or_%22Phumthi%22_or_%22Phum%22_in_Classical_Meitei_language%29_%26_islands_in_the_Loktak_Lake_%28alias_%22Meitei_Sea%22%29_-_World%27s_only_floating_lake_-_in_Kangleipak_%28Manipur%29_02.jpg/1280px-thumbnail.jpg",
+   "width": 4000,
+   "height": 2992,
    "author": "Haoreima",
-   "license": "CC0",
-   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-   "attribution": "Photo: Haoreima, CC0, via Wikimedia Commons",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Photo: Haoreima, CC BY 4.0, via Wikimedia Commons",
    "verified_on": "2026-10-25",
    "alt": "Floating mats of vegetation and small islands on a lake",
    "caption": "Phumdis, the floating islands of Loktak."
   },
   {
    "id": "img_phumdi2",
-   "file_page": "https://commons.wikimedia.org/wiki/File:A_classical_Meitei_miniature_sculpture_of_a_Kangla_Sa_(Kangla_Sha)_displayed_in_front_of_the_Kangla_Museum_-_replica_of_the_colossal_statues_in_the_Kangla_Fort_(Kangla_Palace),_Imphal,_Kangleipak_(Manipur)_05.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/A_classical_Meitei_miniature_sculpture_of_a_Kangla_Sa_%28Kangla_Sha%29_displayed_in_front_of_the_Kangla_Museum_-_replica_of_the_colossal_statues_in_the_Kangla_Fort_%28Kangla_Palace%29%2C_Imphal%2C_Kangleipak_%28Manipur%29_05.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/A_classical_Meitei_miniature_sculpture_of_a_Kangla_Sa_%28Kangla_Sha%29_displayed_in_front_of_the_Kangla_Museum_-_replica_of_the_colossal_statues_in_the_Kangla_Fort_%28Kangla_Palace%29%2C_Imphal%2C_Kangleipak_%28Manipur%29_05.jpg/1280px-thumbnail.jpg",
-   "width": 1792,
-   "height": 4000,
+   "file_page": "https://commons.wikimedia.org/wiki/File:Floating_biomasses_(%22Phumdi%22_or_%22Phumthi%22_or_%22Phum%22_in_Classical_Meitei_language)_%26_islands_in_the_Loktak_Lake_(alias_%22Meitei_Sea%22)_-_World%27s_only_floating_lake_-_in_Kangleipak_(Manipur)_05.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Floating_biomasses_%28%22Phumdi%22_or_%22Phumthi%22_or_%22Phum%22_in_Classical_Meitei_language%29_%26_islands_in_the_Loktak_Lake_%28alias_%22Meitei_Sea%22%29_-_World%27s_only_floating_lake_-_in_Kangleipak_%28Manipur%29_05.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Floating_biomasses_%28%22Phumdi%22_or_%22Phumthi%22_or_%22Phum%22_in_Classical_Meitei_language%29_%26_islands_in_the_Loktak_Lake_%28alias_%22Meitei_Sea%22%29_-_World%27s_only_floating_lake_-_in_Kangleipak_%28Manipur%29_05.jpg/1280px-thumbnail.jpg",
+   "width": 4000,
+   "height": 2992,
    "author": "Haoreima",
-   "license": "CC0",
-   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-   "attribution": "Photo: Haoreima, CC0, via Wikimedia Commons",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Photo: Haoreima, CC BY 4.0, via Wikimedia Commons",
    "verified_on": "2026-10-25",
    "alt": "Patches of floating grass on still water",
    "caption": "Phumdis: about four-fifths of each mat is under water."
@@ -5158,6 +5183,201 @@
    "verified_on": "2026-10-25",
    "alt": "Several drummers mid-spin against a black background",
    "caption": "Manipuri drummers in Astad Deboo's troupe."
+  },
+  {
+   "id": "img_ningol1",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Ningol-chakkouba.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ningol-chakkouba.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ningol-chakkouba.jpg/1280px-Ningol-chakkouba.jpg",
+   "width": 3456,
+   "height": 2304,
+   "author": "Paste Media",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Paste Media, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Long rows of women seated on the ground in a courtyard for a shared feast",
+   "caption": "A community Ningol Chakouba feast, Delhi, 2015."
+  },
+  {
+   "id": "img_ningol2",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Ningol_Chakouba_%EA%AF%B1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Ningol_Chakouba_%EA%AF%B1.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Ningol_Chakouba_%EA%AF%B1.jpg/1280px-Ningol_Chakouba_%EA%AF%B1.jpg",
+   "width": 4000,
+   "height": 3000,
+   "author": "Awangba Mangang",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Awangba Mangang, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Women seated on mats with steel plates, waiting for the feast",
+   "caption": "Married daughters seated for the Ningol Chakouba meal."
+  },
+  {
+   "id": "img_snails",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Women_selling_snails_in_Senapati,_Manipur.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Women_selling_snails_in_Senapati%2C_Manipur.JPG",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Women_selling_snails_in_Senapati%2C_Manipur.JPG/1280px-Women_selling_snails_in_Senapati%2C_Manipur.JPG",
+   "width": 2256,
+   "height": 1504,
+   "author": "Goumisao",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Goumisao, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Basins of freshwater snails for sale at a market",
+   "caption": "Freshwater snails, a hill delicacy, on sale in Senapati."
+  },
+  {
+   "id": "img_pork",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Assorted_pig_portions.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Assorted_pig_portions.JPG",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Assorted_pig_portions.JPG/1280px-Assorted_pig_portions.JPG",
+   "width": 2256,
+   "height": 1504,
+   "author": "Goumisao",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Goumisao, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "A pot of cooked pork pieces with herbs",
+   "caption": "Pork, a staple of hill cooking in Manipur."
+  },
+  {
+   "id": "img_ngari1",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Ngari.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ngari.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ngari.jpg",
+   "width": 768,
+   "height": 768,
+   "author": "Lairencha",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Lairencha, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "A plate of small dried, fermented fish",
+   "caption": "Ngari, Manipur's fermented fish."
+  },
+  {
+   "id": "img_meirapaibi1",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Meira_Paibi.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Meira_Paibi.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Meira_Paibi.jpg",
+   "width": 575,
+   "height": 1024,
+   "author": "Lairencha",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Lairencha, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Women in shawls holding up flaming bamboo torches at night",
+   "caption": "Meira Paibi women with torches at a night rally."
+  },
+  {
+   "id": "img_meirapaibi2",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Meira_Paibi_on_march.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Meira_Paibi_on_march.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Meira_Paibi_on_march.jpg",
+   "width": 575,
+   "height": 1024,
+   "author": "Lairencha",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Lairencha, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Women walking down a road at night holding tall torches",
+   "caption": "A Meira Paibi torch march."
+  },
+  {
+   "id": "img_meirapaibi3",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Sculptures_of_Meira_Paibis,_the_Meitei_women_holding_flaming_torches,_in_the_MMRC_and_Unity_Park,_Khangabok,_Thoubal.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sculptures_of_Meira_Paibis%2C_the_Meitei_women_holding_flaming_torches%2C_in_the_MMRC_and_Unity_Park%2C_Khangabok%2C_Thoubal.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sculptures_of_Meira_Paibis%2C_the_Meitei_women_holding_flaming_torches%2C_in_the_MMRC_and_Unity_Park%2C_Khangabok%2C_Thoubal.jpg/1280px-Sculptures_of_Meira_Paibis%2C_the_Meitei_women_holding_flaming_torches%2C_in_the_MMRC_and_Unity_Park%2C_Khangabok%2C_Thoubal.jpg",
+   "width": 2992,
+   "height": 4000,
+   "author": "Haoreima",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Haoreima, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Statues of two women holding up flaming torches",
+   "caption": "Statues of Meira Paibi women, Khangabok."
+  },
+  {
+   "id": "img_rail_map",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Jiribam-Imphal_section.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Jiribam-Imphal_section.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Jiribam-Imphal_section.jpg/1280px-Jiribam-Imphal_section.jpg",
+   "width": 1839,
+   "height": 765,
+   "author": "Praveenvats",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Praveenvats, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Map of a railway line winding through hills between Jiribam and Imphal",
+   "caption": "Route of the Jiribam to Imphal railway."
+  },
+  {
+   "id": "img_church",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Phungyo_Baptist_Church,_Ukhrul.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Phungyo_Baptist_Church%2C_Ukhrul.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Phungyo_Baptist_Church%2C_Ukhrul.jpg/1280px-Phungyo_Baptist_Church%2C_Ukhrul.jpg",
+   "width": 5184,
+   "height": 3456,
+   "author": "Pamkhuila",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Pamkhuila, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "A white church with a steeple on a hill under blue sky",
+   "caption": "Phungyo Baptist Church, Ukhrul."
+  },
+  {
+   "id": "img_cane",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Cane_Craft_at_market_in_Manipur.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cane_Craft_at_market_in_Manipur.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Cane_Craft_at_market_in_Manipur.jpg/1280px-Cane_Craft_at_market_in_Manipur.jpg",
+   "width": 3024,
+   "height": 4032,
+   "author": "Ishani Nath",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Ishani Nath, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Stacks of woven cane baskets and mats at a market stall",
+   "caption": "Cane and bamboo baskets on sale in Manipur."
+  },
+  {
+   "id": "img_kajenglei",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Kajenglei,_traditional_headdress_of_Meitei_culture_,housed_at_National_Museum,_New_Delhi.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Kajenglei%2C_traditional_headdress_of_Meitei_culture_%2Choused_at_National_Museum%2C_New_Delhi.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Kajenglei%2C_traditional_headdress_of_Meitei_culture_%2Choused_at_National_Museum%2C_New_Delhi.jpg",
+   "width": 736,
+   "height": 981,
+   "author": "SpeakingArch",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: SpeakingArch, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "A traditional headdress of feathers and red ornaments",
+   "caption": "Kajenglei, a Meitei headdress, National Museum, New Delhi."
+  },
+  {
+   "id": "img_mushrooms",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Woman_selling_mushrooms.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Woman_selling_mushrooms.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Woman_selling_mushrooms.jpg/1280px-Woman_selling_mushrooms.jpg",
+   "width": 1668,
+   "height": 782,
+   "author": "Goumisao",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Goumisao, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "A woman selling heaps of dried wild mushrooms at a market",
+   "caption": "Wild mushrooms on sale in Senapati."
   }
  ],
  "media": [
@@ -5964,22 +6184,10 @@
    "spotlight_id": "kauna"
   },
   {
-   "claim": "Photo of Ngari, fermented fish",
-   "status": "no_image",
-   "note": "No correctly identified, openly licensed photo found on Wikimedia Commons.",
-   "spotlight_id": "ngari"
-  },
-  {
    "claim": "Photo of Kachai lemon",
    "status": "no_image",
    "note": "No correctly identified, openly licensed photo found on Wikimedia Commons.",
    "spotlight_id": "kachai_lemon"
-  },
-  {
-   "claim": "Photo of Ningol Chakouba",
-   "status": "no_image",
-   "note": "No correctly identified, openly licensed photo found on Wikimedia Commons.",
-   "spotlight_id": "ningol_chakouba"
   },
   {
    "claim": "Photo of Heikru Hidongba",
@@ -6000,12 +6208,6 @@
    "spotlight_id": "sangai_festival"
   },
   {
-   "claim": "Photo of Meira Paibi, the torch-bearers",
-   "status": "no_image",
-   "note": "No correctly identified, openly licensed photo found on Wikimedia Commons.",
-   "spotlight_id": "meira_paibi"
-  },
-  {
    "claim": "Photo of The conflict since 3 May 2023",
    "status": "no_image",
    "note": "No correctly identified, openly licensed photo found on Wikimedia Commons.",
@@ -6016,12 +6218,6 @@
    "status": "no_image",
    "note": "No correctly identified, openly licensed photo found on Wikimedia Commons.",
    "spotlight_id": "moreh"
-  },
-  {
-   "claim": "Photo of The Jiribam to Imphal railway",
-   "status": "no_image",
-   "note": "No correctly identified, openly licensed photo found on Wikimedia Commons.",
-   "spotlight_id": "jiribam_rail"
   }
  ],
  "side_dish": {
