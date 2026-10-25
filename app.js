@@ -593,7 +593,7 @@ const ICON = {
 };
 const ZIG = [0, -54, -82, -54, 0, 54, 82, 54];
 
-route(/^\/today$/, async () => {
+route(/^\/path$/, async () => {
   await loadDeckDays();
   const entry = todayTarget();
   const data = await loadDay(entry);
@@ -664,6 +664,53 @@ route(/^\/today$/, async () => {
   const ah = $("[data-ahead]"); if (ah) ah.onclick = () => aheadSheet(nextEntry);
   const hi = $("[data-hideinstall]"); if (hi) hi.onclick = () => { S.settings.hideInstall = true; save(); hi.parentElement.remove(); };
   const cur = $(".node.cur"); if (cur) cur.scrollIntoView({ block: "center" });
+  prefetchNext(entry);
+});
+// ---------- Home: a gallery, with today's card on top ----------
+const card = (e, w = 150) => { const [c] = col(e.area); const pr = S.progress[e.id]; const started = pr && Object.keys(pr.read || {}).length; return `<a class="gcard" href="#/read/${e.id}" style="width:${w}px;--c:${c}"><div class="gimg" style="${e.hero ? `background-image:url('${esc(e.hero)}')` : `background:${c}`}">${pr?.completedOn != null ? '<span class="gbadge">✓</span>' : ""}</div><div class="gt"><span class="garea">${esc(e.area)}</span><b>${esc(e.title)}</b>${started && pr.completedOn == null ? `<div class="progress" style="height:6px;margin-top:6px"><i style="width:${Math.min(100, started / 20 * 100)}%"></i></div>` : ""}</div></a>`; };
+route(/^\/today$/, async () => {
+  await loadDeckDays();
+  const entry = todayTarget();
+  const data = await loadDay(entry);
+  const r = rec(); const f = floor(entry, data);
+  if (f.met && !r.floor) { r.floor = true; save(); }
+  const st = stepStatus(entry, data);
+  const nextK = STEP_DEF.find(([k]) => !st[k])?.[0];
+  const sk = streak();
+  const known = Object.values(S.cards).filter(c => c.step >= 2).length;
+  const due = dueIds().length;
+  const ready = PLAN.filter(e => e.file);
+  const started = ready.filter(e => e !== entry && S.progress[e.id] && S.progress[e.id].completedOn == null && Object.keys(S.progress[e.id].read || {}).length);
+  const areas = [...new Set(ready.map(e => e.area))];
+  const [c, cd] = col(entry.area);
+  const isStandalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+  const dt = nToDate(now());
+  const stepsDone = STEP_DEF.filter(([k]) => st[k]).length;
+  setView(`<div class="wrap">
+    <div class="statbar"><span class="s">${ICON.flame}${sk.count}</span><span class="s">${ICON.gem}<span style="color:#1CB0F6">${known}</span></span><span class="s">${ICON.stamp}<span style="color:#E5A400">${PLAN.filter(e => S.progress[e.id]?.completedOn != null).length}</span></span><button class="s" data-surprise style="color:var(--blue-d);font-size:13px">SURPRISE ME</button></div>
+    <div class="eyebrow" style="margin-top:18px">${WD[dt.getDay()]}, ${dt.getDate()} ${MON[dt.getMonth()]} · Today</div>
+    <a class="today-card" href="${data ? (nextK ? stepHref(nextK, entry) : `#/close/${entry.id}`) : `#/day/${entry.id}`}" style="--c:${c};--cd:${cd}">
+      <div class="tc-img" style="${entry.hero ? `background-image:url('${esc(entry.hero.replace("/500px-", "/960px-"))}')` : ""}"><div class="tc-cap"><span class="garea" style="background:${c}">Day ${entry.n} · ${esc(entry.area)}</span><h2>${esc(entry.title)}</h2></div></div>
+      <div class="tc-body">${data ? `<div class="ring-row">${ringSvg(f)}<div class="legend">
+        <div><span><i style="background:var(--blue)"></i>Review</span><b>${f.reviewGoal ? `${f.reviewGoal - f.dueLeft}/${f.reviewGoal}` : "none due"}</b></div>
+        <div><span><i style="background:var(--accent)"></i>Read</span><b>${Math.round(f.readDone * 100)}%</b></div>
+        <div><span><i style="background:var(--gold)"></i>New cards</span><b>${f.learnedN}/${f.coreN}</b></div></div></div>
+        <span class="btn primary block" style="margin-top:14px;background:${c};border-color:${c};box-shadow:0 4px 0 ${cd}">${nextK ? `${stepsDone ? "Continue" : "Start"}: ${(STEP_DEF.find(([k]) => k === nextK) || STEP_DEF[0])[1]}` : "Day complete"}</span>` : `<p class="muted">Being researched. Pick anything below meanwhile.</p>`}</div>
+    </a>
+    ${!isStandalone && !S.settings.hideInstall ? `<div class="banner" style="margin-top:16px"><div><b>Add to your Home Screen</b>Safari: Share, then Add to Home Screen. Keeps progress safe, works offline.</div><button class="bx" data-hideinstall aria-label="Dismiss">✕</button></div>` : ""}
+    <div class="quick">
+      <a href="#/review" class="qk"><b>${due}</b><span>cards due</span></a>
+      <a href="#/path" class="qk"><b>${entry.n}</b><span>on the path</span></a>
+      <a href="#/library?Ready" class="qk"><b>${ready.length}</b><span>topics ready</span></a>
+    </div>
+    ${started.length ? `<div class="section-title"><h3>Continue reading</h3></div><div class="shelf">${started.slice(0, 12).map(e => card(e)).join("")}</div>` : ""}
+    <div class="section-title"><h3>Just added</h3><a class="small" href="#/library?Ready" style="color:var(--blue-d);font-weight:800;text-decoration:none">ALL</a></div>
+    <div class="shelf">${ready.slice(-14).reverse().map(e => card(e, 200)).join("")}</div>
+    ${areas.map(a => { const list = ready.filter(e => e.area === a); return `<div class="section-title"><h3>${esc(a)}</h3><a class="small" href="#/library?${encodeURIComponent(a)}" style="color:var(--blue-d);font-weight:800;text-decoration:none">${list.length}</a></div><div class="shelf">${list.slice(0, 16).map(e => card(e)).join("")}</div>`; }).join("")}
+    ${PLAN.length > ready.length ? `<p class="small faint" style="margin:24px 0 0">${PLAN.length - ready.length} more topics are being researched in queue order. New ones appear here as they pass review.</p>` : ""}
+  </div>`, { tab: "today" });
+  const sp = $("[data-surprise]"); if (sp) sp.onclick = () => { const pool = ready.filter(e => S.progress[e.id]?.completedOn == null); const e = pool[(now() * 7 + pool.length * 13 + Object.keys(S.cards).length) % Math.max(1, pool.length)]; if (e) location.hash = `#/read/${e.id}`; };
+  const hi = $("[data-hideinstall]"); if (hi) hi.onclick = () => { S.settings.hideInstall = true; save(); hi.parentElement.remove(); };
   prefetchNext(entry);
 });
 function monthHeat(t, sk) {

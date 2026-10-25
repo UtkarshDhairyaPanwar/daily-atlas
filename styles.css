@@ -490,3 +490,25 @@ h3,.h3{font-family:var(--ui);font-weight:800;font-size:20px}
 .area-chips::-webkit-scrollbar{display:none}
 .area-chips button{flex:none;border:2px solid var(--line);border-radius:12px;padding:8px 12px;font:800 13px/1 var(--ui);color:var(--ink-3);box-shadow:0 3px 0 var(--line);background:var(--card)}
 .area-chips button.on{border-color:var(--blue);color:var(--blue-d);background:var(--blue-soft);box-shadow:0 3px 0 var(--blue)}
+
+/* gallery home */
+.today-card{display:block;margin-top:8px;border:2px solid var(--line);border-radius:22px;overflow:hidden;text-decoration:none;color:inherit;box-shadow:0 4px 0 var(--line)}
+.tc-img{aspect-ratio:16/10;background:var(--c) center/cover no-repeat;position:relative}
+.tc-img::after{content:"";position:absolute;inset:0;background:linear-gradient(transparent 40%,rgba(0,0,0,.6))}
+.tc-cap{position:absolute;left:14px;right:14px;bottom:12px;z-index:1;color:#fff}
+.tc-cap h2{color:#fff;font-size:28px;margin-top:6px}
+.tc-body{padding:14px 16px 18px}
+.garea{display:inline-block;font:800 11px/1 var(--ui);letter-spacing:.05em;text-transform:uppercase;color:#fff;background:var(--c);padding:5px 8px;border-radius:8px}
+.quick{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:16px}
+.qk{border:2px solid var(--line);border-radius:16px;box-shadow:0 4px 0 var(--line);padding:12px;text-decoration:none;color:inherit;text-align:center}
+.qk b{display:block;font:900 22px/1 var(--ui)}
+.qk span{font-size:12px;color:var(--ink-3);font-weight:800}
+.shelf{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;margin:0 calc(var(--gut) * -1);padding:2px var(--gut) 10px;scrollbar-width:none}
+.shelf::-webkit-scrollbar{display:none}
+.gcard{flex:none;scroll-snap-align:start;text-decoration:none;color:inherit}
+.gimg{aspect-ratio:4/5;border-radius:16px;background:var(--c) center/cover no-repeat;position:relative;border:2px solid var(--line)}
+.gbadge{position:absolute;top:8px;right:8px;width:26px;height:26px;border-radius:13px;background:var(--gold);color:#fff;display:grid;place-items:center;font-weight:900;font-size:14px}
+.gt{padding:8px 2px 0}
+.gt .garea{background:none;color:var(--c);padding:0}
+.gt b{display:block;font:800 15px/1.25 var(--ui);margin-top:3px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.statbar button.s{background:none;border:0;font-weight:900}
