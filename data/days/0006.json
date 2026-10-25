@@ -8,7 +8,7 @@
  "as_of": "2026-10-25",
  "reading_minutes": 55,
  "hero": {
-  "image_id": "img_palolem",
+  "image_id": "img_fontainhas",
   "kicker": "Day 6 · West coast",
   "headline": "Goa: 451 years of Portugal, 64 years of India, and a village that comes up for air every May"
  },
@@ -236,8 +236,10 @@
     "title": "Goa in four pictures",
     "data": {
      "image_ids": [
+      "img_fontainhas",
       "img_bom_jesus",
-      "img_dudhsagar"
+      "img_dudhsagar",
+      "img_carnival_2024"
      ]
     }
    },
@@ -1195,7 +1197,10 @@
       "lon": 73.8295
      },
      "when": "1541, rebuilt 1619",
-     "image_ids": [],
+     "image_ids": [
+      "img_immaculate",
+      "img_immaculate_bell"
+     ],
      "media_ids": [],
      "spot_it": "A brilliant white Baroque church at the top of a zigzag staircase in the centre of Panaji.",
      "story_md": "This was the first church sailors saw when they came up the Mandovi from Lisbon, and they stopped here to give thanks before going on to Old Goa. The zigzag stairs were added in the 1870s. In the tower hangs a large bell that once belonged to the Augustinian church in Old Goa, brought here after that church was abandoned. The church is the backdrop of Panaji: the feast on 8 December fills the square with a fair.",
@@ -1246,7 +1251,8 @@
     "title": "Two kinds of Goan house",
     "data": {
      "left": {
-      "label": "Fontainhas town house"
+      "label": "Fontainhas town house",
+      "image_id": "img_fontainhas"
      },
      "right": {
       "label": "Chandor country mansion",
@@ -1287,7 +1293,10 @@
       "lon": 73.8338
      },
      "when": "Laid out in the late 1700s",
-     "image_ids": [],
+     "image_ids": [
+      "img_fontainhas",
+      "img_fontainhas_2"
+     ],
      "media_ids": [],
      "spot_it": "Narrow lanes of yellow, blue and ochre houses with red tile roofs, wrought-iron balconies and blue-and-white tile name plates.",
      "story_md": "Fontainhas, the 'little fountains', is Panaji's old Latin quarter at the foot of Altinho hill. It grew in the late 1700s on land reclaimed by a Goan who had made his money in Mozambique, António João de Sequeira. The name comes from the Phoenix spring at its edge. Look for azulejos, painted ceramic tiles, used for house names and street signs, and for small chapels, including the Chapel of St Sebastian with a crucifix that once hung in the Inquisition's palace. Expect cameras: it is the most photographed street in Goa.",
@@ -1359,7 +1368,8 @@
     "title": "Mando vs fugdi",
     "data": {
      "left": {
-      "label": "Mando"
+      "label": "Mando",
+      "image_id": "img_mando"
      },
      "right": {
       "label": "Fugdi",
@@ -1400,7 +1410,10 @@
       "lon": 73.97
      },
      "when": "Took shape in the 1800s",
-     "image_ids": [],
+     "image_ids": [
+      "img_mando",
+      "img_mando_2"
+     ],
      "media_ids": [
       "vid_mando"
      ],
@@ -1773,6 +1786,8 @@
      },
      "when": "Four days before Ash Wednesday",
      "image_ids": [
+      "img_carnival_2024",
+      "img_carnival_mapusa",
       "img_kunbi_carnival"
      ],
      "media_ids": [
@@ -1823,7 +1838,8 @@
      "when": "24 June",
      "image_ids": [
       "img_sao_joao",
-      "img_kopel"
+      "img_kopel",
+      "img_sao_joao_2"
      ],
      "media_ids": [
       "vid_sao_joao"
@@ -2765,7 +2781,7 @@
   },
   {
    "id": "c07",
-   "type": "fact",
+   "type": "image",
    "front": "Which Panaji neighbourhood is this?",
    "back": "Fontainhas, the Latin quarter.",
    "section_id": "houses",
@@ -2773,7 +2789,7 @@
    "source_ids": [
     "wiki_fontainhas"
    ],
-   "image_id": null,
+   "image_id": "img_fontainhas",
    "spotlight_id": "fontainhas"
   },
   {
@@ -2870,7 +2886,7 @@
   },
   {
    "id": "c15",
-   "type": "fact",
+   "type": "compare",
    "front": "Which of these is a Goan town house in Fontainhas, and which the Chandor mansion?",
    "back": "Left: Fontainhas. Right: Menezes Braganza house, Chandor.",
    "section_id": "houses",
@@ -2879,7 +2895,11 @@
     "wiki_fontainhas",
     "wiki_braganza_house"
    ],
-   "image_id": null
+   "image_id": "img_fontainhas",
+   "image_ids": [
+    "img_fontainhas",
+    "img_braganza"
+   ]
   },
   {
    "id": "c16",
@@ -2909,7 +2929,7 @@
   },
   {
    "id": "c18",
-   "type": "fact",
+   "type": "image",
    "front": "Name the festival and its parade leader.",
    "back": "Carnival, led by King Momo.",
    "section_id": "festivals",
@@ -2917,7 +2937,7 @@
    "source_ids": [
     "wiki_carnival"
    ],
-   "image_id": null,
+   "image_id": "img_carnival_2024",
    "spotlight_id": "carnival"
   },
   {
@@ -3328,6 +3348,28 @@
   }
  ],
  "quiz": [
+  {
+   "id": "q_compare_house",
+   "type": "compare",
+   "prompt": "Which picture shows Fontainhas in Panaji?",
+   "answer": 0,
+   "explanation": "Left: Fontainhas town houses. Right: the Menezes Braganza mansion, Chandor.",
+   "source_ids": [
+    "wiki_fontainhas",
+    "wiki_braganza_house"
+   ],
+   "section_id": "houses",
+   "spotlight_id": "fontainhas",
+   "difficulty": 1,
+   "image_ids": [
+    "img_fontainhas",
+    "img_braganza"
+   ],
+   "options": [
+    "Left",
+    "Right"
+   ]
+  },
   {
    "id": "q_compare_church",
    "type": "compare",
@@ -4837,6 +4879,21 @@
    "caption": "Safa Masjid, Ponda, 1560."
   },
   {
+   "id": "img_fontainhas",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Road_along_Vasco-da-gama_residence_in_Fontainhas,_Panaji.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Road_along_Vasco-da-gama_residence_in_Fontainhas%2C_Panaji.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Road_along_Vasco-da-gama_residence_in_Fontainhas%2C_Panaji.jpg/1280px-Road_along_Vasco-da-gama_residence_in_Fontainhas%2C_Panaji.jpg",
+   "width": 6000,
+   "height": 4000,
+   "author": "iMahesh",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "A narrow street of brightly painted houses with tiled roofs and balconies",
+   "caption": "Fontainhas, Panaji's Latin quarter."
+  },
+  {
    "id": "img_braganza",
    "file_page": "https://commons.wikimedia.org/wiki/File:Menezes_Braganza_House_at_Chandor,_Goa_Photo_Peter_Benaion.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Menezes_Braganza_House_at_Chandor%2C_Goa_Photo_Peter_Benaion.jpg",
@@ -5495,6 +5552,126 @@
    "verified_on": "2026-10-25",
    "alt": "A small crab on mud among mangrove roots",
    "caption": "A fiddler crab at Chorao."
+  },
+  {
+   "id": "img_immaculate",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Panaji_-_Church_of_Our_Lady_of_the_Immaculate_Conception_-_1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Panaji_-_Church_of_Our_Lady_of_the_Immaculate_Conception_-_1.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Panaji_-_Church_of_Our_Lady_of_the_Immaculate_Conception_-_1.jpg/1280px-Panaji_-_Church_of_Our_Lady_of_the_Immaculate_Conception_-_1.jpg",
+   "width": 7008,
+   "height": 3730,
+   "author": "Ingo Mehling",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Ingo Mehling, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "A white Baroque church facade above a zigzag staircase",
+   "caption": "Our Lady of the Immaculate Conception, Panaji."
+  },
+  {
+   "id": "img_immaculate_bell",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Panaji_-_Church_of_Our_Lady_of_the_Immaculate_Conception_-_Bell.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Panaji_-_Church_of_Our_Lady_of_the_Immaculate_Conception_-_Bell.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Panaji_-_Church_of_Our_Lady_of_the_Immaculate_Conception_-_Bell.jpg/1280px-Panaji_-_Church_of_Our_Lady_of_the_Immaculate_Conception_-_Bell.jpg",
+   "width": 4180,
+   "height": 6316,
+   "author": "Ingo Mehling",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Ingo Mehling, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "A large bronze bell in a church tower",
+   "caption": "The great bell in the church tower."
+  },
+  {
+   "id": "img_carnival_mapusa",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Carnival_2009_at_Mapusa_Goa_-_Cidade_de_Goa_Float.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Carnival_2009_at_Mapusa_Goa_-_Cidade_de_Goa_Float.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Carnival_2009_at_Mapusa_Goa_-_Cidade_de_Goa_Float.jpg",
+   "width": 1024,
+   "height": 1280,
+   "author": "Joseph de Souza",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "attribution": "Photo: Joseph de Souza, CC BY-SA 2.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "A decorated float in a street parade with crowds",
+   "caption": "A carnival float at Mapusa, 2009."
+  },
+  {
+   "id": "img_carnival_2024",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Viva_Carnival_2024.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Viva_Carnival_2024.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Viva_Carnival_2024.jpg/1280px-Viva_Carnival_2024.jpg",
+   "width": 3456,
+   "height": 5184,
+   "author": "Noobshots",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Noobshots, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Costumed dancers in a carnival parade",
+   "caption": "Viva Carnival, 2024."
+  },
+  {
+   "id": "img_sao_joao_2",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Sao_Joao_8.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sao_Joao_8.JPG",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Sao_Joao_8.JPG/1280px-Sao_Joao_8.JPG",
+   "width": 3264,
+   "height": 2448,
+   "author": "Frenia pamela barretto",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Photo: Frenia pamela barretto, CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Villagers celebrating Sao Joao by a pond",
+   "caption": "Sao Joao in Bannaulim."
+  },
+  {
+   "id": "img_fontainhas_2",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Fontainhas_Goa_vrvbgoa2k24_(6).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Fontainhas_Goa_vrvbgoa2k24_%286%29.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Fontainhas_Goa_vrvbgoa2k24_%286%29.jpg/1280px-Fontainhas_Goa_vrvbgoa2k24_%286%29.jpg",
+   "width": 3024,
+   "height": 4032,
+   "author": "Vinayaraj",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Vinayaraj, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "A lane of painted Portuguese-era houses",
+   "caption": "Fontainhas, 2024."
+  },
+  {
+   "id": "img_mando",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Mando_dancers_on_stage,_Goa.2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mando_dancers_on_stage%2C_Goa.2.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Mando_dancers_on_stage%2C_Goa.2.jpg/1280px-Mando_dancers_on_stage%2C_Goa.2.jpg",
+   "width": 3648,
+   "height": 2736,
+   "author": "Fredericknoronha",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Fredericknoronha, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Couples in formal dress dancing on a stage",
+   "caption": "Mando dancers on stage."
+  },
+  {
+   "id": "img_mando_2",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Goa_Mando_Festival_2019_(53rd)_-_Singers_seen_on_stage.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Goa_Mando_Festival_2019_%2853rd%29_-_Singers_seen_on_stage.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Goa_Mando_Festival_2019_%2853rd%29_-_Singers_seen_on_stage.jpg/1280px-Goa_Mando_Festival_2019_%2853rd%29_-_Singers_seen_on_stage.jpg",
+   "width": 4160,
+   "height": 2340,
+   "author": "Frederick Noronha fredericknoronha1@gmail.com",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "attribution": "Photo: Frederick Noronha fredericknoronha1@gmail.com, CC BY-SA 2.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "alt": "Singers performing on a festival stage",
+   "caption": "Singers at the 53rd Goa Mando Festival, 2019."
   }
  ],
  "media": [
@@ -6385,34 +6562,16 @@
    "spotlight_id": "opinion_poll"
   },
   {
-   "claim": "Photo of Our Lady of the Immaculate Conception, Panaji",
-   "status": "no_image",
-   "note": "No correctly identified, openly licensed photo found on Wikimedia Commons during research.",
-   "spotlight_id": "immaculate"
-  },
-  {
    "claim": "Photo of Lairai jatra and the firewalk",
    "status": "no_image",
    "note": "No correctly identified, openly licensed photo found on Wikimedia Commons during research.",
    "spotlight_id": "shirgao"
   },
   {
-   "claim": "Photo of Fontainhas",
-   "status": "no_image",
-   "note": "No correctly identified, openly licensed photo found on Wikimedia Commons during research.",
-   "spotlight_id": "fontainhas"
-  },
-  {
    "claim": "Photo of Oyster-shell windows",
    "status": "no_image",
    "note": "No correctly identified, openly licensed photo found on Wikimedia Commons during research.",
    "spotlight_id": "oyster_windows"
-  },
-  {
-   "claim": "Photo of Mando",
-   "status": "no_image",
-   "note": "No correctly identified, openly licensed photo found on Wikimedia Commons during research.",
-   "spotlight_id": "mando"
   },
   {
    "claim": "Photo of The Goa civil code",
