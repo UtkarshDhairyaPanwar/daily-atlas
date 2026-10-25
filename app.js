@@ -727,7 +727,7 @@ route(/^\/today$/, async () => {
         <div><span><i style="background:var(--blue)"></i>Review</span><b>${f.reviewGoal ? `${f.reviewGoal - f.dueLeft}/${f.reviewGoal}` : "none due"}</b></div>
         <div><span><i style="background:var(--accent)"></i>Read</span><b>${Math.round(f.readDone * 100)}%</b></div>
         <div><span><i style="background:var(--gold)"></i>New cards</span><b>${f.learnedN}/${f.coreN}</b></div></div></div>
-        <span class="btn primary block" style="margin-top:14px;background:${c};border-color:${c};box-shadow:0 4px 0 ${cd}">${nextK ? `${stepsDone ? "Continue" : "Start"}: ${(STEP_DEF.find(([k]) => k === nextK) || STEP_DEF[0])[1]}` : "Day complete"}</span>` : `<p class="muted">Being researched. Pick anything below meanwhile.</p>`}</div>
+        <span class="btn primary block" style="margin-top:14px;background:${c};border-color:${c};box-shadow:0 5px 0 ${cd}">${nextK ? `${stepsDone ? "Continue" : "Start"}: ${(STEP_DEF.find(([k]) => k === nextK) || STEP_DEF[0])[1]}` : "Day complete"}</span>` : `<p class="muted">Being researched. Pick anything below meanwhile.</p>`}</div>
     </a>
     ${!isStandalone && !S.settings.hideInstall ? `<div class="banner" style="margin-top:16px"><div><b>Add to your Home Screen</b>Safari: Share, then Add to Home Screen. Keeps progress safe, works offline.</div><button class="bx" data-hideinstall aria-label="Dismiss">✕</button></div>` : ""}
     <div class="quick">

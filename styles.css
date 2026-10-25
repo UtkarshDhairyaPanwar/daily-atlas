@@ -542,3 +542,5 @@ h3,.h3{font-family:var(--ui);font-weight:800;font-size:20px}
 .stamp.land{animation:land .6s var(--spring) both}
 #haptic{position:fixed;left:-100px;top:0;opacity:0;pointer-events:none}
 @media (prefers-reduced-motion:reduce){.opt.right,.opt.wrong,.fb{animation:none!important}}
+.btn.primary{box-shadow:0 var(--press) 0 var(--accent-d),inset 0 2px 0 rgba(255,255,255,.25)}
+.rate .good{box-shadow:0 var(--press) 0 var(--accent-d)}.rate .again{box-shadow:0 var(--press) 0 var(--bad)}
