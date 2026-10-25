@@ -1,0 +1,2618 @@
+n	area	title	tier
+1	India	Andhra Pradesh	A
+2	India	Arunachal Pradesh	A
+3	India	Assam	A
+4	India	Bihar	A
+5	India	Chhattisgarh	A
+6	India	Goa	A
+7	India	Gujarat	A
+8	India	Haryana	A
+9	India	Himachal Pradesh	A
+10	India	Jharkhand	A
+11	India	Karnataka	A
+12	India	Kerala	A
+13	India	Madhya Pradesh	A
+14	India	Maharashtra	A
+15	India	Manipur	A
+16	India	Meghalaya	A
+17	India	Mizoram	A
+18	India	Nagaland	A
+19	India	Odisha	A
+20	India	Punjab	A
+21	India	Rajasthan	A
+22	India	Sikkim	A
+23	India	Tamil Nadu	A
+24	India	Telangana	A
+25	India	Tripura	A
+26	India	Uttar Pradesh	A
+27	India	Uttarakhand	A
+28	India	West Bengal	A
+29	India	Andaman & Nicobar Islands	A
+30	India	Chandigarh	A
+31	India	Dadra & Nagar Haveli and Daman & Diu	A
+32	India	Delhi (NCT)	A
+33	India	Jammu & Kashmir	A
+34	India	Ladakh	A
+35	India	Lakshadweep	A
+36	India	Puducherry	A
+37	Fashion	Dress in ancient Egypt and Mesopotamia	B
+38	Economics	What economics studies: scarcity and trade-offs	A
+39	Human body	A tour of the body: cells, tissues, organs, systems	A
+40	Mathematics	What mathematics is and why it works	A
+41	Science	How science actually works	A
+42	Medicine	How medicine learned to test itself: the trial	A
+43	Politics	What politics is: power, authority and legitimacy	A
+44	Computing	How a computer works: from switches to software	A
+45	Money	What money actually is	A
+46	Type	What typography is for	A
+47	How things work	How to reason about how a thing is made	A
+48	Internet	What internet culture is and how it forms	A
+49	Psychology	How psychology tests a claim and the replication crisis	A
+50	Festivals	Why humans have festivals at all	A
+51	World	Japan	A
+52	Religion	How to study religion comparatively	A
+53	Geography	What geography is: physical and human	A
+54	Food	Why food history is world history	A
+55	Philosophy	What philosophy is for	A
+56	Astronomy	How we know what we know: the distance ladder	A
+57	Personal finance	Compound interest and the time value of money	A
+58	History	Human origins and out of Africa	A
+59	Business	What a business is: value, customers and profit	A
+60	Nature	How evolution actually works	A
+61	Literature	What literature is for and how to read closely	A
+62	Cities	What makes a city and how cities began	A
+63	Myth	What myth does and why every culture has it	A
+64	Crime	What criminology actually studies	A
+65	Economics	Opportunity cost and thinking at the margin	A
+66	Indian history	How Indian history is written: sources and debates	A
+67	Games	Why humans play games	A
+68	Film	How to actually watch a film	A
+69	History	The Neolithic agricultural revolution	A
+70	Music	How music works: pitch, rhythm, melody and harmony	A
+71	Computing	Binary and how computers represent everything	A
+72	Sports	The Olympic Games: ancient to modern	A
+73	Thinking	Learning how to learn: a practical system	A
+74	Language	What historical linguistics actually does	A
+75	Society	What sociology studies	A
+76	Law	What law is: rules, rights and the rule of law	A
+77	Brands	What a brand actually is	A
+78	Money	Barter and the myth of barter	B
+79	Medicine	Ancient medicine: Egypt, Greece and humours	B
+80	Climate	The greenhouse effect, simply	A
+81	Human body	The skeleton and joints	A
+82	Society	Durkheim, Weber and Marx: the founders of sociology	B
+83	Literature	How stories work: plot, character and point of view	A
+84	Design	What design is: form, function and meaning	A
+85	Art	How to look at a painting	A
+86	How things work	What engineers do: the branches of engineering	A
+87	Science	Peer review and how papers get published	B
+88	Politics	The state: what it is and where it came from	A
+89	Personal finance	Budgeting and cash flow	A
+90	World	South Korea	A
+91	Paranormal	How conspiracy theories work psychologically	A
+92	Thinking	Critical thinking: a toolkit	A
+93	Fashion	Greek and Roman dress	B
+94	War	Why wars happen	A
+95	Architecture	How to look at a building	A
+96	Philosophy	Logic and the common fallacies	A
+97	Economics	Supply and demand	A
+98	Mathematics	Numbers: from counting to the number line	A
+99	Social media	Bulletin boards, Usenet and the pre-web internet	B
+100	Festivals	Diwali	A
+101	Science	Atoms and the periodic table	A
+102	Film	The birth of cinema: Lumière and Méliès	A
+103	How things work	The shipping container and the birth of globalisation	A
+104	Money	Coinage and the first currencies	B
+105	Type	Writing before type: scribes and manuscripts	B
+106	Geography	Maps and projections: why Greenland looks huge	A
+107	Psychology	Anchoring	A
+108	Mathematics	Zero and Indian mathematics	A
+109	Astronomy	A tour of the solar system	A
+110	Indian history	Prehistoric India: Bhimbetka and the first Indians	B
+111	Crime	The history of policing	A
+112	Human body	Muscles and how movement works	A
+113	Language	Proto-Indo-European: reconstructing a lost language	A
+114	Politics	Forms of government: democracy, monarchy, dictatorship	A
+115	Religion	Hinduism: an overview	A
+116	Cities	Ur, Babylon and the first cities	A
+117	Business	Reading financial statements	A
+118	History	Göbekli Tepe and early monuments	B
+119	Law	Natural law vs legal positivism	B
+120	World	North Korea	B
+121	Art	Cave art and the first images	A
+122	Climate	The carbon cycle	A
+123	Food	Wheat and the birth of agriculture	A
+124	Internet	Meme theory: from Dawkins to Doge	A
+125	Computing	Logic gates and the CPU	A
+126	Indian history	The Indus Valley Civilisation	A
+127	Myth	Greek mythology: the Olympians	A
+128	Nature	Natural selection and its misreadings	A
+129	Philosophy	The Presocratics: Thales to Heraclitus	B
+130	Music	Hindustani classical music	A
+131	Psychology	Loss aversion and prospect theory	A
+132	Thinking	First principles thinking	A
+133	Society	Anthropology: studying humans up close	A
+134	Festivals	Holi	A
+135	War	Sun Tzu and The Art of War	A
+136	Geography	Latitude, longitude and time zones	A
+137	Computing	Memory, storage and the hierarchy	B
+138	Literature	How to read a poem	A
+139	Medicine	Ayurveda	A
+140	Games	Senet, the Royal Game of Ur and ancient games	B
+141	Mathematics	Aryabhata, Brahmagupta and Bhaskara	B
+142	Human body	The heart and circulation	A
+143	Science	States of matter: solid, liquid, gas and plasma	B
+144	Astronomy	The Sun	A
+145	Politics	How democracy spread: Athens to universal suffrage	B
+146	How things work	The semiconductor: sand to chip	A
+147	Business	Unit economics	B
+148	Architecture	Structure: walls, arches, domes and vaults	A
+149	Film	Silent cinema and slapstick	A
+150	Economics	Markets and prices: how they coordinate	A
+151	Brands	Positioning: owning a place in the mind	B
+152	Crime	Detective work before forensics	B
+153	Psychology	The endowment effect	B
+154	Type	Gutenberg and movable type	A
+155	Personal finance	The emergency fund	A
+156	History	Mesopotamia and Sumer	A
+157	Myth	Greek heroes and the epic cycle	B
+158	Social media	The early web and personal homepages	B
+159	History	Ancient Egypt: Old, Middle and New Kingdoms	A
+160	Law	Where law came from: Hammurabi to Roman law	B
+161	Religion	Vedic religion and the Vedas	A
+162	Nature	Sexual selection	B
+163	Cities	Ancient Athens	B
+164	Sports	Association football (soccer)	A
+165	Design	A history of graphic design	A
+166	Computing	Operating systems	A
+167	Indian history	The Aryan migration debate	B
+168	Literature	Poetic forms: haiku, ghazal, sonnet and doha	B
+169	Climate	How we measure past climate: proxies and ice cores	B
+170	Music	Carnatic music	A
+171	Economics	Incentives and unintended consequences	A
+172	Fashion	Medieval European clothing	B
+173	Architecture	Materials: stone, brick, timber, steel and glass	B
+174	Politics	Constitutions: what they do	A
+175	Art	Egyptian and Mesopotamian art	B
+176	Society	Culture: what it is and how it is passed on	A
+177	War	Clausewitz and the nature of war	A
+178	How things work	Photolithography and how chips are actually printed	B
+179	Paranormal	Roswell and the birth of UFO culture	B
+180	Philosophy	Socrates and the examined life	A
+181	Religion	The Upanishads and Vedanta	A
+182	Food	Rice and Asian civilisation	A
+183	Business	Business models: subscriptions, marketplaces and platforms	A
+184	World	China: Han heartland	A
+185	Human body	Blood and what it carries	B
+186	Astronomy	Mercury and Venus	B
+187	Science	Chemical bonds and reactions	A
+188	Medicine	Traditional Chinese medicine	B
+189	Climate	The instrumental temperature record	B
+190	Nature	Convergent evolution	B
+191	Thinking	Mental models: a starter set	B
+192	Internet	The evolution of the meme format	B
+193	Geography	GIS and satellite mapping	B
+194	Language	The Indo-European family tree	A
+195	Personal finance	Inflation and your savings	B
+196	Politics	Separation of powers and checks and balances	A
+197	Money	Paper money and its Chinese origin	B
+198	War	Logistics: why amateurs talk tactics	B
+199	Literature	Greek tragedy: Aeschylus, Sophocles and Euripides	A
+200	Indian history	Vedic India	A
+201	Film	German Expressionism	B
+202	Art	Greek sculpture and the classical ideal	A
+203	Science	Acids, bases and everyday chemistry	B
+204	Sports	Cricket	A
+205	Games	The history of chess	A
+206	Economics	Elasticity	B
+207	Music	The raga system explained	A
+208	Brands	Salesforce: inventing enterprise SaaS	B
+209	Psychology	Sunk cost fallacy	B
+210	Mathematics	The Kerala school and calculus before Newton	B
+211	Myth	The Iliad and the Odyssey	A
+212	Philosophy	Plato: the cave and the Forms	A
+213	Design	Posters through history	B
+214	Computing	What programming is	A
+215	History	Shang and Zhou China	B
+216	Philosophy	Aristotle: logic, ethics and the golden mean	A
+217	Law	Magna Carta and the limits of power	B
+218	Fashion	Indian textiles in the ancient and medieval world	A
+219	Human body	Blood pressure and hypertension	B
+220	Thinking	Second-order thinking	B
+221	Cities	Rome as a city	A
+222	Crime	Fingerprints	B
+223	World	China: Yunnan & the southwest	B
+224	Festivals	Durga Puja	A
+225	History	Ancient Greece: the polis	A
+226	How things work	Concrete: Roman to modern	A
+227	Food	Maize and the Americas	A
+228	Nature	Extinction: the big five events	A
+229	Mathematics	Euclid and the idea of proof	A
+230	Society	Socialisation: how we become who we are	B
+231	Internet	Early internet culture: IRC, forums and flame wars	B
+232	Geography	How Earth formed and its layers	A
+233	Architecture	Ancient Greek and Roman architecture	A
+234	Personal finance	Debt: good, bad and credit cards	B
+235	Psychology	Confirmation bias	A
+236	Computing	Programming languages and why there are so many	B
+237	Money	Cowries, salt and commodity money	C
+238	Art	Roman art and portraiture	B
+239	Religion	Samkhya, Yoga and the six darshanas	B
+240	Business	Strategy: Porter's five forces	A
+241	Money	Banking in medieval Italy	B
+242	Economics	Competition, monopoly and market power	B
+243	Brands	Stripe: developer-first B2B	B
+244	Indian history	Magadha, the mahajanapadas and the age of the Buddha	B
+245	History	Athenian democracy	B
+246	War	Ancient warfare: chariot, phalanx and legion	B
+247	World	Tibet	B
+248	Climate	Attribution science: linking events to warming	B
+249	Film	Soviet montage and Eisenstein	A
+250	Thinking	Inversion and the pre-mortem	B
+251	Politics	Federalism	B
+252	Science	Organic chemistry: the chemistry of carbon	B
+253	Food	Potatoes and how they changed Europe	A
+254	Social media	Orkut and India's first social network	B
+255	Astronomy	Mars and the search for life	B
+256	Climate	The IPCC and how it works	B
+257	Geography	Earth's deep history: the geological time scale	B
+258	Law	Legal systems: common law	B
+259	Design	Logo design and visual identity	B
+260	Computing	Algorithms and Big O	A
+261	Business	Competitive advantage and moats	B
+262	Human body	The lungs and breathing	A
+263	Politics	Electoral systems: first past the post vs proportional	A
+264	Cities	Constantinople / Istanbul	A
+265	Games	Go and its depth	A
+266	Science	Newton's laws in everyday life	A
+267	Music	Tala and Indian rhythm	A
+268	Language	Latin to the Romance languages	B
+269	Society	Social class	A
+270	World	Mongolia	B
+271	Philosophy	Stoicism: Seneca, Epictetus, Marcus Aurelius	A
+272	Type	Blackletter	B
+273	Personal finance	CIBIL and credit scores in India	B
+274	Human body	Digestion: mouth to gut	A
+275	Religion	The Bhakti movement	A
+276	How things work	Steel and the Bessemer process	A
+277	Economics	Market failures: externalities and public goods	A
+278	Indian history	The Mauryan Empire and Ashoka	A
+279	Psychology	The availability heuristic	A
+280	Festivals	Navratri and Garba	B
+281	Thinking	Thinking in probabilities and bets	B
+282	Money	Double-entry bookkeeping	B
+283	Nature	The Cambrian explosion	B
+284	Mathematics	Geometry: Pythagoras to non-Euclidean space	A
+285	Art	Byzantine art and the icon	B
+286	Myth	Roman myth and its Greek borrowings	B
+287	Architecture	Indian temple architecture	A
+288	Indian history	After the Mauryas: Shungas, Satavahanas and Kushanas	B
+289	Fashion	Renaissance fashion and the rise of the tailor	B
+290	Science	Gravity: Newton to Einstein	B
+291	Literature	Virgil's Aeneid and Ovid's Metamorphoses	B
+292	Astronomy	Jupiter and its moons	B
+293	Society	Bourdieu and cultural capital	B
+294	Internet	4chan and the imageboards	B
+295	Sports	Basketball	A
+296	Medicine	Smallpox and the first vaccine	B
+297	History	Alexander the Great	B
+298	Philosophy	Epicurus and the pursuit of pleasure	B
+299	Mathematics	Trigonometry and its uses	B
+300	War	The Greco-Persian wars: Marathon to Salamis	B
+301	World	Taiwan	B
+302	How things work	Glass and float glass	B
+303	Psychology	Survivorship bias	B
+304	History	The Roman Republic	B
+305	Economics	Information asymmetry: lemons and moral hazard	B
+306	Film	The Hollywood studio system	A
+307	Politics	Political parties and how they work	B
+308	Personal finance	Insurance: term life and health cover in India	A
+309	Thinking	Estimation and Fermi problems	B
+310	Law	Dharmashastra and law in ancient India	C
+311	Money	The Dutch East India Company and the first shares	B
+312	Geography	Geology: plate tectonics	A
+313	Language	Sanskrit to Prakrit to the modern Indo-Aryan languages	A
+314	Computing	Data structures	B
+315	Nature	Dinosaurs and what killed them	B
+316	Social media	Six Degrees, Friendster and MySpace	C
+317	Festivals	Ganesh Chaturthi	B
+318	Social media	Facebook's rise	A
+319	Law	Legal systems: civil law	B
+320	Literature	Kalidasa and Sanskrit drama	A
+321	Food	Chilli: from Mexico to the world	B
+322	Climate	Climate models and their reliability	A
+323	Architecture	Stepwells, forts and palaces of India	B
+324	Religion	Shaivism, Vaishnavism and Shaktism	B
+325	Human body	The liver: the body's chemical plant	B
+326	Music	Indian folk: Baul of Bengal	B
+327	Cities	Baghdad in the Golden Age	B
+328	Design	Colour theory	B
+329	Politics	Presidential vs parliamentary systems	B
+330	Art	Islamic art and the ornament	A
+331	Science	Energy and the laws of thermodynamics	A
+332	Economics	The tragedy of the commons and Elinor Ostrom	B
+333	Myth	Norse mythology and Ragnarök	A
+334	Astronomy	Saturn and its rings	B
+335	Personal finance	Why ULIPs and endowment plans usually disappoint	B
+336	Business	Disruptive innovation and Christensen	B
+337	War	Hannibal and Cannae	B
+338	Medicine	Vaccination: how it works	A
+339	History	The Roman Empire	A
+340	World	Hong Kong & Macau	B
+341	Paranormal	The moon landing hoax claim	B
+342	Science	Entropy and the arrow of time	B
+343	Society	Caste: origins, practice and persistence	A
+344	Language	Grimm's Law and the Germanic branch	C
+345	Cities	Chang'an and Xi'an	B
+346	Medicine	Unani and Islamic medicine	C
+347	Language	Hindi and Urdu: one language, two identities	A
+348	Climate	Tipping points and feedback loops	A
+349	Psychology	The Dunning-Kruger effect and what it actually says	B
+350	How things work	Aluminium and electrolysis	B
+351	Music	Manganiyar and Langa of Rajasthan	B
+352	Sports	Tennis	A
+353	Politics	Liberalism	A
+354	Computing	Computability: Turing and the limits of computation	B
+355	Social media	Twitter and the public square	B
+356	Type	Incunabula and the first printed books	C
+357	Design	Gestalt principles	B
+358	Thinking	Systems thinking	B
+359	Nature	How birds are dinosaurs	B
+360	Brands	Figma: bottom-up B2B in design	B
+361	Architecture	Islamic architecture	A
+362	Geography	Rocks and the rock cycle	B
+363	Mathematics	Algebra: the idea of the unknown	A
+364	Indian history	The Sangam age and the Tamil kingdoms	B
+365	Philosophy	Charvaka: India's materialists	B
+366	Literature	Sangam poetry: the oldest Tamil literature	B
+367	Internet	Anonymous and hacktivism	B
+368	Literature	Silappatikaram and the Tamil epics	B
+369	Thinking	Decision-making frameworks	B
+370	Literature	Greek and Roman comedy: Aristophanes to Plautus	C
+371	Film	The Hays Code	B
+372	Medicine	Germ theory and Pasteur	A
+373	Computing	Babbage, Lovelace and the first computers	B
+374	Festivals	Onam	B
+375	Human body	The kidneys and fluid balance	B
+376	History	The fall of Rome	A
+377	Science	Electricity and magnetism	A
+378	Psychology	Hindsight bias	B
+379	Business	Pricing strategy	B
+380	Politics	Conservatism	A
+381	Religion	Buddhism: the life of the Buddha and core teachings	A
+382	Society	Caste in modern India: data and debates	B
+383	Philosophy	Nyaya: Indian logic and how we know	B
+384	Art	Indian classical art: Ajanta and Ellora	A
+385	Food	Black pepper and the spice trade	A
+386	Human body	The lymphatic system	B
+387	Climate	Sea level rise	A
+388	Economics	Comparative advantage and why countries trade	A
+389	Type	Garamond and the old-style face	B
+390	How things work	Plastics and polymer chemistry	A
+391	Geography	Mountains and how they form	B
+392	Music	Northeast Indian folk traditions	B
+393	War	Battles that made India: Tarain, Talikota and Haldighati	B
+394	Crime	DNA profiling	A
+395	World	Thailand	B
+396	Law	Constitutional law and judicial review	A
+397	How things work	Rubber, vulcanisation and the tyre	B
+398	Medicine	Antiseptics and Lister	B
+399	Thinking	Problem-solving: how experts approach problems	B
+400	Economics	Tariffs, protectionism and trade wars	B
+401	Psychology	Fundamental attribution error	A
+402	Personal finance	Asset allocation	A
+403	Nature	Mammals and their rise	B
+404	Indian history	India and the Roman trade	B
+405	Money	Tulip mania and what really happened	B
+406	Design	Information design and data visualisation	B
+407	Literature	Panchatantra, Hitopadesha and the fable	B
+408	Computing	Turing, Bletchley Park and the wartime machines	B
+409	Social media	Instagram and the visual turn	B
+410	Food	Cinnamon, cloves and nutmeg	B
+411	Religion	Theravada Buddhism	B
+412	Society	Race and racism	B
+413	Medicine	Medieval medicine and the plague doctor	C
+414	Sports	Baseball	B
+415	Politics	Socialism and social democracy	A
+416	Paranormal	The JFK assassination theories	B
+417	Brands	Atlassian: the no-salesforce sales model	B
+418	History	The Byzantine Empire	B
+419	Business	Marketing fundamentals: the four Ps and beyond	B
+420	Film	Film noir	B
+421	Cities	Kyoto	B
+422	Philosophy	Buddhist philosophy: no-self and dependent origination	B
+423	Language	The Dravidian family	A
+424	Festivals	Pongal and Makar Sankranti	B
+425	Paranormal	Area 51	C
+426	Art	Mughal miniature painting	A
+427	Personal finance	Mutual funds and SIPs	A
+428	Internet	Reddit's culture and its subreddit ecosystems	B
+429	Mathematics	Functions and graphs	A
+430	Crime	Forensic pathology and autopsy	B
+431	Money	The South Sea Bubble	B
+432	World	Vietnam	A
+433	Type	Baskerville and transitional type	B
+434	Science	Light and the electromagnetic spectrum	A
+435	Economics	The WTO and globalisation	B
+436	Geography	The Himalaya: making of a mountain range	B
+437	Architecture	Indo-Islamic and Mughal architecture	A
+438	Nature	Domestication of animals	A
+439	Computing	ENIAC to the mainframe	B
+440	Psychology	In-group bias and tribalism	B
+441	Thinking	Reading a scientific study	B
+442	Indian history	The Gupta Empire	A
+443	Society	Ethnicity and identity	B
+444	Politics	Communism in theory and practice	B
+445	Film	Italian neorealism	A
+446	Literature	Classical Chinese poetry: Li Bai and Du Fu	B
+447	Science	Sound and waves	B
+448	Human body	The brain: structure and function	A
+449	Religion	Mahayana Buddhism	B
+450	War	The three battles of Panipat	B
+451	History	The Sassanids and Persia	B
+452	World	Indonesia: Java & Bali	A
+453	Human body	Neurons and how signals travel	A
+454	Crime	Ballistics	C
+455	Law	The Indian legal system	A
+456	How things work	Paper and how it is made	B
+457	Language	Munda and Tibeto-Burman languages of India	B
+458	Climate	Ocean warming and acidification	B
+459	Business	Customer research and jobs-to-be-done	B
+460	Mathematics	Exponential growth and why we misjudge it	A
+461	Music	Qawwali and Sufi devotional music	B
+462	Law	The Supreme Court of India	A
+463	Architecture	Chinese and Japanese traditional architecture	B
+464	Economics	GDP and what it misses	A
+465	Nature	Domestication of plants	A
+466	Geography	Volcanoes	B
+467	Philosophy	Nagarjuna and the middle way	B
+468	Cities	Angkor	B
+469	Psychology	Groupthink	B
+470	History	The rise of Islam	A
+471	Astronomy	Asteroids, meteors and comets	B
+472	Social media	YouTube	B
+473	Medicine	Anaesthesia	B
+474	Thinking	Evaluating sources and media literacy	B
+475	Personal finance	Index investing as a lifetime strategy	A
+476	Indian history	Nalanda and the ancient universities	B
+477	How things work	Textiles: from fibre to fabric	B
+478	Philosophy	Jain philosophy: anekantavada and many-sidedness	B
+479	Mathematics	Logarithms	A
+480	Politics	Anarchism	B
+481	Science	Lasers	B
+482	Food	Salt	A
+483	Brands	HubSpot: inbound marketing as a brand	B
+484	History	The Islamic Golden Age	B
+485	Paranormal	The Illuminati: history vs myth	B
+486	Indian history	Harsha and the age of regional kingdoms	B
+487	Climate	Coral reef collapse	B
+488	Art	Rajput and Pahari painting	B
+489	Medicine	The history of surgery	B
+490	Sports	Formula 1	B
+491	Design	Industrial design: Loewy to Dieter Rams	B
+492	Science	Special relativity, simply	A
+493	Geography	Earthquakes	B
+494	Society	Adivasis and indigenous peoples	B
+495	Religion	Zen and Chan	B
+496	War	Plassey and Buxar	B
+497	Games	Pachisi, chaupar and Ludo	B
+498	Business	Growth: funnels and retention	B
+499	Festivals	Baisakhi and Lohri	B
+500	Computing	The personal computer revolution	B
+501	Language	Sino-Tibetan and the Chinese varieties	B
+502	Brands	Snowflake: the data warehouse play	C
+503	Literature	The Tale of Genji and Heian literature	B
+504	Music	Bhajan, kirtan and devotional traditions	B
+505	Art	Company painting and colonial encounter	B
+506	Type	Didot, Bodoni and the modern face	B
+507	Law	Kesavananda Bharati and the basic structure	A
+508	Human body	The spinal cord and reflexes	B
+509	Film	The French New Wave	A
+510	Personal finance	Picking stocks: should you?	B
+511	Psychology	Social proof and conformity	A
+512	Economics	Economic growth: why some nations are rich	A
+513	World	Indonesia: Sumatra & Sulawesi	B
+514	Games	Shogi and xiangqi	C
+515	Literature	Persian poetry: Rumi, Hafez and Saadi	B
+516	Money	The gold standard	B
+517	Astronomy	The Moon	A
+518	Computing	Xerox PARC and the graphical interface	B
+519	Climate	Glaciers and ice sheets	B
+520	War	Medieval warfare: castles and knights	B
+521	Philosophy	Kautilya's Arthashastra	B
+522	Food	Sugar and slavery	A
+523	Philosophy	Pyrrho and ancient scepticism	C
+524	Politics	Fascism and authoritarianism as ideas	B
+525	Economics	Productivity	B
+526	Type	Nicolas Jenson and the roman letterform	C
+527	Myth	Egyptian myth	A
+528	Thinking	Steelmanning and argument mapping	B
+529	Indian history	Indo-Greeks and the Gandhara world	C
+530	How things work	Dyes and the synthetic colour revolution	B
+531	Fashion	Victorian dress and the corset debate	B
+532	Cities	Cairo	B
+533	Social media	TikTok and the algorithmic feed	B
+534	Fashion	Elizabethan dress and sumptuary law	C
+535	Mathematics	Calculus, the idea	A
+536	World	Philippines	B
+537	Science	General relativity and curved spacetime	B
+538	Thinking	Intellectual humility and changing your mind	B
+539	Geography	The water cycle	A
+540	Architecture	Gothic architecture	A
+541	Design	The Eameses and mid-century design	B
+542	Nature	The tree of life and what a species is	A
+543	Human body	Vision and the eye	B
+544	Astronomy	Eclipses	B
+545	Language	The Semitic family	B
+546	Society	Family and kinship systems	A
+547	History	The Vikings	B
+548	Medicine	Blood, transfusion and blood types	B
+549	Business	How B2B selling works	B
+550	Indian history	Pallavas and Chalukyas	B
+551	Festivals	Bihu	B
+552	Politics	Nationalism	A
+553	Crime	Toxicology and poisons	B
+554	Economics	Unemployment	A
+555	Law	Public interest litigation and judicial activism in India	B
+556	Politics	Populism	B
+557	Climate	Permafrost thaw and methane	B
+558	Music	Gamelan of Java and Bali	B
+559	Philosophy	Thiruvalluvar and the Kural	B
+560	Psychology	The Asch conformity experiments	B
+561	Crime	Blood spatter and trace evidence	C
+562	Personal finance	EPF, PPF and NPS	B
+563	Cities	Timbuktu	B
+564	Religion	Tibetan Vajrayana Buddhism	B
+565	Games	The origin of playing cards	B
+566	Mathematics	Probability for everyday life	A
+567	Medicine	Organ transplantation	B
+568	Fashion	The Belle Époque and Charles Frederick Worth	B
+569	Society	Marriage across cultures	B
+570	Computing	Silicon Valley: how it formed	B
+571	How things work	Refrigeration and the cold chain	A
+572	Food	Coffee	A
+573	Nature	Bacteria and archaea	A
+574	History	Feudal Europe	A
+575	World	Malaysia	B
+576	Art	Chinese painting and calligraphy	A
+577	Science	Quantum mechanics, simply	A
+578	Religion	Jainism	A
+579	Law	Customary and tribal law	C
+580	War	The gunpowder revolution	B
+581	Architecture	Renaissance architecture	A
+582	Psychology	Milgram and obedience	A
+583	Personal finance	Fixed deposits, bonds and debt funds	B
+584	Politics	The making of the Indian Constitution	A
+585	Money	The Amsterdam stock exchange	C
+586	Geography	Rivers and how they shape land	B
+587	Indian history	The Cholas and maritime South India	A
+588	Type	The first sans serifs	B
+589	Philosophy	Zhuangzi and Daoist philosophy	B
+590	Business	Product management	B
+591	Festivals	Rath Yatra	B
+592	Law	Landmark Indian judgments: privacy, Section 377 and triple talaq	B
+593	Myth	Mesopotamian myth and Gilgamesh	A
+594	Games	Poker	B
+595	History	The Mongol Empire	A
+596	How things work	Air conditioning and how it reshaped where humans live	B
+597	History	The Crusades	B
+598	Brands	Notion: community-led growth	B
+599	Society	Arranged marriage and the Indian family	B
+600	War	Naval warfare: galleys to carriers	B
+601	Nature	Viruses: alive or not	A
+602	Science	Nuclear physics: fission and fusion	B
+603	Cities	Venice	B
+604	Psychology	The Stanford Prison Experiment and its problems	B
+605	Mathematics	Statistics and how numbers lie	A
+606	Art	Japanese ukiyo-e	A
+607	Computing	The smartphone	B
+608	Literature	Dante's Divine Comedy	A
+609	Money	Central banks: what they do	A
+610	Games	Backgammon	C
+611	Myth	Celtic myth and the Mabinogion	C
+612	Indian history	The Indianised kingdoms of Southeast Asia	B
+613	Food	Tea	A
+614	Human body	Hearing and balance	B
+615	Economics	Fiscal policy and government budgets	B
+616	Geography	The Ganga, Brahmaputra and Indus systems	B
+617	Climate	Extreme heat	A
+618	Science	The standard model and the Higgs boson	B
+619	Religion	Sikhism	A
+620	Philosophy	Avicenna, Averroes and Islamic philosophy	B
+621	Crime	Digital forensics	B
+622	Mathematics	Al-Khwarizmi and the birth of algebra	C
+623	Myth	Persian myth and the Shahnameh	B
+624	Astronomy	Uranus and Neptune	C
+625	Fashion	1920s: the flapper and the drop waist	B
+626	Medicine	Antibiotics and Fleming	A
+627	World	Myanmar	B
+628	Economics	Public debt	B
+629	Language	Niger-Congo and the Bantu expansion	B
+630	Architecture	Baroque architecture	B
+631	Money	The Federal Reserve	B
+632	Nature	Fungi and the fungal kingdom	B
+633	Politics	B.R. Ambedkar and the Constituent Assembly	B
+634	Business	Startups: lean and product-market fit	B
+635	Fashion	Baroque and Rococo excess	C
+636	Mathematics	Bayes' theorem and updating beliefs	A
+637	Psychology	The bystander effect and the Kitty Genovese myth	B
+638	Literature	Chaucer and The Canterbury Tales	B
+639	Social media	LinkedIn and professional identity	B
+640	Festivals	Kumbh Mela	A
+641	Law	Personal laws and the uniform civil code debate	B
+642	Art	Zen aesthetics: wabi-sabi and ma	B
+643	How things work	The internal combustion engine	A
+644	War	Waterloo	B
+645	History	The Silk Road	B
+646	Personal finance	Gold in Indian households	B
+647	Food	Cacao and chocolate	B
+648	Music	Traditional Chinese music and the guqin	B
+649	Film	The Japanese golden age and Kurosawa	A
+650	Climate	Wildfires	B
+651	World	Cambodia	B
+652	Society	Gender: roles and change	B
+653	Astronomy	How stars are born	B
+654	Medicine	Antibiotic resistance	A
+655	Human body	Smell, taste and touch	B
+656	Economics	Adam Smith and the birth of economics	B
+657	Philosophy	Aquinas and the scholastics	B
+658	Computing	How the internet works: packets and protocols	A
+659	Personal finance	Rent vs buy in Indian cities	B
+660	History	The Black Death	A
+661	Cities	Florence	B
+662	Literature	Kabir, Mirabai and the Bhakti poets	B
+663	Nature	Mycorrhizal networks and the wood wide web	B
+664	Thinking	Rhetoric: ethos, pathos and logos	A
+665	Politics	Fundamental rights and directive principles	A
+666	Geography	Great rivers: Nile, Amazon, Yangtze and Mississippi	B
+667	Money	The Reserve Bank of India	A
+668	How things work	The electric motor	A
+669	Law	From the Indian Penal Code to the Bharatiya Nyaya Sanhita	B
+670	Science	Materials: why things are strong or weak	B
+671	Brands	Zoho: India's bootstrapped B2B giant	B
+672	Architecture	Neoclassical architecture	B
+673	Religion	Judaism: history and practice	A
+674	Climate	Floods and extreme rainfall	B
+675	Politics	Parliament: Lok Sabha, Rajya Sabha and how a law is made	A
+676	Human body	Hormones and the endocrine system	A
+677	Business	Bootstrapping vs fundraising	B
+678	History	Medieval West Africa: Mali and Songhai	B
+679	Thinking	Great speeches and why they work	B
+680	Sports	Rugby union	B
+681	Computing	ARPANET and the birth of the internet	B
+682	Literature	Tulsidas and the Ramcharitmanas	B
+683	Mathematics	Correlation, regression and causation	B
+684	Psychology	Cognitive dissonance	A
+685	Cities	Amsterdam and the canal city	B
+686	Internet	Stan culture and fandom warfare	B
+687	Astronomy	Pluto and the Kuiper Belt	C
+688	Society	Feminism: the waves	B
+689	Language	The Austronesian expansion across the Pacific	B
+690	World	Laos	B
+691	Art	Korean and Southeast Asian art traditions	B
+692	Astronomy	The life cycle of a star	A
+693	Myth	Slavic folklore	C
+694	Paranormal	Flat Earth	B
+695	Social media	Discord	B
+696	Film	Ozu and the Japanese domestic film	B
+697	Law	Criminal law basics: crime, intent and defences	B
+698	Myth	The Ramayana as story	A
+699	Medicine	X-rays and medical imaging	B
+700	Games	Mancala	C
+701	How things work	Batteries: lead-acid to lithium-ion	A
+702	War	Total war: the trenches of World War I	B
+703	Indian history	The Rajputs	B
+704	Type	The Arts and Crafts revival and William Morris	B
+705	Society	Women's movements in India	B
+706	Climate	Droughts and water stress	B
+707	Mathematics	Sampling, surveys and polls	B
+708	Philosophy	Machiavelli and political realism	B
+709	Personal finance	Home loans and EMIs	B
+710	Crime	Bad forensic science: bite marks and arson myths	B
+711	World	Singapore	B
+712	Thinking	Clear writing: the principles	A
+713	Indian history	The Delhi Sultanate	A
+714	Psychology	Motivated reasoning	A
+715	Business	Entrepreneurship: why founders succeed or fail	B
+716	History	Great Zimbabwe and southern Africa	B
+717	Art	African masks and sculpture	B
+718	Science	The cell	A
+719	Politics	President, Prime Minister and the cabinet	A
+720	Computing	The World Wide Web and Tim Berners-Lee	B
+721	Money	Fractional reserve banking and how money is created	A
+722	Architecture	Colonial India: Indo-Saracenic and Lutyens' Delhi	B
+723	Astronomy	Supernovae	B
+724	Religion	The Hebrew Bible and Talmudic tradition	B
+725	Literature	Shakespeare: the tragedies	A
+726	Economics	Keynes and Hayek	B
+727	Games	Mahjong	B
+728	Cities	Paris and Haussmann's rebuild	A
+729	Medicine	MRI, CT and ultrasound	B
+730	Society	LGBTQ+ history and rights	B
+731	Social media	WhatsApp	A
+732	Psychology	The backfire effect and whether it's real	B
+733	Internet	Fanfiction and transformative works	B
+734	Philosophy	Hobbes, Locke, Rousseau and the social contract	B
+735	How things work	The power grid	A
+736	Geography	Caves and karst	B
+737	Philosophy	Descartes and radical doubt	A
+738	Human body	Stress and the body	B
+739	Myth	The Mahabharata as story	A
+740	Film	Indian Parallel Cinema	A
+741	Law	Evidence and proof	B
+742	Religion	Christianity: origins and the early church	A
+743	Fashion	The 18th century and the birth of fashion media	C
+744	War	The Indian Army in the world wars	B
+745	Economics	Friedman and monetarism	B
+746	Politics	Indian federalism: Centre, states and governors	B
+747	Money	Inflation	A
+748	Thinking	Persuasive writing	B
+749	Mathematics	Risk and expected value	B
+750	Personal finance	Income tax in India: old vs new regime	B
+751	Medicine	The discovery of DNA's role in disease	B
+752	Science	DNA and how genes work	A
+753	Design	Don Norman and the design of everyday things	B
+754	Nature	Plants: how photosynthesis works	A
+755	Sports	Rugby league	B
+756	Crime	Wrongful convictions and the Innocence Project	A
+757	Climate	Hurricanes, cyclones and typhoons	B
+758	Architecture	Art Nouveau architecture	B
+759	Computing	DNS, TCP/IP and HTTP	B
+760	Indian history	Alauddin Khalji	B
+761	Literature	Shakespeare: comedies, histories and sonnets	B
+762	Thinking	Storytelling for explaining ideas	B
+763	History	The Renaissance	A
+764	Food	Bananas and the fruit companies	B
+765	Astronomy	Neutron stars and pulsars	B
+766	War	Blitzkrieg and combined arms	B
+767	Psychology	The illusion of explanatory depth	B
+768	Business	Scaling: startup to enterprise	B
+769	Politics	How India votes: the Election Commission and EVMs	A
+770	Mathematics	Logic and set theory	B
+771	Nature	Trees and forests as systems	A
+772	Science	Proteins and enzymes	B
+773	Myth	Finnish myth and the Kalevala	C
+774	History	The Age of Exploration	A
+775	How things work	Transformers and why we use AC	B
+776	Human body	Skin, hair and nails	B
+777	Myth	Puranic myth and the Indian cosmos	A
+778	Economics	Schumpeter and creative destruction	B
+779	Indian history	Vijayanagara	B
+780	Computing	Cryptographic keys and how HTTPS works	B
+781	Money	The Mississippi Company and John Law	C
+782	Geography	Coasts, beaches and deltas	B
+783	Politics	Panchayati raj and local government	B
+784	Film	Satyajit Ray	A
+785	Medicine	Genetic disease and screening	B
+786	Business	Management: Drucker and what managers do	B
+787	Religion	Roman Catholicism	B
+788	Art	Benin bronzes and the restitution debate	B
+789	Brands	Oracle: the aggressive B2B playbook	B
+790	Cities	London	A
+791	Society	Disability and society	B
+792	Literature	Cervantes and Don Quixote	A
+793	History	The Columbian Exchange	B
+794	Law	Juries and how they work	B
+795	Design	UX: from human factors to interaction design	B
+796	Philosophy	Spinoza	B
+797	Climate	The Indian monsoon under climate change	A
+798	Thinking	Public speaking	B
+799	Art	Pre-Columbian art	B
+800	Music	Arabic maqam	B
+801	Personal finance	Capital gains tax	B
+802	Science	Heredity: Mendel to genomics	B
+803	Money	Hyperinflation: Weimar, Zimbabwe, Venezuela	B
+804	War	Stalingrad	B
+805	Crime	Forensic anthropology	C
+806	Festivals	Chhath Puja	B
+807	Computing	Databases and SQL	B
+808	Psychology	Overconfidence and calibration	B
+809	Architecture	Frank Lloyd Wright	B
+810	Sports	American football	B
+811	Philosophy	Hume and the problem of induction	A
+812	Society	Demography: population growth and transition	A
+813	Literature	Milton and Paradise Lost	B
+814	How things work	Nuclear reactors	A
+815	Type	The Bauhaus and universal type	B
+816	Food	Tomatoes	B
+817	Politics	Reservation: history, logic and debates	B
+818	Personal finance	Freelancer and creator finances	B
+819	Internet	Tumblr and its aesthetic legacy	C
+820	Geography	Deltas and the Sundarbans	B
+821	Astronomy	Black holes	A
+822	Mathematics	Infinity and very big numbers	B
+823	Myth	Indian regional folklore	B
+824	Climate	Himalayan glaciers and South Asian water	A
+825	Money	Deflation and Japan's lost decades	B
+826	Indian history	The Bahmani and Deccan sultanates	B
+827	Science	Epigenetics: what it is and isn't	B
+828	Human body	Teeth and oral health	B
+829	How things work	Solar cells	B
+830	Cities	Vienna and the Ringstrasse	B
+831	Medicine	CRISPR and gene therapy	B
+832	History	The Aztec Empire	B
+833	Economics	Behavioural economics: what it changed	B
+834	Law	The adversarial vs inquisitorial trial	B
+835	Business	Organisational structure	B
+836	World	Pakistan	A
+837	Games	Dice and gambling through history	B
+838	Crime	Interrogation and false confessions	A
+839	Computing	The cloud and distributed systems	B
+840	Music	Turkish makam and Ottoman classical	B
+841	Art	Aboriginal Australian art	B
+842	Economics	Labour markets and wages	B
+843	Astronomy	Supermassive black holes and Sagittarius A*	B
+844	Indian history	The Ahoms of Assam	B
+845	Religion	Eastern Orthodoxy	B
+846	Mathematics	Prime numbers and cryptography	B
+847	Brands	Datadog: observability as a category	C
+848	Festivals	Raksha Bandhan and Bhai Dooj	B
+849	Film	The Hindi film industry: golden age	A
+850	Fashion	1960s: mod, youthquake and the mini	B
+851	Psychology	Planning fallacy	B
+852	Design	Design in India: the Eames report and NID	B
+853	Architecture	International Style and modernism	A
+854	Human body	The reproductive system	B
+855	Society	India's demographic dividend	B
+856	Psychology	Present bias and hyperbolic discounting	B
+857	Money	Interest rates	A
+858	Personal finance	Retirement: how much is enough	B
+859	Climate	Air pollution and India's cities	A
+860	Nature	Flowers and pollination	A
+861	Philosophy	Kant	A
+862	History	The Inca Empire	B
+863	Brands	Adobe: from boxes to subscriptions	B
+864	Geography	Oceans and ocean currents	A
+865	Food	Citrus and scurvy	B
+866	Literature	The essay: Montaigne to now	B
+867	Law	Contract law	B
+868	Crime	Profiling and its scientific problems	B
+869	Science	Ecology: food webs and energy flow	B
+870	World	Bangladesh	A
+871	Politics	Linguistic states and the reorganisation of India	B
+872	Computing	APIs and how software talks to software	B
+873	Thinking	Negotiation: principled negotiation and BATNA	A
+874	Mathematics	Ramanujan	B
+875	Politics	Secularism the Indian way	B
+876	Music	Persian dastgah	B
+877	Medicine	Cancer: what it actually is	A
+878	Cities	Barcelona and Cerdà's grid	B
+879	War	D-Day	B
+880	Philosophy	Utilitarianism: Bentham and Mill	A
+881	Type	Slab serifs and the industrial age	C
+882	Games	The board game renaissance and Eurogames	B
+883	Paranormal	Freemasonry	C
+884	Myth	Bhoot, pret and Indian ghost lore	B
+885	Type	Futura and geometric sans	B
+886	Film	Bollywood's masala era	B
+887	World	Sri Lanka	A
+888	Personal finance	FIRE and financial independence	B
+889	How things work	Wind turbines	B
+890	Indian history	The Mughal Empire	A
+891	Business	Leadership: what the research says	B
+892	History	The Reformation	A
+893	Religion	Protestantism and the denominations	B
+894	Architecture	Louis Kahn in Ahmedabad and Dhaka	B
+895	Food	Olive oil and the Mediterranean	B
+896	Film	Cinema Vérité and direct cinema	C
+897	Human body	Pregnancy and fetal development	B
+898	Law	Property law	B
+899	Society	Ageing societies: Japan to Kerala	B
+900	Sports	Ice hockey	B
+901	War	Midway and the Pacific naval war	B
+902	Philosophy	Mill's On Liberty and the harm principle	B
+903	Indian history	Akbar	B
+904	Geography	Tides	B
+905	Astronomy	The Milky Way	A
+906	Nature	Bees and colony collapse	B
+907	Social media	Twitch and live streaming	B
+908	Indian history	The Rashtrakutas and the Deccan	C
+909	Economics	Inequality and how it is measured	B
+910	Climate	Plastic pollution from bottle to ocean	B
+911	Festivals	Janmashtami	B
+912	Psychology	Decision fatigue	B
+913	Sports	MotoGP	C
+914	Literature	Satire: Swift, Voltaire and Harishankar Parsai	B
+915	Brands	Shopify: arming the rebels	B
+916	Human body	Growth: childhood to puberty	B
+917	How things work	Desalination	B
+918	Science	The origin of life	B
+919	Internet	Vine and the six-second joke	C
+920	Religion	Evangelicalism and modern Christianity	B
+921	Business	Hiring and building teams	B
+922	Money	Bonds and the sovereign debt market	A
+923	Medicine	Cancer treatment	B
+924	Design	Indian craft and design traditions	B
+925	Money	Bimetallism and the money debates	C
+926	World	Nepal	A
+927	Thinking	Difficult conversations	B
+928	Music	Flamenco	B
+929	Mathematics	Game theory	B
+930	Human body	The myopia epidemic	C
+931	Literature	Beowulf and Old English poetry	C
+932	Language	Indigenous languages of the Americas	B
+933	History	The Ottoman Empire	A
+934	Computing	Web development: front end and back end	B
+935	Type	Gill Sans and the humanist sans	B
+936	Indian history	Aurangzeb and the arguments about him	B
+937	Cities	Berlin: divided and reunified	B
+938	Politics	India's party system: Congress dominance to BJP dominance	B
+939	Personal finance	Behavioural traps with money	B
+940	Psychology	Choice overload	B
+941	Games	Catan, Carcassonne and the German school	B
+942	Society	Fertility decline and the shrinking world	B
+943	Crime	Serial killers: fact vs media	B
+944	Myth	Buddhist Jataka tales	B
+945	Astronomy	Galaxies and galaxy types	A
+946	Thinking	Socratic questioning	C
+947	Food	Wine	B
+948	Art	Medieval European art and the illuminated manuscript	B
+949	Philosophy	The three big ethical theories: virtue, duty and consequences	A
+950	Literature	The rise of the English novel: Defoe to Fielding	B
+951	History	The Scientific Revolution	A
+952	Science	Measurement errors and uncertainty	B
+953	Film	Contemporary Hindi cinema	B
+954	Social media	Snapchat and ephemerality	C
+955	Politics	Coalition politics: 1989 to 2014	B
+956	How things work	Water treatment and sanitation	A
+957	Computing	Moore's law and its end	C
+958	Money	The stock market: what a share is	A
+959	World	Bhutan	B
+960	Thinking	Listening	B
+961	Social media	Substack and the newsletter revival	B
+962	Architecture	Indian modernism: Doshi, Correa and Rewal	A
+963	Nature	Ants and superorganisms	B
+964	Medicine	The immune system explained	A
+965	Climate	River pollution and the Ganga clean-up	B
+966	Business	Company culture	B
+967	Language	Afro-Asiatic beyond Semitic	C
+968	Economics	Tax systems compared	B
+969	Literature	Ghalib and the Urdu ghazal	B
+970	War	Air power: biplanes to stealth	B
+971	Human body	Ageing: what happens to the body	B
+972	Film	Tamil cinema	B
+973	Festivals	Mahashivratri	B
+974	Mathematics	Networks and graph theory	B
+975	Politics	Regional parties and Dravidian politics	B
+976	Design	Scandinavian design	C
+977	Language	Aboriginal Australian languages	B
+978	Sports	Golf	B
+979	Film	The British kitchen sink films	C
+980	Science	Great experiments that changed science	B
+981	Philosophy	Metaethics: is morality objective?	A
+982	Thinking	Asking good questions	B
+983	Geography	Climate zones and biomes	A
+984	History	The Enlightenment	A
+985	Human body	Metabolism and energy	A
+986	Law	Intellectual property: copyright, patents and trademarks	A
+987	Religion	Islam: origins and the Quran	A
+988	Psychology	Framing effects	B
+989	Computing	Software engineering: how big software gets built	B
+990	Food	Beer	B
+991	Society	Urbanisation and the move to cities	B
+992	Climate	The ozone hole: a problem the world solved	B
+993	World	Maldives	B
+994	Myth	Chinese myth and Journey to the West	B
+995	Economics	Universal basic income	B
+996	Science	Indian science: C.V. Raman, J.C. Bose, Saha and S.N. Bose	B
+997	Philosophy	Epistemology: what counts as knowledge	A
+998	Money	Indices and index funds	A
+999	Indian history	Sikh history: the Gurus to Ranjit Singh	B
+1000	Music	Gagaku and Japanese court music	C
+1001	Medicine	Autoimmune disease	B
+1002	Astronomy	Auroras	C
+1003	Cities	Moscow and Soviet urbanism	B
+1004	Indian history	Shivaji	B
+1005	Personal finance	Financial scams in India and how to spot them	B
+1006	Economics	Migration economics	B
+1007	Philosophy	Mozi, Legalism and China's other schools	C
+1008	Art	The Italian Renaissance	A
+1009	How things work	Sewage systems and the public health revolution	A
+1010	Crime	Organised crime: the Sicilian Mafia	A
+1011	Mathematics	Linear algebra: the maths behind AI	B
+1012	Language	The history of English: Old, Middle, Modern	A
+1013	Games	Dungeons & Dragons and tabletop RPGs	B
+1014	War	Nuclear weapons and deterrence	A
+1015	Literature	Jane Austen	A
+1016	Architecture	Laurie Baker and low-cost building	B
+1017	Religion	Sunni Islam	A
+1018	History	The Atlantic slave trade	A
+1019	Human body	Nutrition: macronutrients and micronutrients	A
+1020	Film	Telugu cinema and the pan-India film	B
+1021	How things work	The elevator and the vertical city	B
+1022	Society	Migration: why people move	B
+1023	Mathematics	Symmetry and group theory	B
+1024	Astronomy	The Big Bang	A
+1025	Myth	Japanese myth and the Kojiki	B
+1026	Type	Helvetica and the Swiss style	A
+1027	Thinking	Shastrartha: India's tradition of debate	C
+1028	Festivals	Eid al-Adha	B
+1029	Medicine	Allergies and their rise	B
+1030	History	The American Revolution	A
+1031	Thinking	Giving and receiving feedback	B
+1032	Economics	Automation and jobs	B
+1033	Law	Copyright, fair use and remix culture	B
+1034	Politics	The IAS and the steel frame	B
+1035	War	The NPT and nuclear non-proliferation	B
+1036	Crime	The American Mafia	B
+1037	Geography	Weather: how it works	B
+1038	Society	The Indian diaspora	B
+1039	Social media	Podcasting	B
+1040	Paranormal	Bilderberg, Bohemian Grove and elite-meeting theories	C
+1041	Internet	TikTok culture and trend cycles	C
+1042	Art	The Northern Renaissance	B
+1043	Business	Operations and supply chains	B
+1044	Sports	Boxing	B
+1045	Indian history	The Maratha Empire	B
+1046	Sports	Rally & WRC	C
+1047	Music	Celtic and Irish traditional music	B
+1048	Computing	Why software has bugs: famous failures	B
+1049	Literature	The Romantic poets	B
+1050	Cities	New York	A
+1051	Thinking	How to read a book deeply	B
+1052	Nature	Insects and why there are so many	A
+1053	Brands	Twilio: the API-as-a-product brand	C
+1054	Money	Derivatives, options and futures	B
+1055	Climate	Biodiversity loss and the sixth extinction	B
+1056	Food	Spirits and distillation	B
+1057	Mathematics	Chaos and complex systems	B
+1058	Science	Superconductivity and strange states of matter	C
+1059	Design	Italian design and Memphis	C
+1060	Geography	The monsoon: how it works	A
+1061	Psychology	Priming and its replication trouble	B
+1062	Astronomy	The cosmic microwave background	A
+1063	Paranormal	MKUltra: the real one	B
+1064	World	Afghanistan	A
+1065	Philosophy	Marx: the philosophy behind the politics	B
+1066	Design	Inclusive design and accessibility	B
+1067	Indian history	The Portuguese, Dutch and French in India	B
+1068	Human body	Vitamins and minerals	B
+1069	History	The French Revolution	A
+1070	Games	Wargaming and its military roots	B
+1071	Religion	Shia Islam	A
+1072	Law	Corporate law	B
+1073	Thinking	Note-taking and personal knowledge systems	B
+1074	Film	Malayalam cinema's new wave	B
+1075	Politics	Kashmir and Article 370	B
+1076	Medicine	HIV/AIDS	B
+1077	Cities	Chicago and the birth of the skyscraper	B
+1078	World	Uzbekistan	B
+1079	Sports	Mixed martial arts & the UFC	B
+1080	Crime	Yakuza	B
+1081	Computing	Search engines: how Google works	B
+1082	Climate	Deforestation and the Amazon	B
+1083	Festivals	Muharram and Ashura	B
+1084	Psychology	The placebo and nocebo effects	A
+1085	War	Pokhran and India's nuclear programme	B
+1086	Literature	Goethe and Faust	B
+1087	Crime	Forensic accounting	C
+1088	Myth	Yōkai and Japanese monsters	B
+1089	Economics	Housing economics	B
+1090	Language	How English became a global language	A
+1091	Type	Wood type and the poster	C
+1092	Politics	The Northeast and insurgency	B
+1093	Climate	Agriculture, food systems and emissions	B
+1094	Society	Education: how schooling evolved	B
+1095	Religion	Sufism	B
+1096	Indian history	Mahmud of Ghazni and the raids	C
+1097	Food	Bread and leavening	A
+1098	Economics	Platforms and network effects	B
+1099	Human body	Indian diets and protein: dal, rice and roti	B
+1100	Money	Hedge funds and private equity	B
+1101	History	Napoleon and his wars	A
+1102	Indian history	How the East India Company conquered India	A
+1103	Architecture	Brutalism	B
+1104	World	Kazakhstan	B
+1105	Games	Contract bridge	C
+1106	How things work	Bridges: how they hold up	B
+1107	Society	Indian education: gurukul to IITs and coaching	B
+1108	Art	Baroque and Caravaggio	A
+1109	Literature	Frankenstein and the Gothic novel	B
+1110	Astronomy	Cosmic inflation	B
+1111	Computing	Recommendation systems	B
+1112	History	The Haitian Revolution	B
+1113	Fashion	1930s: Hollywood glamour and the bias cut	C
+1114	Film	Marathi and Bengali cinema	B
+1115	Science	The great unsolved problems in science	B
+1116	Design	Sustainable design	B
+1117	War	Guerrilla warfare and insurgency	B
+1118	Medicine	Tuberculosis	B
+1119	Thinking	Memory techniques: the method of loci	B
+1120	Business	Mergers and acquisitions	B
+1121	Cities	Los Angeles and car urbanism	B
+1122	Language	World Englishes: Indian, Singaporean, Nigerian	B
+1123	Paranormal	Operation Northwoods: declassified plots	B
+1124	Law	Free speech law compared	B
+1125	Festivals	Ramadan and Eid al-Fitr	A
+1126	Geography	The physical geography of India	A
+1127	Philosophy	Nietzsche	A
+1128	Money	Venture capital	B
+1129	Religion	Islamic law and the schools of fiqh	B
+1130	Social media	WeChat and the Chinese internet	B
+1131	Economics	Ricardo, Malthus and classical economics	C
+1132	Psychology	The peak-end rule	B
+1133	Nature	Coral reefs as ecosystems	A
+1134	How things work	Dams and how they hold back water	B
+1135	Music	Korean pansori and samulnori	C
+1136	Festivals	Hornbill Festival	C
+1137	Indian history	Tipu Sultan and Mysore	B
+1138	History	The Industrial Revolution	A
+1139	Philosophy	Kierkegaard and the birth of existentialism	B
+1140	Astronomy	Dark matter	A
+1141	Sports	Track & field athletics	A
+1142	Society	Universities and what they are for	B
+1143	Design	Japanese design and Kenya Hara	C
+1144	Thinking	Focus and deep work	B
+1145	Food	Fermentation: a global survey	A
+1146	Human body	The thyroid, adrenals and stress hormones	C
+1147	Food	Vanilla	C
+1148	Science	Nanotechnology	C
+1149	Business	Corporate governance	B
+1150	Human body	Fasting and the body	B
+1151	Geography	The Indian Ocean world	B
+1152	Computing	Compression: JPEG, MP3 and ZIP	B
+1153	Climate	The fossil fuel industry and its history of denial	A
+1154	War	Counter-insurgency	B
+1155	Brands	Intel: 'Intel Inside' ingredient branding	B
+1156	Law	Privacy and data protection law	B
+1157	Art	Dutch Golden Age painting	B
+1158	Medicine	Malaria	B
+1159	Games	Puzzle games and the Rubik's Cube	B
+1160	Indian history	1857 and the Indian rebellion	A
+1161	Literature	Dickens and the Victorian novel	A
+1162	Nature	Lichens and symbiosis	C
+1163	Politics	The Westminster system	B
+1164	Geography	Lakes and inland seas	C
+1165	How things work	Tunnels and boring machines	B
+1166	Nature	The deep sea	B
+1167	Language	The invention of writing: cuneiform and hieroglyphs	A
+1168	Film	New Hollywood of the 1970s	A
+1169	Food	Cheese and dairy	B
+1170	Thinking	Creativity techniques	B
+1171	Business	Business ethics and ESG	B
+1172	Economics	Economic history: the Great Divergence	B
+1173	Festivals	Christmas: pagan roots to global holiday	A
+1174	Cities	Mexico City	B
+1175	Mathematics	Optimisation and operations research	B
+1176	Climate	Coal and its decline	B
+1177	Paranormal	The Tuskegee syphilis study	B
+1178	Philosophy	American pragmatism: William James and John Dewey	B
+1179	Language	Uralic: Finnish, Hungarian, Estonian	C
+1180	Literature	French realism: Balzac, Flaubert and Zola	B
+1181	Crime	Latin American cartels	B
+1182	Politics	The American constitution and system	B
+1183	Type	Digital type and PostScript	B
+1184	Society	Work and the meaning of jobs	B
+1185	History	The Opium Wars	B
+1186	Money	IPOs and going public	B
+1187	Religion	Zoroastrianism and the Parsis	B
+1188	Medicine	Polio and eradication campaigns	B
+1189	Economics	The economics of colonialism and the drain theory	B
+1190	Thinking	Visual thinking: diagrams and sketching	B
+1191	Astronomy	Dark energy and the accelerating universe	A
+1192	Indian history	The British Raj	A
+1193	How things work	Skyscrapers and structural systems	B
+1194	History	The scramble for Africa	A
+1195	Human body	Cholesterol and what blood tests mean	B
+1196	Architecture	Postmodern architecture	B
+1197	Geography	Natural resources and where they are	B
+1198	Psychology	Flow states	B
+1199	Brands	TSMC & ASML: invisible critical brands	B
+1200	Computing	What AI is: Dartmouth to now	A
+1201	Film	The blockbuster and Jaws/Star Wars	B
+1202	Music	Russian folk and choral tradition	B
+1203	Politics	China's party-state	B
+1204	Brands	SAP and enterprise legacy	C
+1205	Music	Mongolian and Tuvan throat singing	C
+1206	War	India-Pakistan wars: 1947 and 1965	B
+1207	Mathematics	Mathematical modelling: how maths describes the world	B
+1208	Climate	Oil and gas geopolitics	B
+1209	Society	Labour movements and trade unions	B
+1210	Medicine	Influenza and pandemics	B
+1211	Fashion	1940s: wartime utility and rationing	C
+1212	Social media	ShareChat, Moj and Indian language platforms	B
+1213	Money	Market crashes: 1929	A
+1214	Sports	Marathon running	B
+1215	Business	The East India Company as a business	A
+1216	Geography	Population geography: where people live	A
+1217	Nature	Whales and their evolution	B
+1218	Psychology	Intrinsic vs extrinsic motivation	A
+1219	Human body	Reading a blood test report	B
+1220	History	The Meiji Restoration	B
+1221	Indian history	Colonial famines and the economy of the Raj	B
+1222	Language	The alphabet: Phoenician to Greek to Latin	A
+1223	Internet	Slender Man and internet folklore	B
+1224	Literature	Tolstoy	A
+1225	Climate	Hydropower and its trade-offs	B
+1226	Festivals	Thrissur Pooram	C
+1227	Astronomy	The fate of the universe	B
+1228	Politics	The European Union	B
+1229	Art	Neoclassicism	B
+1230	Crime	Russian organised crime	B
+1231	Economics	Development economics: what works against poverty	B
+1232	Money	Market crashes: 1987 and 2000	B
+1233	Festivals	Easter	B
+1234	War	1971 and the birth of Bangladesh	B
+1235	Fashion	The haute couture system	A
+1236	Philosophy	Sartre, Beauvoir and existentialism	B
+1237	Computing	Machine learning: learning from data	A
+1238	World	Iran	A
+1239	Type	Art Nouveau lettering	C
+1240	World	Brunei	C
+1241	Law	Human rights law	B
+1242	Nature	Cephalopods and alien intelligence	B
+1243	Language	Brahmi and the abugidas of Asia	A
+1244	Medicine	COVID-19 in retrospect	B
+1245	History	The American Civil War	A
+1246	Human body	Exercise physiology: what training does	A
+1247	Music	West African griot and the kora	B
+1248	Architecture	Zaha Hadid	B
+1249	Indian history	The Bengal Renaissance and social reform	B
+1250	Computing	Neural networks and deep learning	B
+1251	Business	Family businesses and India's business houses	B
+1252	Cities	Rio de Janeiro and the favela	B
+1253	Society	Poverty in India: measuring and reducing it	B
+1254	Social media	How recommendation algorithms actually work	A
+1255	Film	Hong Kong action cinema	B
+1256	Politics	International relations: realism, liberalism and constructivism	A
+1257	Religion	Shinto	B
+1258	Paranormal	COINTELPRO	B
+1259	How things work	Railways and the standard gauge	B
+1260	Art	Romanticism	B
+1261	Economics	Amartya Sen and capabilities	B
+1262	Internet	Internet slang and how it evolves	B
+1263	Paranormal	The Bermuda Triangle	C
+1264	Geography	Borders: how lines on maps get drawn	B
+1265	Philosophy	Camus and the absurd	B
+1266	Astronomy	Exoplanets and how we find them	A
+1267	Festivals	Lent, Carnival and Mardi Gras	B
+1268	Human body	Strength training	B
+1269	Language	The Turkic languages	C
+1270	Climate	The nuclear debate	B
+1271	Brands	Nvidia: from gaming to AI infrastructure	B
+1272	Psychology	Self-determination theory	B
+1273	Sports	Swimming	B
+1274	Literature	Dostoevsky	A
+1275	Food	Soy: tofu, soy sauce and miso	B
+1276	Law	International law	B
+1277	Games	Dominoes and tile games	C
+1278	World	Turkey	A
+1279	Economics	Randomised trials: Banerjee, Duflo and Kremer	B
+1280	War	The 1962 India-China war	B
+1281	Indian history	The early Congress: moderates and extremists	B
+1282	Myth	Aboriginal Dreaming stories	B
+1283	Politics	Geopolitics: how geography shapes power	A
+1284	Medicine	Epidemiology and how outbreaks are tracked	A
+1285	How things work	The jet engine	B
+1286	Crime	Indian organised crime and the underworld	B
+1287	History	The unification of Germany and Italy	B
+1288	World	Timor-Leste	C
+1289	Film	Wuxia and Chinese martial arts film	B
+1290	Fashion	1950s: Dior's New Look	C
+1291	Cities	São Paulo	B
+1292	Money	The 2008 financial crisis	A
+1293	Business	Marwari, Gujarati and Chettiar trading communities	B
+1294	Literature	Chekhov and the modern short story	B
+1295	Astronomy	The habitable zone	B
+1296	Type	Screen type and hinting	B
+1297	Fashion	Ready-to-wear and how it changed everything	A
+1298	Human body	Cardio and VO2 max	B
+1299	Nature	Fish and the diversity of the water	B
+1300	History	World War I	A
+1301	Society	Social capital and trust	B
+1302	Social media	Telegram	C
+1303	Religion	Taoism	A
+1304	Brands	Apple: the design-led B2C brand	A
+1305	Indian history	The partition of Bengal and Swadeshi	B
+1306	Psychology	Growth vs fixed mindset and the critiques	B
+1307	Politics	The United Nations and how it works	A
+1308	Computing	Transformers and attention	B
+1309	Music	Afrobeat and Fela Kuti	B
+1310	Art	Realism and Courbet	B
+1311	Language	Chinese characters and how they work	B
+1312	Nature	Sharks	B
+1313	Festivals	Halloween and Samhain	B
+1314	World	Iraq	B
+1315	Computing	Large language models: how ChatGPT and Claude work	A
+1316	Economics	The Washington Consensus and its critics	B
+1317	Climate	Grids, storage and intermittency	A
+1318	Internet	Cosplay	C
+1319	Money	Bank runs and deposit insurance	B
+1320	Economics	The East Asian tigers	B
+1321	War	Kargil	B
+1322	How things work	How aeroplanes fly	A
+1323	Type	Web fonts and typography online	B
+1324	Literature	Ibsen and modern drama	B
+1325	Geography	Chokepoints: Hormuz, Malacca, Suez and Panama	B
+1326	Social media	The attention economy	A
+1327	Politics	NATO and military alliances	B
+1328	Mathematics	Famous unsolved problems: Riemann, Goldbach and P vs NP	B
+1329	Philosophy	Wittgenstein	B
+1330	Indian history	Gandhi and mass satyagraha	A
+1331	Philosophy	Popper, Kuhn and how science changes	B
+1332	Paranormal	QAnon	B
+1333	History	The Russian Revolution	A
+1334	Society	Social movements: how change happens	B
+1335	Film	Chinese Fifth and Sixth Generation	B
+1336	Food	Noodles and their contested origin	B
+1337	World	Syria	B
+1338	Medicine	Public health and its victories	A
+1339	Crime	Piracy: historical and modern	B
+1340	Art	The Pre-Raphaelites	B
+1341	Language	Japonic and Koreanic: the isolate problem	C
+1342	Architecture	Vernacular and earth architecture	B
+1343	Nature	Seeds and dispersal	C
+1344	Money	The eurozone crisis	B
+1345	History	The interwar years and the Great Depression	A
+1346	Internet	Emoji: history and semantics	B
+1347	Literature	The American Renaissance: Melville, Hawthorne, Whitman and Dickinson	B
+1348	Business	India's startup ecosystem: Flipkart to now	B
+1349	Astronomy	Astrobiology	B
+1350	Fashion	The fast fashion machine	A
+1351	Religion	Confucianism	A
+1352	Language	Undeciphered scripts: Indus, Linear A and rongorongo	B
+1353	Psychology	Learned helplessness	B
+1354	Computing	Training data, compute and scaling laws	B
+1355	How things work	Rockets and orbital mechanics, practically	B
+1356	Economics	China's economic miracle	B
+1357	Climate	Electric vehicles	B
+1358	Law	The laws of war and the Geneva Conventions	B
+1359	Society	Mass media and its effects	B
+1360	Myth	Native American myth and the trickster	B
+1361	Cities	Buenos Aires	B
+1362	World	Lebanon	B
+1363	Religion	Chinese folk religion	B
+1364	Indian history	Bhagat Singh and the revolutionaries	B
+1365	Brands	Google: utility as brand	A
+1366	War	The Indian armed forces today	B
+1367	Nature	Amphibians and their decline	B
+1368	Psychology	Locus of control	B
+1369	Human body	Yoga: the physiology	B
+1370	Crime	Smuggling and trafficking	B
+1371	Medicine	Sanitation and John Snow	B
+1372	Language	Pidgins and creoles	B
+1373	Politics	Diplomacy: how states negotiate	B
+1374	Paranormal	The Loch Ness Monster	C
+1375	Philosophy	Arendt and the banality of evil	B
+1376	Social media	Infinite scroll and the psychology of feeds	B
+1377	Society	Journalism: how news gets made	B
+1378	Geography	Does geography shape history? Diamond and his critics	B
+1379	Type	Variable fonts	B
+1380	Astronomy	SETI and the Fermi Paradox	A
+1381	Literature	Mark Twain and the American voice	B
+1382	Cities	Brasília: a city designed from zero	B
+1383	Film	Korean cinema's rise	B
+1384	Law	International courts and war crimes	B
+1385	Money	Asian financial crisis of 1997	B
+1386	Festivals	Thanksgiving	B
+1387	Thinking	Presenting with slides	C
+1388	Climate	Aviation and shipping decarbonisation	B
+1389	Social media	Pinterest	C
+1390	Philosophy	Foucault and power	B
+1391	Fashion	Sustainable and slow fashion	A
+1392	Art	Impressionism	A
+1393	Games	The birth of video games: Tennis for Two to Pong	A
+1394	Economics	The Indian economy: a map	A
+1395	Indian history	Subhas Chandra Bose and the INA	B
+1396	Language	Basque and other language isolates	C
+1397	Paranormal	The Mandela Effect	B
+1398	Music	Congolese rumba and soukous	B
+1399	History	The rise of fascism	A
+1400	How things work	Ships: hulls, propulsion and why they float	B
+1401	Food	Curry: the word and the thing	A
+1402	Computing	Computer vision	B
+1403	Brands	Amazon: the everything store	A
+1404	Medicine	Nutrition science and why it's hard	A
+1405	Nature	Reptiles and snakes	B
+1406	Psychology	Attachment theory	A
+1407	Internet	Furry fandom	C
+1408	War	Military technology: tanks to drones	B
+1409	Film	Iranian cinema	B
+1410	Politics	Sanctions and economic statecraft	B
+1411	World	Israel	A
+1412	Myth	Mesoamerican myth and the Popol Vuh	B
+1413	Human body	Common infections: fever, colds and the flu	B
+1414	Architecture	Sustainable and passive architecture	B
+1415	Business	Multinationals and globalisation	B
+1416	Law	Sentencing and punishment philosophy	B
+1417	History	World War II: Europe	A
+1418	Money	The IMF and World Bank	B
+1419	Society	Consumerism and consumer culture	B
+1420	Indian history	Ambedkar and the anti-caste movement	B
+1421	Astronomy	Telescopes: optical to space-based	A
+1422	History	World War II: the Pacific	A
+1423	Literature	Crime fiction: Poe, Doyle and Christie	B
+1424	Social media	Notifications and habit loops	B
+1425	World	Palestine	A
+1426	Religion	Indigenous African religions	B
+1427	Computing	Reinforcement learning and AlphaGo	B
+1428	Language	Language death and what is lost	A
+1429	War	Drones and the new battlefield	B
+1430	Food	Ghee, oils and cooking fats	B
+1431	Nature	Bird migration	B
+1432	Politics	Soft power	B
+1433	Art	Post-Impressionism	A
+1434	Computing	Generative AI for images, audio and video	B
+1435	Festivals	Hanukkah	B
+1436	Economics	The minimum wage debate	C
+1437	Human body	First aid basics	B
+1438	Economics	Nehruvian planning and the Five-Year Plans	B
+1439	Climate	Industry: cement, steel and the hard-to-abate sectors	B
+1440	Literature	Bankim Chandra and the birth of the Indian novel	B
+1441	Games	The golden age of arcades	B
+1442	Crime	Human trafficking	B
+1443	Indian history	The Muslim League and the road to Pakistan	B
+1444	Psychology	Developmental stages and their limits	B
+1445	Medicine	Obesity and metabolic health	A
+1446	Business	Famous business failures	B
+1447	Economics	The licence raj	B
+1448	Fashion	Japanese avant-garde: Comme des Garçons and Yohji Yamamoto	B
+1449	Politics	India's foreign policy: non-alignment to multi-alignment	A
+1450	Money	Sovereign default	B
+1451	Sports	Road cycling & the Tour de France	B
+1452	Philosophy	Vivekananda, Tagore and Aurobindo	B
+1453	Religion	Yoruba religion and the orishas	B
+1454	Law	Prisons and incarceration compared	B
+1455	Brands	Netflix: culture as brand	B
+1456	History	The Holocaust	A
+1457	Art	Oceanic art	C
+1458	Social media	The creator economy	A
+1459	Festivals	Passover	B
+1460	How things work	GPS and how your phone knows where it is	A
+1461	Climate	Buildings, heating and cooling	B
+1462	Human body	The body in extremes: heat, cold and altitude	B
+1463	Medicine	Diabetes	A
+1464	Astronomy	The James Webb Space Telescope	B
+1465	Philosophy	Gandhi's political philosophy	B
+1466	Literature	Rabindranath Tagore	A
+1467	World	Saudi Arabia	A
+1468	Nature	Bird song and dialects	B
+1469	History	The atomic bomb and its aftermath	B
+1470	Language	Language revival: Hebrew, Māori, Cornish	B
+1471	Economics	1991: the reforms that opened India	A
+1472	War	Cyber warfare	B
+1473	Paranormal	Bigfoot, Yeti and Sasquatch	C
+1474	Psychology	Working memory and its limits	A
+1475	Cities	Tokyo	A
+1476	How things work	Undersea cables and the physical internet	A
+1477	Politics	India and China	B
+1478	Nature	Corvid intelligence	B
+1479	Type	Devanagari type design	A
+1480	Indian history	Indian independence and Partition	A
+1481	Computing	AI alignment and safety	B
+1482	Climate	Carbon markets and offsets	B
+1483	Food	Meat, livestock and its footprint	B
+1484	Games	Atari and the 1983 crash	B
+1485	Politics	India and Pakistan	B
+1486	Crime	The illegal wildlife trade	B
+1487	Fashion	1970s: disco, hippie and the birth of punk	C
+1488	Religion	Native American spiritual traditions	B
+1489	Architecture	Interior architecture and the modern home	B
+1490	Law	The death penalty worldwide	B
+1491	Money	Currency pegs and devaluation	B
+1492	Brands	Spotify: playlists and identity	B
+1493	Geography	Islands and how they form	C
+1494	Festivals	Yom Kippur and Rosh Hashanah	B
+1495	Social media	Influencer marketing	B
+1496	Computing	AI and the future of work	B
+1497	Cities	Seoul	B
+1498	Indian history	Integrating the princely states	B
+1499	Internet	Parasocial relationships	B
+1500	Astronomy	Radio astronomy and the Event Horizon Telescope	B
+1501	Internet	Cottagecore, dark academia and aesthetic subcultures	C
+1502	World	Yemen	B
+1503	Literature	Bengali literature: Sarat Chandra to Mahasweta Devi	B
+1504	Philosophy	Ambedkar's philosophy of equality	B
+1505	Myth	West African myth and Anansi	B
+1506	Society	Youth culture and generations	B
+1507	Medicine	Cardiovascular disease	A
+1508	History	The founding of Israel and the Nakba	B
+1509	Psychology	Chunking and expertise	B
+1510	Law	Torts: the law of wrongs	C
+1511	Language	Sign languages as full languages	B
+1512	Fashion	Streetwear: Stüssy, Supreme and the drop model	B
+1513	Economics	Indian agriculture and its crisis	B
+1514	War	Information warfare	B
+1515	How things work	Fibre optics	B
+1516	Law	Restorative justice	B
+1517	Crime	Art theft and famous heists	B
+1518	Money	Foreign exchange markets	B
+1519	Film	Nollywood	B
+1520	Indian history	Nehru's India	B
+1521	Type	Tamil, Bengali and Indic type challenges	B
+1522	Climate	Carbon capture and removal	B
+1523	Computing	Mobile apps: how they are built	C
+1524	Philosophy	Feminist philosophy	B
+1525	Food	Fishing and the collapse of fisheries	B
+1526	Politics	India and its neighbours	B
+1527	War	The arms trade and the military-industrial complex	B
+1528	How things work	Wi-Fi and radio spectrum	B
+1529	Economics	India's informal economy	B
+1530	Language	Constructed languages: Esperanto to Dothraki	B
+1531	Games	Nintendo and the NES revival	B
+1532	History	The Chinese Revolution	A
+1533	Art	Expressionism	B
+1534	Architecture	Landscape architecture	B
+1535	Design	Editorial and magazine design	C
+1536	Social media	Brand voice on social media	B
+1537	Fashion	Sneaker culture	B
+1538	Computing	Cybersecurity basics: how attacks happen	A
+1539	World	Oman	B
+1540	Literature	Premchand and Hindi-Urdu realism	B
+1541	Computing	Passwords, authentication and 2FA	B
+1542	Brands	Siemens: industrial B2B branding	C
+1543	Film	African cinema beyond Nollywood	B
+1544	Medicine	The gut microbiome	B
+1545	Festivals	Chinese New Year	A
+1546	Cities	Shanghai	B
+1547	Astronomy	Gravitational waves and LIGO	B
+1548	Brands	Airbnb: the belonging rebrand	B
+1549	Politics	The US-China rivalry	B
+1550	Internet	Cancel culture and online discourse norms	B
+1551	Food	Aquaculture	B
+1552	Philosophy	Free will and determinism	A
+1553	History	The Cold War: origins and structure	A
+1554	Fashion	1980s: power dressing and logo mania	C
+1555	Religion	Ancient Greek and Roman religion	B
+1556	Nature	Elephants and their societies	B
+1557	World	United Arab Emirates	B
+1558	Law	Drug policy and decriminalisation	B
+1559	Psychology	Long-term memory and consolidation	B
+1560	Indian history	The Emergency in India	B
+1561	Economics	India's IT and services boom	B
+1562	Art	Cubism	A
+1563	Paranormal	Chupacabra and Latin American cryptids	C
+1564	How things work	Cellular networks: 1G to 5G	B
+1565	Paranormal	9/11 conspiracy claims	B
+1566	Astronomy	Galactic collisions	C
+1567	Climate	Geoengineering	B
+1568	Politics	Russia and the war in Ukraine	B
+1569	Literature	Subramania Bharati and modern Tamil writing	B
+1570	Money	Remittances and the migration economy	B
+1571	History	The Korean War	B
+1572	Language	Loanwords and how languages borrow	B
+1573	Type	Arabic type and calligraphic tradition	B
+1574	Architecture	Adaptive reuse and preserving buildings	B
+1575	Nature	Termites and their architecture	C
+1576	Law	Policing reform debates	B
+1577	Indian history	The Green and White revolutions	B
+1578	Myth	Arabian Nights and the frame tale	B
+1579	Medicine	Sleep and its biology	A
+1580	Film	Latin American cinema and the Third Cinema movement	B
+1581	Type	Times New Roman and newspaper type	C
+1582	Philosophy	The mind-body problem and consciousness	A
+1583	Money	Tax havens and offshore finance	B
+1584	World	Qatar, Kuwait & Bahrain	B
+1585	Computing	Social engineering and phishing	B
+1586	Music	Fado	C
+1587	Religion	Atheism, agnosticism and secularism	A
+1588	Economics	Why India did not industrialise like China	B
+1589	Psychology	Memory reconsolidation and false memories	B
+1590	Internet	Vaporwave and net art	C
+1591	Cities	Shenzhen: village to megacity	B
+1592	Fashion	The history of denim	A
+1593	Internet	Incels, manosphere and radicalisation pipelines	B
+1594	Brands	Uber: from disruption to repair	B
+1595	Literature	Malayalam literature: Basheer, M.T. and O.V. Vijayan	B
+1596	Computing	Famous hacks: Stuxnet to SolarWinds	B
+1597	Psychology	Eyewitness testimony	B
+1598	Music	Samba	B
+1599	Society	Rituals, etiquette and manners	B
+1600	Indian history	Mandal, Mandir and the 1990s	B
+1601	Philosophy	Personal identity and the ship of Theseus	B
+1602	Economics	Demonetisation and GST	B
+1603	Art	Futurism	B
+1604	Climate	The Paris Agreement and the COP process	A
+1605	Festivals	The Mid-Autumn Festival	B
+1606	Nature	Primates and social structure	B
+1607	Psychology	The decoy effect	C
+1608	Crime	Cybercrime and ransomware	A
+1609	How things work	Data centres and how the cloud is physical	B
+1610	Astronomy	Spectroscopy: reading light	B
+1611	Language	How accents and dialects form	A
+1612	History	The Vietnam War	A
+1613	Politics	The Israel-Palestine conflict	B
+1614	Computing	Version control and collaboration	C
+1615	Type	CJK type and the character set problem	B
+1616	Literature	Kannada literature: Kuvempu to Ananthamurthy	B
+1617	Brands	Caterpillar: heavy industry as a lifestyle brand	C
+1618	Medicine	Circadian rhythms	B
+1619	World	Jordan	B
+1620	Myth	Jewish folklore and the golem	B
+1621	Law	Access to justice and India's court backlog	B
+1622	Science	Bhabha, Sarabhai and big science in India	C
+1623	Sports	Badminton	B
+1624	Society	Slavery beyond the Atlantic: a global history	B
+1625	Film	Mexican cinema	B
+1626	Music	Bossa nova	B
+1627	War	Genocide: how it happens	B
+1628	Cities	Dubai	B
+1629	Religion	New religious movements	B
+1630	Personal finance	Wills, nominations and estate planning	C
+1631	Politics	BRICS, the G20 and the Global South	B
+1632	Fashion	Indian handloom and the weaving traditions	A
+1633	Psychology	The spacing effect and the testing effect	A
+1634	Climate	Climate finance and the North-South divide	B
+1635	Money	Corporate structures and limited liability	B
+1636	Design	Packaging design	C
+1637	Art	Dada	B
+1638	History	Decolonisation in Africa and Asia	A
+1639	Politics	Human rights and the Universal Declaration	A
+1640	Economics	India's public finances: budgets, deficits and the states	B
+1641	Medicine	Pain and how it's understood	B
+1642	Fashion	1990s: minimalism, grunge and heroin chic	C
+1643	Brands	Meta: brand damage and recovery attempts	B
+1644	Computing	Aadhaar, UPI and India Stack	B
+1645	Language	Sociolinguistics: code-switching and register	B
+1646	Politics	The anti-defection law	C
+1647	Type	Multi-script typography	B
+1648	How things work	Hard drives, SSDs and how data is stored	B
+1649	Philosophy	Trolley problems and moral intuition	A
+1650	Money	Insurance and how risk is priced	A
+1651	Astronomy	The history of astronomy: ancient to Copernicus	A
+1652	Psychology	Interleaving and desirable difficulties	B
+1653	Philosophy	Rawls and the veil of ignorance	B
+1654	World	Kurdistan (cross-border culture)	B
+1655	Philosophy	Hegel and dialectics	C
+1656	Social media	The ad-tech business model	A
+1657	Science	Chandrasekhar and the Indian astrophysicists	C
+1658	Climate	Climate justice	B
+1659	Nature	Big cats	B
+1660	War	Peacekeeping	B
+1661	History	The Cuban Revolution and missile crisis	B
+1662	Sports	Table tennis	B
+1663	Law	Famous trials: Socrates to Nuremberg	B
+1664	Language	The Great Vowel Shift	C
+1665	Society	Violence: has it really declined?	B
+1666	Politics	Refugees and the asylum system	B
+1667	Internet	Hacker culture and the MIT origins	B
+1668	Crime	Fraud and con artistry	B
+1669	Religion	Comparative: afterlife beliefs	B
+1670	How things work	The transistor	A
+1671	Music	Tango	B
+1672	Literature	Marathi literature: Tukaram to the modern novel	B
+1673	History	The American Civil Rights Movement	A
+1674	Internet	Weird Twitter and posting as an artform	C
+1675	Architecture	Geoffrey Bawa and tropical modernism	C
+1676	World	Armenia	B
+1677	Myth	Christian legend and the saints	B
+1678	Social media	Privacy, tracking and data brokers	A
+1679	Astronomy	Ancient Indian astronomy and the Jantar Mantar	B
+1680	Film	Brazilian Cinema Novo	B
+1681	Nature	Butterflies and metamorphosis	C
+1682	Climate	Climate migration and displacement	B
+1683	Fashion	The evolution of the sari	A
+1684	Politics	Propaganda and political communication	B
+1685	Brands	3M: innovation as brand identity	C
+1686	History	The Space Race	B
+1687	Social media	Threads, Bluesky and the post-Twitter scramble	C
+1688	How things work	Escalators and moving walkways	C
+1689	War	How wars end	B
+1690	How things work	Displays: CRT to OLED and micro-LED	B
+1691	Psychology	Sleep and memory	B
+1692	Language	The etymology of everyday words	B
+1693	Business	Lean manufacturing and Six Sigma	C
+1694	Money	Pensions and retirement systems	B
+1695	Internet	Free software and open source culture	B
+1696	Type	Unicode and encoding everything	A
+1697	Personal finance	Money and relationships	C
+1698	Brands	Microsoft's brand turnaround	B
+1699	World	Georgia	B
+1700	Art	Surrealism	B
+1701	Music	Cumbia	B
+1702	Psychology	Attention and inattentional blindness	B
+1703	Philosophy	Nozick, libertarianism and property	B
+1704	Computing	Quantum computing	B
+1705	Philosophy	Peter Singer and animal ethics	B
+1706	Money	Short selling	C
+1707	Food	Palm oil	B
+1708	Religion	Comparative: prophets and founders	B
+1709	Film	Scandinavian cinema and Bergman	B
+1710	Myth	Grimm, Perrault and the European fairy tale	B
+1711	Nature	Bats and echolocation	B
+1712	Art	Mannerism	C
+1713	Medicine	Mental health treatment through history	B
+1714	Science	Scientific fraud and retractions	C
+1715	Art	Constructivism and Russian avant-garde	B
+1716	Crime	White-collar crime	B
+1717	Literature	Punjabi literature: Waris Shah to Amrita Pritam	B
+1718	Language	Linguistic relativity: does language shape thought?	A
+1719	Games	PC gaming and Steam	B
+1720	Climate	Degrowth vs green growth	B
+1721	Astronomy	Islamic astronomy	B
+1722	Music	Nordic folk and joik	C
+1723	Type	Univers and the type family system	C
+1724	How things work	Cameras and image sensors	B
+1725	Social media	Content moderation at scale	A
+1726	History	The Iranian Revolution	B
+1727	Fashion	2000s: Y2K, low-rise and fast fashion's takeoff	C
+1728	Philosophy	Schopenhauer and pessimism	C
+1729	Politics	Polling and how to read it	B
+1730	Religion	Comparative: sacred texts and how they are read	B
+1731	Brands	Nike: the athlete-endorsement engine	A
+1732	Money	Credit scores and consumer debt	B
+1733	Paranormal	Ancient aliens and the pyramids	B
+1734	Philosophy	Bioethics: euthanasia, abortion and enhancement	B
+1735	Geography	How deserts form	C
+1736	Myth	Fairy tale structure: Propp's morphology	B
+1737	Law	Labour law	C
+1738	Cities	Lagos	B
+1739	Psychology	The Zeigarnik effect	C
+1740	How things work	Touchscreens	B
+1741	World	Azerbaijan	B
+1742	Medicine	Psychiatric medication	B
+1743	Internet	Copypasta and shitposting	C
+1744	Mathematics	Fractals	C
+1745	Festivals	Vesak	B
+1746	Astronomy	Mayan and Mesoamerican astronomy	B
+1747	Crime	Enron, Theranos and corporate fraud	B
+1748	Fashion	Block printing, ikat and bandhani	B
+1749	Nature	Spiders and silk	C
+1750	World	Egypt	A
+1751	Language	Names: how personal and place names evolve	B
+1752	Type	Type anatomy and terminology	A
+1753	Psychology	Multitasking and switching costs	B
+1754	Literature	Manto, Ismat Chughtai and the Progressive Writers	B
+1755	History	The fall of the Berlin Wall and the USSR	A
+1756	Politics	Lobbying and money in politics	B
+1757	Money	Microfinance and its mixed record	B
+1758	Music	Son cubano and salsa	B
+1759	Games	Magic: The Gathering and TCGs	C
+1760	Brands	Maersk: logistics branding	C
+1761	Games	MMORPGs and World of Warcraft	B
+1762	History	The Balkan wars and Rwanda	B
+1763	How things work	Speakers, microphones and how sound is captured	B
+1764	Religion	Pilgrimage traditions worldwide	B
+1765	Human body	Hydration	C
+1766	Medicine	Psychedelics in medicine	B
+1767	Brands	Adidas: heritage and the Yeezy lesson	B
+1768	Politics	Naxalism and the Red Corridor	C
+1769	Money	Informal finance and chit funds	B
+1770	Art	The Bauhaus as an art school	B
+1771	Astronomy	Polynesian wayfinding and navigation by stars	B
+1772	Social media	Misinformation and how it spreads	A
+1773	Philosophy	Aesthetics: what makes something beautiful	B
+1774	Crime	Money laundering	A
+1775	Music	Reggae and dub	B
+1776	Nature	Marsupials and Australia's isolation	B
+1777	Psychology	Habit formation and cue-routine-reward	A
+1778	Politics	Public policy: how a policy gets made	B
+1779	Festivals	Obon	B
+1780	Food	The invention of processed food	B
+1781	Politics	The welfare state	B
+1782	Climate	Climate communication and psychology	B
+1783	Music	Balkan brass	C
+1784	World	Morocco	B
+1785	Literature	The Brontës	C
+1786	History	Apartheid and its end	B
+1787	Fashion	African wax print and its complicated origin	B
+1788	Medicine	Addiction and its neuroscience	A
+1789	Economics	Auctions and market design	C
+1790	Myth	Korean folklore	C
+1791	Literature	Partition literature	B
+1792	Mathematics	Topology: the doughnut and the coffee cup	C
+1793	Type	Kerning, tracking and spacing	A
+1794	Fashion	2010s: athleisure, normcore and streetwear's rise	C
+1795	Myth	The hero's journey and its overuse	A
+1796	Cities	Nairobi	B
+1797	Brands	Zara and Inditex: speed as strategy	B
+1798	Language	Swearing and taboo language across cultures	B
+1799	Religion	Religion and gender	B
+1800	Architecture	Metabolism in Japan	C
+1801	Type	Phototypesetting and its brief era	C
+1802	Crime	Triads	C
+1803	Literature	Dalit literature	B
+1804	Philosophy	Philosophy of religion: arguments for and against God	B
+1805	History	9/11 and the War on Terror	A
+1806	Psychology	Willpower and ego depletion: the debate	B
+1807	World	Kyrgyzstan	C
+1808	Politics	Coups, revolutions and why regimes fall	B
+1809	Astronomy	Calendars derived from the sky	B
+1810	Nature	Animal navigation and magnetoreception	B
+1811	World	Tunisia & Algeria	B
+1812	Climate	Adaptation and resilient cities	B
+1813	Art	Abstract Expressionism	A
+1814	Medicine	The opioid crisis	B
+1815	Fashion	The kimono	B
+1816	Cities	Johannesburg and apartheid's spatial legacy	B
+1817	Social media	Filter bubbles and polarisation: what the evidence says	A
+1818	Myth	Trickster figures worldwide	B
+1819	Money	UPI and India's payments revolution	A
+1820	Politics	How authoritarians stay in power	B
+1821	Philosophy	Death and how philosophers face it	B
+1822	Psychology	Emotion theories	A
+1823	Sports	Volleyball	B
+1824	History	The Arab Spring	B
+1825	Food	Ultra-processed food and health	A
+1826	Computing	Computer graphics and rendering	C
+1827	Nature	Animal communication	B
+1828	How things work	The lithium supply chain	B
+1829	Language	Machine translation and NLP's effect on language	B
+1830	Internet	ARGs and creepypasta	C
+1831	Type	Leading and vertical rhythm	A
+1832	Literature	Modernism: Joyce, Woolf and the stream of consciousness	A
+1833	Religion	Religion and law: the secular state	B
+1834	Crime	Corruption and how it's measured	A
+1835	Psychology	Duration neglect	C
+1836	Medicine	Ageing and longevity research	B
+1837	Music	Klezmer	C
+1838	Paranormal	Atlantis and lost civilisations	B
+1839	Brands	Uniqlo: LifeWear and the anti-fashion brand	B
+1840	Money	Cash vs digital and the war on cash	B
+1841	Astronomy	The history of spaceflight	B
+1842	Social media	Social media and mental health	A
+1843	Design	Service design	C
+1844	Social media	VK, LINE and regional platforms	C
+1845	World	Tajikistan	C
+1846	Internet	The dark web	B
+1847	World	Libya	B
+1848	Psychology	Affect and the somatic marker hypothesis	B
+1849	Games	The FPS lineage: Doom to Counter-Strike	B
+1850	Myth	Southeast Asian myth	C
+1851	Philosophy	The meaning of life	B
+1852	How things work	Rare earth elements	B
+1853	History	The rise of modern China	A
+1854	Type	The typographic grid	A
+1855	Myth	Flood myths across cultures	B
+1856	Food	The restaurant as an institution	B
+1857	Film	Documentary film	A
+1858	Climate	India's climate position and energy transition	A
+1859	World	Ethiopia	A
+1860	Crime	Terrorism and how states respond	A
+1861	Politics	Democratic backsliding	B
+1862	Language	Language policy and politics	B
+1863	Art	Rococo	C
+1864	Literature	Kafka	B
+1865	Art	Pop Art	A
+1866	How things work	Mining and refining	B
+1867	Nature	Tool use in animals	B
+1868	Film	Animation: Disney and the American tradition	B
+1869	Fashion	2020s: digital fashion, quiet luxury and dopamine dressing	C
+1870	Astronomy	NASA	B
+1871	Social media	Teen safety and age verification	B
+1872	Money	Bitcoin and blockchains	A
+1873	Cities	Cape Town	B
+1874	Medicine	Reproductive medicine and IVF	B
+1875	Myth	Creation myths compared	A
+1876	Philosophy	Phenomenology: Husserl and Heidegger	C
+1877	Literature	Proust	B
+1878	Law	AI and the law	C
+1879	Brands	Shein: the ultrafast model	B
+1880	Money	Stablecoins and CBDCs	B
+1881	Psychology	Stress and the general adaptation syndrome	A
+1882	Design	Speculative and critical design	C
+1883	Religion	Monasticism across religions	B
+1884	How things work	3D printing and additive manufacturing	B
+1885	Nature	Animal consciousness	B
+1886	World	Turkmenistan	C
+1887	Climate	What actually gives grounds for optimism	A
+1888	Psychology	Burnout	B
+1889	Religion	The Bahá'í Faith	C
+1890	Paranormal	The Dyatlov Pass incident	B
+1891	Crime	Espionage and intelligence agencies	B
+1892	Cities	Havana	C
+1893	Type	Hierarchy and scale	A
+1894	Medicine	Contraception and its social effect	B
+1895	Philosophy	Effective altruism and its critics	B
+1896	Film	Studio Ghibli and Japanese animation	B
+1897	Astronomy	ISRO and India's space programme	A
+1898	Architecture	Deconstructivism	C
+1899	Food	Yoghurt and cultured milk	C
+1900	Nature	Camouflage and mimicry	B
+1901	Mathematics	Voting maths and Arrow's impossibility theorem	C
+1902	Brands	Patagonia: activism as brand	B
+1903	Sports	Field hockey	B
+1904	Literature	T.S. Eliot and modernist poetry	B
+1905	Games	Crosswords and word games	C
+1906	Food	Street food worldwide	B
+1907	How things work	Roads, asphalt and paving	C
+1908	Art	Minimalism	B
+1909	Social media	Platform decay ('enshittification')	B
+1910	Religion	Mysticism across religions	B
+1911	Internet	Indian internet culture and meme ecosystems	B
+1912	Myth	Polynesian myth and Maui	C
+1913	Type	TrueType, OpenType and font formats	C
+1914	Philosophy	The ethics of artificial intelligence	B
+1915	World	Sudan	B
+1916	Money	Crypto crashes and frauds	B
+1917	Music	How to listen to Western classical music	A
+1918	Cities	Mumbai and the chawl	A
+1919	Nature	Venom and poison	B
+1920	Astronomy	SpaceX and commercial space	B
+1921	Medicine	Maternal and child health	B
+1922	Type	Legibility vs readability	A
+1923	Psychology	Depression: models and treatment	A
+1924	Myth	Underworld and afterlife journeys	B
+1925	Art	Conceptual art	A
+1926	Games	Minecraft and the sandbox	B
+1927	Psychology	The overjustification effect	C
+1928	Literature	Hemingway, Fitzgerald and the Lost Generation	B
+1929	Psychology	Anxiety disorders	A
+1930	Crime	Assassinations that changed history	B
+1931	Film	Anime beyond Ghibli	B
+1932	World	Somalia	B
+1933	Astronomy	China's space programme	B
+1934	Social media	The fediverse and decentralised social	B
+1935	Religion	Ritual: what it does socially	B
+1936	Mathematics	Gödel's incompleteness theorems	C
+1937	Fashion	Fashion weeks and the industry calendar	B
+1938	Money	Ponzi and pyramid schemes	B
+1939	Cities	Kolkata	B
+1940	Paranormal	The Voynich Manuscript	B
+1941	Festivals	Nowruz	B
+1942	Literature	Orwell, Huxley and the dystopian tradition	B
+1943	Music	Medieval chant and the birth of notation	B
+1944	Language	Slang, youth language, and generational drift	B
+1945	Games	Roblox and user-generated worlds	B
+1946	Internet	Regional-language internet in India	B
+1947	Medicine	Palliative care and dying well	B
+1948	Type	Type and accessibility	B
+1949	Brands	Levi's: owning a category noun	B
+1950	Food	Famines and their politics	A
+1951	Medicine	Medical ethics and informed consent	B
+1952	Art	Land art	B
+1953	Psychology	ADHD	B
+1954	Myth	Dragons across cultures	B
+1955	Music	Bach and the Baroque	A
+1956	Fashion	LVMH, Kering and luxury conglomerates	B
+1957	World	Nigeria	A
+1958	Cities	Chennai	B
+1959	How things work	Robotics and actuators	B
+1960	Games	Escape rooms and immersive play	C
+1961	Brands	Louis Vuitton	B
+1962	Literature	Science fiction literature: Wells to Le Guin	B
+1963	Money	Economic bubbles: the anatomy	A
+1964	Film	Stop-motion and experimental animation	B
+1965	Food	The Green Revolution	A
+1966	Psychology	Autism and neurodiversity	B
+1967	Mathematics	Paradoxes: Zeno to Banach-Tarski	C
+1968	Philosophy	Russell, Frege and analytic philosophy	C
+1969	Literature	Beckett, Brecht and the theatre of the absurd	B
+1970	Nature	Migration: the great journeys	B
+1971	World	Ghana	B
+1972	Art	Performance art	B
+1973	Type	Typefaces and their politics	B
+1974	Astronomy	Space stations and living in orbit	B
+1975	Geography	Disputed borders, enclaves and exclaves	C
+1976	How things work	The assembly line	B
+1977	Medicine	The pharmaceutical industry	B
+1978	Social media	Section 230, the DSA and platform regulation	B
+1979	Myth	Vampires, werewolves and the undead	B
+1980	Music	Haydn, Mozart and the Classical style	B
+1981	Food	Fish sauce and umami	C
+1982	Cities	Bengaluru's sprawl	B
+1983	Fashion	Fashion photography and the magazine era	B
+1984	Games	Mobile gaming and free-to-play	B
+1985	Film	Experimental and avant-garde film	B
+1986	Food	GM crops and the debate	B
+1987	Psychology	Personality: the Big Five	A
+1988	Astronomy	Space law, debris and the Kessler syndrome	B
+1989	Architecture	Japanese contemporary: Ando to Kuma	C
+1990	Myth	Inuit myth	C
+1991	Festivals	Day of the Dead	B
+1992	Medicine	Generic drugs and India's role	A
+1993	Law	The law of the sea	C
+1994	Nature	Islands and endemic species	B
+1995	Games	Pinball and the arcade before video	C
+1996	Literature	Indian theatre: Natyashastra to Tendulkar, Karnad and Sircar	B
+1997	Film	Horror as a genre	B
+1998	Type	Type in branding and identity	B
+1999	Sports	Diving	C
+2000	Cities	Ahmedabad and Le Corbusier in India	B
+2001	Human body	Mobility, flexibility and posture	C
+2002	Internet	Chinese internet culture and its slang	B
+2003	Social media	Deplatforming and speech debates	B
+2004	World	Senegal	B
+2005	Medicine	Health systems compared worldwide	A
+2006	How things work	Fertiliser and the Haber-Bosch process	A
+2007	Games	Gacha, loot boxes and monetisation ethics	B
+2008	Music	Highlife	C
+2009	Crime	Unsolved cases worldwide	B
+2010	Music	Beethoven	A
+2011	Nature	Invasive species	B
+2012	Food	Food waste	B
+2013	Literature	The Harlem Renaissance, Baldwin and Morrison	B
+2014	Brands	Hermès: scarcity as strategy	B
+2015	Psychology	Intelligence and IQ debates	B
+2016	Literature	Magical realism and the Latin American Boom	A
+2017	World	Mali	B
+2018	Social media	Astroturfing and bot networks	B
+2019	How things work	Pesticides and modern agriculture	B
+2020	Astronomy	Amateur astronomy: how to actually look up	B
+2021	Cities	Jaipur: a planned Indian city	B
+2022	World	The Sahel: Niger, Chad & Burkina Faso	B
+2023	Psychology	Creativity research	B
+2024	Games	Indie games and the democratisation of development	B
+2025	Music	The Romantic era: Schubert to Brahms	B
+2026	Mathematics	Euler and Gauss	C
+2027	Nature	Rewilding	B
+2028	Film	Science fiction cinema	B
+2029	Medicine	Medical misinformation and quackery	A
+2030	Crime	Cold cases and genetic genealogy	B
+2031	Type	Custom type and the bespoke typeface	B
+2032	Business	Jugaad and frugal innovation	C
+2033	Nature	Conservation: what works	A
+2034	Food	Vegetarianism and veganism across cultures	B
+2035	Literature	African literature: Achebe, Ngũgĩ and Soyinka	B
+2036	Psychology	Persuasion: Cialdini's principles	A
+2037	Festivals	Carnival in Rio	B
+2038	Sports	Freestyle and Greco-Roman wrestling	B
+2039	Fashion	Fashion and subculture	B
+2040	Cities	Varanasi	B
+2041	Film	The Western	B
+2042	Myth	Witches and the folklore of magic	B
+2043	How things work	Irrigation systems	B
+2044	Food	Fasting traditions	B
+2045	Social media	Social media and political movements	B
+2046	Sports	Water polo	C
+2047	Music	Opera: Monteverdi to Verdi and Wagner	A
+2048	Type	Lettering vs type design	B
+2049	How things work	Food preservation: canning to freeze-drying	B
+2050	Games	Game engines: Unity, Unreal and Godot	B
+2051	Psychology	Nudge theory and choice architecture	B
+2052	Internet	Hustle culture and productivity influencers	C
+2053	Mathematics	Women in mathematics: Hypatia to Mirzakhani	C
+2054	Brands	Coca-Cola: the branding blueprint	A
+2055	Fashion	Menswear and the history of tailoring	B
+2056	Literature	Postcolonial literature	B
+2057	Nature	Zoos and the ethics of captivity	B
+2058	Sports	Indian kushti & akhara wrestling	B
+2059	Social media	Social media and elections	B
+2060	Geography	Extreme places on Earth	C
+2061	Music	The symphony orchestra and how it works	B
+2062	Myth	Urban legends as modern myth	B
+2063	Literature	Indian writing in English: R.K. Narayan to Rushdie and Roy	A
+2064	Paranormal	Haunted places of India	B
+2065	Cities	Kochi and port cities of the Indian Ocean	B
+2066	How things work	Submarines	C
+2067	Film	The musical	B
+2068	World	Kenya	A
+2069	Type	Calligraphy traditions worldwide	B
+2070	Psychology	Dark patterns and how they exploit psychology	B
+2071	Literature	Japanese modern literature: Sōseki to Murakami	B
+2072	Food	Food taboos	B
+2073	Art	Street art and graffiti	B
+2074	Mathematics	The golden ratio: fact and myth	C
+2075	Psychology	Behavioural design for good	B
+2076	Music	Ethio-jazz	C
+2077	Film	Comedy across film cultures	B
+2078	Nature	Biodiversity hotspots	B
+2079	Myth	How myth becomes fantasy fiction	B
+2080	Music	Debussy, Stravinsky and the modern break	B
+2081	Type	Type on mobile and small screens	C
+2082	Games	Game design theory: MDA and core loops	A
+2083	Fashion	The suit: origin and decline	B
+2084	Philosophy	Postmodernism and Derrida	C
+2085	Social media	AI-generated content flooding feeds	B
+2086	Cities	Toronto and multicultural urbanism	C
+2087	Type	Signage and wayfinding type	B
+2088	World	Tanzania & Zanzibar	B
+2089	Paranormal	Reptilian and David Icke theories	C
+2090	Sports	Judo	B
+2091	Nature	Indian wildlife and its conservation story	A
+2092	Literature	Chinese modern literature: Lu Xun to Mo Yan	B
+2093	Art	Bengal School and Indian modernism	A
+2094	Architecture	Parametric design and computational architecture	C
+2095	Food	Kitchen technology and how it changed cooking	B
+2096	Mathematics	Vedic maths: what is real and what is not	C
+2097	Internet	Doomscrolling and internet malaise	C
+2098	Society	Leisure and the invention of the weekend	C
+2099	Paranormal	Near-death experiences	B
+2100	Film	Screenwriting structure and its critics	A
+2101	Brands	Unilever, P&G and Nestlé: the FMCG portfolio game	B
+2102	Psychology	Loneliness and social connection	B
+2103	Myth	Incan and Andean myth	C
+2104	World	Uganda	B
+2105	Food	Recipes, cookbooks and how knowledge travels	B
+2106	Nature	The Amazon as a system	B
+2107	Myth	Myth in film, games and pop culture	B
+2108	Psychology	The marshmallow test and what replication showed	C
+2109	Music	Gnawa of Morocco	C
+2110	Art	The Progressive Artists' Group	A
+2111	Cities	Sydney and Melbourne	B
+2112	Psychology	Happiness research and hedonic adaptation	A
+2113	How things work	Clocks and timekeeping	B
+2114	Internet	YouTube video essays and long-form internet	B
+2115	Art	Symbolism	C
+2116	Film	Turkish and Middle Eastern cinema	C
+2117	Literature	The short story as a form	B
+2118	Film	Cinematography and the shot	A
+2119	World	Rwanda & Burundi	B
+2120	Mathematics	The history of mathematical notation	C
+2121	Paranormal	Reincarnation research and Ian Stevenson	B
+2122	Psychology	Moral psychology and Haidt's foundations	A
+2123	Nature	The Arctic and Antarctic	B
+2124	Games	Narrative games and interactive storytelling	B
+2125	Society	Time: how societies organise it	C
+2126	How things work	Atomic clocks and what a second is	B
+2127	Art	Contemporary Indian art	B
+2128	Brands	Red Bull: media company that sells drinks	B
+2129	Music	Blues	A
+2130	World	DR Congo	B
+2131	Literature	Memoir and autobiography	B
+2132	Human body	Sex differences in medicine	C
+2133	Psychology	Cross-cultural psychology and the WEIRD problem	B
+2134	Business	Business books worth knowing	C
+2135	Art	Fauvism	C
+2136	Social media	What comes after the feed	B
+2137	Sports	Track cycling	C
+2138	How things work	Standards, ISO and why they matter	B
+2139	Nature	Deserts and their life	B
+2140	Music	Jazz: origins to bebop	A
+2141	Food	Lab-grown meat and the future of protein	B
+2142	Paranormal	Chemtrails	C
+2143	Music	South African mbaqanga and isicathamiya	C
+2144	Film	Editing and montage theory	A
+2145	Nature	Grasslands and savannas	B
+2146	Mathematics	Recreational mathematics and puzzles	C
+2147	How things work	Measurement and the SI units	B
+2148	Literature	Comics and graphic novels	B
+2149	Cities	Slums and informal settlements worldwide	A
+2150	Religion	Vodun, Voodoo and Santería	C
+2151	Art	Contemporary African art	B
+2152	Brands	Dove: the Real Beauty campaign	B
+2153	Fashion	Jewellery and adornment across cultures	B
+2154	Cities	Gated communities and urban segregation	B
+2155	Paranormal	Psychics, mediums and cold reading	B
+2156	Nature	Parrots and vocal learning	C
+2157	Music	Jazz: modal, free and fusion	B
+2158	Type	Type foundries and the business of type	B
+2159	World	Zimbabwe	B
+2160	How things work	Recycling and what actually happens to waste	B
+2161	Film	Sound design and the soundtrack	B
+2162	Art	Digital art and net art	B
+2163	Nature	Wetlands and mangroves	B
+2164	Brands	McDonald's: systems as brand	B
+2165	Myth	Ethiopian and Nubian legend	C
+2166	Fashion	Footwear through history	B
+2167	Music	Taarab of the Swahili coast	C
+2168	Paranormal	Astrology: history and why it persists	B
+2169	Society	Honour, shame and guilt cultures	C
+2170	Art	Generative and algorithmic art	B
+2171	Music	Gospel and spirituals	B
+2172	Nature	Soil as a living system	A
+2173	World	Mozambique	B
+2174	Literature	Translation and what gets lost	B
+2175	Sports	BMX & mountain biking	C
+2176	Brands	Starbucks: the third place	B
+2177	Games	The esports industry	B
+2178	Cities	Suburbia and how it happened	A
+2179	Crime	Bank robbery and its decline	C
+2180	Astronomy	Neutrino astronomy	C
+2181	How things work	Fire and how buildings resist it	B
+2182	Film	Visual effects: practical to digital	B
+2183	Cities	Ebenezer Howard and the garden city movement	B
+2184	Fashion	Hair and beauty standards over time	B
+2185	Games	The Sega vs Nintendo console war	C
+2186	War	Mercenaries and private military companies	C
+2187	Art	AI art and the debate	B
+2188	World	Botswana & Namibia	B
+2189	Music	Soul, Motown and funk	B
+2190	How things work	Engineering failures and what they taught	B
+2191	Type	How a typeface is actually made	A
+2192	Food	Eggs and poultry	C
+2193	Brands	Domino's: the turnaround campaign	B
+2194	Social media	Social commerce and live shopping	C
+2195	How things work	India's engineering feats: Konkan Railway to the Chenab bridge	B
+2196	Games	Streaming and Let's Plays	B
+2197	Music	Country music	B
+2198	World	South Africa	A
+2199	Type	Type critique: how to judge a face	A
+2200	Cities	Le Corbusier and the Radiant City	B
+2201	World	Madagascar	B
+2202	Art	How the art market actually works	B
+2203	Film	Auteur theory and its limits	B
+2204	Brands	Haldiram's: Indian FMCG scale	B
+2205	Music	Rock 'n' roll's birth	A
+2206	Nature	Wolves and pack behaviour	C
+2207	Games	Sony PlayStation	C
+2208	Paranormal	'Deep state' as a concept	C
+2209	Food	Honey and beekeeping	C
+2210	World	Mauritius, Réunion & Seychelles	B
+2211	Paranormal	Cults: Jonestown	B
+2212	Cities	Jane Jacobs vs Robert Moses	A
+2213	Art	Museums, curation and the canon	B
+2214	Indian history	Goa, Sikkim and the later mergers	C
+2215	Festivals	Qingming and ancestor festivals	C
+2216	Cities	Christopher Alexander and A Pattern Language	B
+2217	Brands	Zomato & Swiggy: brand voice on the internet	B
+2218	Literature	Telugu literature: Gurazada to Sri Sri	C
+2219	Film	Film criticism and its history	B
+2220	Music	The Beatles and the British Invasion	B
+2221	World	France	A
+2222	Art	Restitution and looted art	B
+2223	Computing	Indian computing history: TIFRAC to Param	C
+2224	Medicine	Anaesthetic consciousness and the brain	C
+2225	World	Italy: north	A
+2226	Cities	Doha and Gulf urbanism	C
+2227	Brands	Toyota: the production system as brand	B
+2228	Games	Microsoft Xbox	C
+2229	Food	Nuts and the water cost of almonds	C
+2230	Music	Psychedelia and the 60s	B
+2231	Society	Death and mourning customs	C
+2232	Art	Forgery and authentication	B
+2233	Nature	Bears	C
+2234	Cities	Zoning and land use	A
+2235	Games	VR and AR gaming	B
+2236	Paranormal	Crop circles	C
+2237	Festivals	Songkran	C
+2238	Film	Streaming and what it did to cinema	B
+2239	Law	How the legal profession works	C
+2240	World	Italy: south & Sicily	B
+2241	Brands	Tesla: zero-ad-spend brand building	B
+2242	Paranormal	Cults: Aum Shinrikyo	B
+2243	Sports	Kalaripayattu	B
+2244	Cities	Public transport systems compared	A
+2245	World	Spain	A
+2246	Art	Photography as art	B
+2247	Cities	Tehran	C
+2248	Games	Indian gaming and esports	B
+2249	Festivals	Harvest festivals across cultures	B
+2250	Music	Punk	B
+2251	World	Catalonia	B
+2252	Art	Printmaking traditions	B
+2253	Film	Censorship and film worldwide	B
+2254	War	Women in war	C
+2255	Sports	Squash	C
+2256	Games	Games as education and serious games	B
+2257	Brands	Ferrari: scarcity and myth	B
+2258	Film	Dogme 95	C
+2259	Festivals	Solstice and equinox celebrations	B
+2260	Sports	Sumo	B
+2261	Cities	Walkability and the 15-minute city	A
+2262	Literature	Gujarati, Odia and Assamese literature	C
+2263	Nature	Rodents and their success	C
+2264	Psychology	Change blindness	C
+2265	Film	Television's golden age and the long-form turn	B
+2266	Music	Post-punk and new wave	B
+2267	Art	Ceramics and craft as art	B
+2268	Brands	Royal Enfield: heritage revival	B
+2269	Art	De Stijl	C
+2270	War	How armies are organised	C
+2271	Festivals	How festivals commercialise	B
+2272	Climate	Individual action vs systemic change	C
+2273	Internet	The demoscene	C
+2274	World	Portugal	B
+2275	Games	Gamification and its limits	B
+2276	Art	Textile art and the craft/art divide	B
+2277	Music	Metal and its subgenres	B
+2278	Philosophy	Environmental ethics	C
+2279	Food	Avocado and the fashionable crop problem	C
+2280	Sports	Kabaddi	B
+2281	Cities	Public space and the plaza	B
+2282	World	Germany	A
+2283	Film	Eastern European cinema	C
+2284	Sports	Padel and pickleball	C
+2285	Film	AI and the future of filmmaking	B
+2286	Music	Hip-hop: the Bronx origins	A
+2287	Cities	Parks and the urban green	B
+2288	World	Austria	B
+2289	Art	Sculpture in the modern era	B
+2290	Brands	Tata Group: trust as the asset	A
+2291	War	War memorials and how nations remember	C
+2292	Art	Installation and immersive art	B
+2293	How things work	Noise cancellation	C
+2294	Paranormal	The Nazca Lines	C
+2295	Internet	Piracy, warez and the scene	C
+2296	World	Switzerland	B
+2297	Cities	Gentrification	B
+2298	Music	Hip-hop: regional scenes and evolution	B
+2299	Games	MOBAs: Dota and League of Legends	C
+2300	Film	Australian New Wave	C
+2301	Festivals	Hanami and cherry blossom season	C
+2302	Games	AI in games and games in AI research	B
+2303	World	Netherlands	B
+2304	Brands	Reliance: the conglomerate brand	B
+2305	Art	Public art and monuments	B
+2306	Music	Calypso and soca	C
+2307	Cities	Housing crises worldwide	A
+2308	Music	Pop superstars: Michael Jackson to Taylor Swift	B
+2309	Brands	Amul: the co-operative and its topicals	A
+2310	World	Belgium	B
+2311	Music	Detroit techno	B
+2312	Climate	Climate litigation	C
+2313	Art	Iconoclasm and the destruction of art	B
+2314	Festivals	Gion Matsuri	C
+2315	Art	Colour field painting	C
+2316	Music	Mariachi and ranchera	C
+2317	Cities	Addis Ababa	C
+2318	Fashion	Hanbok and Korean dress	C
+2319	Religion	Interfaith movements and religious conflict	C
+2320	Philosophy	Philosophy of language	C
+2321	World	England	A
+2322	Music	Chicago house	B
+2323	Brands	boAt: Indian D2C at scale	B
+2324	Sports	Handball	C
+2325	Politics	Surveillance states	C
+2326	World	Scotland	B
+2327	Internet	Digital nomads and remote work culture	C
+2328	Games	Battle royale and Fortnite	C
+2329	Music	Andean music and the charango	C
+2330	Festivals	Chuseok	C
+2331	Brands	Mamaearth & the Indian D2C wave	B
+2332	Food	Michelin and the fine dining system	C
+2333	Politics	Direct democracy: Switzerland and referendums	C
+2334	World	Eritrea & Djibouti	C
+2335	Language	The Arabic dialect continuum	C
+2336	Music	Ambient and minimalism	B
+2337	Fashion	Tartan, the kilt and invented tradition	C
+2338	World	Ireland	B
+2339	Brands	Asian Paints: distribution as moat	B
+2340	Paranormal	The Salem witch trials and moral panic	B
+2341	World	Sweden	B
+2342	Politics	Citizens' assemblies and new democratic experiments	C
+2343	Language	Spanish variation across Latin America	C
+2344	Brands	Dabur & Patanjali: ayurveda positioning	B
+2345	Music	The K-pop production system	B
+2346	Festivals	Loi Krathong and Yi Peng	C
+2347	How things work	Injection moulding	C
+2348	World	Norway	B
+2349	Paranormal	Satanic panic of the 1980s	B
+2350	World	Denmark	B
+2351	Music	J-pop and city pop	B
+2352	How things work	CNC machining	C
+2353	Brands	Zerodha: content-led fintech	B
+2354	World	Finland	B
+2355	Paranormal	Debunking: how to evaluate an extraordinary claim	A
+2356	Sports	Lacrosse	C
+2357	Music	Bollywood film music: the golden age	A
+2358	Nature	Hibernation and torpor	C
+2359	Crime	Unsolved cases: Jack the Ripper	C
+2360	Brands	Razorpay & Paytm: Indian fintech branding	B
+2361	Music	Ilaiyaraaja, A.R. Rahman and the South Indian film sound	B
+2362	World	Iceland	B
+2363	Brands	Visa & Mastercard: the invisible rails	B
+2364	Paranormal	The Rendlesham Forest incident	C
+2365	Festivals	Mehregan and Persian festivals	C
+2366	Sports	Netball	C
+2367	Music	Bollywood film music: the modern era	B
+2368	Crime	Unsolved cases: the Zodiac	C
+2369	Internet	Nigerian and African internet culture	C
+2370	Music	Indian independent and indie-pop	B
+2371	World	Benin & Togo	C
+2372	How things work	Barcodes, QR codes and RFID	C
+2373	World	Poland	A
+2374	Brands	Gucci: reinvention under Michele	C
+2375	Myth	Giants, dwarves and little people	C
+2376	Art	Arte Povera	C
+2377	World	Czechia	B
+2378	Music	Punjabi music and bhangra's global rise	B
+2379	Psychology	Why MBTI doesn't hold up	C
+2380	Paranormal	Poltergeists and haunted-house claims	C
+2381	Art	Fluxus	C
+2382	Astronomy	Space mining and colonisation debates	C
+2383	Sports	Ultimate frisbee	C
+2384	Fashion	The modelling industry	C
+2385	Brands	McKinsey, BCG & Bain: consulting brands	B
+2386	World	Hungary	B
+2387	Myth	Mermaids and water spirits	C
+2388	World	Romania	B
+2389	Festivals	Inti Raymi	C
+2390	Art	Photorealism and hyperrealism	C
+2391	Brands	Pentagram: the designer-as-brand	B
+2392	Internet	Brazilian and Latin American internet culture	C
+2393	World	Bulgaria	B
+2394	Music	Afrobeats and the new African pop	B
+2395	Paranormal	Ghost hunting, EVP and pseudoscience	C
+2396	Brands	Rolex: the resale-value brand	C
+2397	World	Greece	A
+2398	Art	Neo-Expressionism	C
+2399	Brands	Ogilvy and the history of advertising	A
+2400	World	Ivory Coast	C
+2401	Crime	True crime as a genre and its ethics	C
+2402	World	Serbia	B
+2403	Brands	IDEO: design thinking as a product	B
+2404	World	Croatia	B
+2405	Music	The history of recording technology	A
+2406	World	Cameroon	C
+2407	Internet	Japanese internet culture and 2channel	C
+2408	Brands	Disney: IP as an empire	B
+2409	Art	The Young British Artists	C
+2410	Festivals	Semana Santa	C
+2411	Music	How streaming changed music	A
+2412	How things work	The zip, the velcro and the button	C
+2413	World	Bosnia & Herzegovina	B
+2414	How things work	The pencil and the pen	C
+2415	Brands	A24: taste as a brand	B
+2416	Music	Music theory across cultures	B
+2417	Brands	Pepsi and the challenger playbook	C
+2418	Cities	Auroville and utopian settlements	C
+2419	Festivals	Running of the Bulls	C
+2420	Internet	Internet drama as a genre	C
+2421	Music	Instruments: how families of instruments spread	B
+2422	How things work	Locks and keys	C
+2423	Brands	Marvel: the shared-universe brand	B
+2424	Sports	Surfing	B
+2425	World	Albania	B
+2426	Games	Level design	C
+2427	Brands	Nintendo: the family-safe positioning	B
+2428	Social media	Digital detox and the backlash	C
+2429	Music	Protest music around the world	B
+2430	Festivals	Oktoberfest	C
+2431	Literature	Naguib Mahfouz and modern Arabic fiction	C
+2432	Music	Schoenberg, Cage and the 20th-century avant-garde	C
+2433	Fashion	Uniform design	C
+2434	Sports	Karate	C
+2435	World	Ukraine	A
+2436	Sports	Skateboarding	B
+2437	Brands	LEGO: the near-death and revival	B
+2438	Type	Type in film titles and motion	C
+2439	Music	Film scoring and the soundtrack	B
+2440	World	Belarus	B
+2441	Cities	Reykjavik and extreme-climate cities	C
+2442	Food	Molecular gastronomy	C
+2443	Fashion	Techwear and functional fashion	C
+2444	Festivals	St Patrick's Day	C
+2445	Brands	IKEA: the flat-pack philosophy	B
+2446	Internet	Nostalgia cycles online	C
+2447	Type	Type in games and interfaces	C
+2448	World	Russia: European	A
+2449	Brands	Muji: the no-brand brand	B
+2450	World	Russia: Siberia & Far East	B
+2451	Sports	Taekwondo	C
+2452	Games	Walking simulators and art games	C
+2453	World	Angola	C
+2454	Festivals	Hogmanay and New Year traditions worldwide	C
+2455	World	Estonia, Latvia & Lithuania	B
+2456	Brands	Warby Parker, Glossier & Allbirds: the D2C playbook	B
+2457	Literature	Amar Chitra Katha and Indian comics	C
+2458	World	Malta & Cyprus	B
+2459	Sports	Kung fu & wushu	C
+2460	Games	Speedrunning	C
+2461	Literature	Children's literature	C
+2462	World	Zambia	C
+2463	Festivals	Burning Man	C
+2464	World	Mexico	A
+2465	How things work	Landfills and incineration	C
+2466	Film	Production design and costume in film	C
+2467	Type	Font licensing and piracy	C
+2468	World	Guatemala & the Maya world	B
+2469	Brands	Duolingo: the unhinged social media brand	B
+2470	Festivals	Glastonbury and festival culture	C
+2471	Sports	Muay Thai	C
+2472	Brands	Rebrands that failed	A
+2473	Literature	Literary theory: New Criticism to deconstruction	C
+2474	World	Costa Rica & Panama	B
+2475	Paranormal	Numerology and superstition	C
+2476	Art	NFTs and the art market	C
+2477	World	Cuba	B
+2478	Festivals	Notting Hill Carnival	C
+2479	Film	Colour grading and film look	C
+2480	Literature	Prizes, canons and who decides what is great	C
+2481	Brands	Brand mascots and why they work	B
+2482	Fashion	Counterfeits, dupes and the resale economy	C
+2483	World	Jamaica	B
+2484	Sports	Capoeira	C
+2485	Literature	How books get published and sold	C
+2486	World	Haiti	B
+2487	Games	Game preservation and emulation	C
+2488	Fashion	Costume design in film and its influence	C
+2489	Festivals	Thaipusam	C
+2490	Sports	Sambo	C
+2491	Games	Games and accessibility	C
+2492	Sports	Horse racing	B
+2493	Festivals	Timkat and Ethiopian festivals	C
+2494	World	Colombia	B
+2495	Paranormal	Cults: Heaven's Gate	C
+2496	World	Venezuela	B
+2497	Film	Film festivals and the prestige circuit	C
+2498	Sports	Krav Maga	C
+2499	World	Peru	B
+2500	Festivals	Yam festivals of West Africa	C
+2501	World	Bolivia	B
+2502	Music	Disco and the dancefloor	C
+2503	World	Ecuador	B
+2504	Cities	The metro as civic architecture	C
+2505	World	Brazil: northeast	B
+2506	Paranormal	Cults: NXIVM and modern coercion	C
+2507	World	Brazil: south & southeast	A
+2508	Paranormal	Numbers stations	C
+2509	World	Argentina	A
+2510	Film	Short film and the internet	C
+2511	World	Chile	B
+2512	Brands	Rolls-Royce & Bentley	C
+2513	World	Basque Country	C
+2514	Games	Procedural generation	C
+2515	World	Uruguay	B
+2516	Paranormal	Missing 411	C
+2517	World	USA: the South	A
+2518	Sports	Chess as competitive sport	B
+2519	World	USA: the Southwest	B
+2520	Sports	Kho kho	C
+2521	World	USA: New England	B
+2522	Paranormal	Skinwalker Ranch	C
+2523	World	USA: the Midwest	B
+2524	Sports	Sepak takraw	C
+2525	World	USA: California	A
+2526	Cities	Smart cities and their critics	C
+2527	World	USA: Pacific Northwest	B
+2528	Sports	Jai alai & Basque pelota	C
+2529	World	Hawaii	B
+2530	Paranormal	The Philadelphia Experiment and Montauk	C
+2531	World	Alaska & Inuit cultures	B
+2532	Sports	Gaelic games: hurling, Gaelic football and shinty	C
+2533	World	Luxembourg	C
+2534	Paranormal	Bigfoot of the sea: sea monsters	C
+2535	World	Canada: Québec	B
+2536	Music	UK garage, jungle and drum & bass	C
+2537	World	Canada: First Nations	A
+2538	Sports	Weightlifting and powerlifting	B
+2539	World	Australia: Aboriginal cultures	B
+2540	Sports	Australian rules football	C
+2541	World	Australia: settler culture	A
+2542	Sports	Bandy	C
+2543	World	New Zealand & Māori	B
+2544	Sports	Artistic gymnastics	B
+2545	World	Wales	C
+2546	Sports	Curling	C
+2547	World	Fiji	B
+2548	Sports	Biathlon	C
+2549	World	Papua New Guinea	B
+2550	Sports	Alpine skiing	C
+2551	World	Greenland	C
+2552	Brands	American Express: aspirational financial branding	C
+2553	World	Sápmi (Sámi culture)	C
+2554	Brands	Goldman Sachs: prestige branding in finance	C
+2555	Sports	Cross-country skiing	C
+2556	World	Slovakia	C
+2557	Sports	The Paralympic movement	B
+2558	Music	Reggaeton	C
+2559	Sports	Ski jumping	C
+2560	Music	Amapiano	C
+2561	Sports	Doping and the history of cheating	B
+2562	Music	Latin trap and the global Spanish-language wave	C
+2563	Sports	How sports leagues and the IPL make money	B
+2564	World	Slovenia	C
+2565	Sports	Snowboarding	C
+2566	World	Montenegro & Kosovo	C
+2567	Sports	Sports analytics and Moneyball	B
+2568	World	North Macedonia	C
+2569	Sports	Bobsleigh, luge & skeleton	C
+2570	World	Moldova	C
+2571	Sports	Mallakhamb	B
+2572	Brands	Dollar Shave Club: the viral launch	C
+2573	Sports	Figure skating	C
+2574	World	Europe's microstates: Vatican, Monaco, San Marino, Liechtenstein, Andorra	C
+2575	Sports	Speed skating	C
+2576	Brands	Liquid Death: absurdist branding	C
+2577	Sports	Sport climbing & bouldering	C
+2578	World	Honduras, El Salvador & Nicaragua	C
+2579	Sports	Fencing	C
+2580	World	Dominican Republic	C
+2581	Sports	Archery	C
+2582	World	Puerto Rico	C
+2583	Sports	Shooting sports	C
+2584	World	Trinidad & Tobago	C
+2585	Sports	Equestrian dressage & showjumping	C
+2586	World	Paraguay	C
+2587	Sports	Polo	C
+2588	World	Guyana & Suriname	C
+2589	Sports	Buzkashi	C
+2590	World	Cajun & Creole Louisiana	C
+2591	Sports	Camel racing	C
+2592	World	Samoa & Tonga	C
+2593	Sports	Rowing	C
+2594	World	Micronesia & the Marshall Islands	C
+2595	Sports	Canoe & kayak	C
+2596	Sports	Sailing & the America's Cup	C
+2597	Sports	Triathlon & Ironman	C
+2598	Sports	Ultramarathon running	C
+2599	Sports	Orienteering	C
+2600	Sports	Parkour	C
+2601	Sports	Darts	C
+2602	Sports	Snooker	C
+2603	Sports	Pool & billiards	C
+2604	Sports	Ten-pin bowling	C
+2605	Sports	Pétanque & boules	C
+2606	Sports	Strongman	C
+2607	Sports	CrossFit	C
+2608	Sports	Rhythmic gymnastics	C
+2609	Sports	Cheerleading	C
+2610	Sports	Dragon boat racing	C
+2611	Sports	Highland Games	C
+2612	Sports	Calcio Storico	C
+2613	Sports	Wife carrying, chess boxing and other odd sports	C
+2614	Sports	Roller derby	C
+2615	Sports	Gilli-danda & Indian street games	C
+2616	Sports	Silambam	C
+2617	Sports	Yubi lakpi & Manipuri sports	C
