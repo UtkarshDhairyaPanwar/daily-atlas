@@ -1289,7 +1289,9 @@
       "lon": 5.6
      },
      "when": "Drained 1950s and 1960s; province since 1986",
-     "image_ids": [],
+     "image_ids": [
+      "img_flevoland"
+     ],
      "media_ids": [],
      "spot_it": "Dead-flat, ruler-straight fields and canals below sea level, with dikes holding back a lake.",
      "story_md": "The Dutch turned part of an inland sea into a whole province. After a great flood in 1916, the Zuiderzee was closed off by a dam in **1932**, becoming a freshwater lake. Engineers then built dikes and pumped out sections called **polders**. The **Flevopolder**, drained in the 1950s and 1960s, is about **970 km²**, often called the world's largest artificial island. **Flevoland** became the Netherlands' twelfth province in **1986**, with towns such as Almere, now home to over 200,000 people, built on what had been seabed. About a quarter of the Netherlands lies below sea level. It is possibilism in action: people choosing, at great cost, to make land where nature put water.",
@@ -1817,7 +1819,9 @@
       "lon": -123.39
      },
      "when": "Calculated in 1992",
-     "image_ids": [],
+     "image_ids": [
+      "img_nemo"
+     ],
      "media_ids": [],
      "spot_it": "Nothing to see: open grey ocean in every direction. On maps, a dot in the South Pacific far from any coast.",
      "story_md": "The **oceanic pole of inaccessibility**, nicknamed **Point Nemo** after Jules Verne's captain, is the point in the ocean farthest from any land: about **2,688 km** from the nearest islands. It was worked out in **1992** by the survey engineer Hrvoje Lukatela using computer geometry. It is so remote that the nearest humans are often the astronauts on the International Space Station passing overhead, about **400 km** up. Space agencies use the area around it as a **spacecraft cemetery**: old satellites and cargo ships are steered to fall there, including Russia's Mir space station in 2001. It is a geography question with a precise numerical answer.",
@@ -1881,9 +1885,11 @@
       "lon": 79.0
      },
      "when": "Houselisting April to September 2026; population count February 2027",
-     "image_ids": [],
+     "image_ids": [
+      "img_census"
+     ],
      "media_ids": [],
-     "spot_it": "An enumerator with a tablet at a doorway, painting a census house number on the wall.",
+     "spot_it": "A census notice or house number on a door; in 2026 the count moved to phones and an online portal.",
      "story_md": "India's census is the country's biggest exercise in human geography: who lives where, in what kind of house, speaking which language, working at what. The 2021 round was delayed by the pandemic. The new one began with the **houselisting and housing census** between **1 April and 30 September 2026**, each state getting a 30-day window, preceded by an optional **15-day online self-enumeration** in 16 languages. Population enumeration is set for **9 to 28 February 2027** in most of India, earlier in snow-bound areas of Ladakh, Jammu and Kashmir, Himachal Pradesh and Uttarakhand. It will record caste, which a full census has not done since **1931**. Its results will redraw maps of migration, urbanisation and, eventually, parliamentary seats.",
      "why_it_matters": "Almost every map of Indian society for the next decade will rest on this count.",
      "memory_hook": "A billion and a half people, counted on tablets, one door at a time.",
@@ -2431,7 +2437,7 @@
    ],
    "section_id": "human_environment",
    "spotlight_id": "semple",
-   "core": true
+   "core": false
   },
   {
    "id": "c_aral",
@@ -2448,9 +2454,10 @@
   },
   {
    "id": "c_flevoland",
-   "type": "fact",
+   "type": "image",
    "front": "What is special about this flat Dutch province?",
    "back": "Flevoland was seabed until the 1950s and 1960s; the Flevopolder is often called the largest artificial island.",
+   "image_id": "img_flevoland",
    "source_ids": [
     "wiki_flevoland"
    ],
@@ -2556,7 +2563,7 @@
    ],
    "section_id": "india",
    "spotlight_id": "deccan",
-   "core": true
+   "core": false
   },
   {
    "id": "c_chimborazo",
@@ -4208,6 +4215,21 @@
    "caption": "The ship graveyard at Moynaq, Uzbekistan, once a port on the Aral Sea."
   },
   {
+   "id": "img_flevoland",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Flevoland_seen_from_the_plane.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Flevoland_seen_from_the_plane.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Flevoland_seen_from_the_plane.jpg/1280px-Flevoland_seen_from_the_plane.jpg",
+   "width": 1600,
+   "height": 1200,
+   "author": "Marieke Kuijjer",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "attribution": "Photo: Marieke Kuijjer, CC BY-SA 2.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Aerial view of flat, ruler-straight fields and canals",
+   "caption": "Flevoland from the air: land that was seabed in the 1950s."
+  },
+  {
    "id": "img_landsat",
    "file_page": "https://commons.wikimedia.org/wiki/File:Landsat_1.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Landsat_1.jpg",
@@ -4419,18 +4441,33 @@
   },
   {
    "id": "img_chimborazo",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Chimborazo.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Chimborazo.jpg",
-   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Chimborazo.jpg",
-   "width": 358,
-   "height": 263,
-   "author": "Dr. H. Sulzer (Herbye at de.wikipedia)",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Chimborazo_01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Chimborazo_01.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Chimborazo_01.jpg/1280px-Chimborazo_01.jpg",
+   "width": 4363,
+   "height": 2901,
+   "author": "Bernard Gagnon",
    "license": "CC BY-SA 3.0",
-   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-   "attribution": "Photo: Dr. H. Sulzer (Herbye at de.wikipedia), CC BY-SA 3.0, via Wikimedia Commons",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Photo: Bernard Gagnon, CC BY-SA 3.0, via Wikimedia Commons",
    "verified_on": "2026-10-26",
-   "alt": "A broad snow-capped volcano above a brown plateau",
+   "alt": "A broad snow-capped volcano rising above a high plateau",
    "caption": "Chimborazo, Ecuador."
+  },
+  {
+   "id": "img_nemo",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Location_of_Point_Nemo_in_the_South_Pacific_Ocean.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Location_of_Point_Nemo_in_the_South_Pacific_Ocean.png",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Location_of_Point_Nemo_in_the_South_Pacific_Ocean.png",
+   "width": 953,
+   "height": 713,
+   "author": "Ada Cukminski",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Ada Cukminski, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Map of the South Pacific with Point Nemo marked far from any land",
+   "caption": "Point Nemo, the oceanic pole of inaccessibility."
   },
   {
    "id": "img_nisar",
@@ -4448,6 +4485,21 @@
    "caption": "NISAR's main components joined in an ISRO clean room before launch."
   },
   {
+   "id": "img_census",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Census,_TamilNadu-219_(year-2011).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Census%2C_TamilNadu-219_%28year-2011%29.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Census%2C_TamilNadu-219_%28year-2011%29.jpg/1280px-Census%2C_TamilNadu-219_%28year-2011%29.jpg",
+   "width": 2550,
+   "height": 3310,
+   "author": "தகவலுழவன்",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Photo: தகவலுழவன், CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A printed census notice from the 2011 Census of India",
+   "caption": "A 2011 census notice from Tamil Nadu. The next count is India's first digital census."
+  },
+  {
    "id": "img_okeefe",
    "file_page": "https://commons.wikimedia.org/wiki/File:John_O%27Keefe_(neuroscientist)_2014.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/John_O%27Keefe_%28neuroscientist%29_2014.jpg",
@@ -4461,6 +4513,21 @@
    "verified_on": "2026-10-26",
    "alt": "Portrait of the neuroscientist John O'Keefe",
    "caption": "John O'Keefe, who discovered place cells in 1971."
+  },
+  {
+   "id": "img_taxi",
+   "file_page": "https://commons.wikimedia.org/wiki/File:2016_LTI_TX4_London_black_cab.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/2016_LTI_TX4_London_black_cab.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/2016_LTI_TX4_London_black_cab.jpg/1280px-2016_LTI_TX4_London_black_cab.jpg",
+   "width": 5712,
+   "height": 4284,
+   "author": "Oleg Yunakov",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A black London taxi cab parked on a street",
+   "caption": "A London black cab; drivers must pass The Knowledge."
   }
  ],
  "media": [
@@ -5327,28 +5394,10 @@
    "spotlight_id": "semple"
   },
   {
-   "claim": "Image for Flevoland: a province made from the sea",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "flevoland"
-  },
-  {
    "claim": "Image for Carl Sauer and the cultural landscape",
    "status": "no_image",
    "note": "No correct openly licensed image found on Wikimedia Commons.",
    "spotlight_id": "sauer"
-  },
-  {
-   "claim": "Image for Point Nemo, the loneliest spot in the ocean",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "point_nemo"
-  },
-  {
-   "claim": "Image for India's first digital census",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "census_2027"
   }
  ],
  "best_facts": [
@@ -5484,7 +5533,7 @@
    "fact": "GPS satellite clocks must be corrected for both of Einstein's theories of relativity, or positions would drift by about 10 km a day.",
    "why_surprising": "Your map app depends on relativity.",
    "score": 7,
-   "spotlight_id": "gis",
+   "spotlight_id": null,
    "source_ids": [
     "wiki_gps"
    ]
@@ -5513,7 +5562,8 @@
   "title": "The map inside your head",
   "body_md": "Geography is not only out there. Your brain runs its own.\n\nIn **1971**, the neuroscientist **John O'Keefe** recorded single neurons in a rat's **hippocampus** and found some that fired only when the rat was in one particular spot in its box. He called them **place cells**. In **2005**, **May-Britt and Edvard Moser** in Norway found **grid cells** in a nearby region, the entorhinal cortex. They fire in a regular triangular grid as an animal moves, a built-in coordinate system. The three shared the **2014 Nobel Prize in Physiology or Medicine**. Tobler's map of near and far, it turns out, has a biological twin.\n\nThe most famous human test comes from **London's taxi drivers**, who must memorise about 25,000 streets for an exam called **The Knowledge**. In **2000**, Eleanor Maguire's team scanned their brains and found a larger **posterior hippocampus** than in controls, and the longer they had driven, the larger it was. A later study followed trainees and found the growth appeared in those who passed.\n\nThere is a modern worry attached. Several studies suggest that following turn-by-turn GPS directions engages the hippocampus less than working out a route yourself. The evidence is still developing, but the practical point is cheap to try: once a week, navigate somewhere without the blue dot.",
   "image_ids": [
-   "img_okeefe"
+   "img_okeefe",
+   "img_taxi"
   ],
   "card_ids": [
    "c_side_place",
