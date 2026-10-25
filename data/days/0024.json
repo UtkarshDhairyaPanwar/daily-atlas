@@ -3098,8 +3098,7 @@
    "front": "What does the Gun Park memorial in Hyderabad remember?",
    "back": "It is the memorial to people killed in police firings during the 1969 Telangana agitation.",
    "source_ids": [
-    "wiki_telangana_movement",
-    "wiki_gunpark"
+    "wiki_telangana_movement"
    ],
    "section_id": "road",
    "spotlight_id": "agitation_1969",
@@ -6538,8 +6537,8 @@
   },
   {
    "id": "wiki_cheriyal",
-   "title": "Cheriyal scrolls",
-   "url": "https://en.wikipedia.org/wiki/Cheriyal_scrolls",
+   "title": "Cheriyal scroll painting",
+   "url": "https://en.wikipedia.org/wiki/Cheriyal_scroll_painting",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -7119,8 +7118,8 @@
   },
   {
    "id": "wiki_mulki",
-   "title": "Mulki rules",
-   "url": "https://en.wikipedia.org/wiki/Mulki_rules",
+   "title": "1952 Mulkhi Agitation (Telangana)",
+   "url": "https://en.wikipedia.org/wiki/1952_Mulkhi_Agitation_(Telangana)",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -7160,13 +7159,6 @@
    "accessed": "2026-10-25"
   },
   {
-   "id": "wiki_dandari",
-   "title": "Dandari festival",
-   "url": "https://en.wikipedia.org/wiki/Dandari_festival",
-   "publisher": "Wikipedia",
-   "accessed": "2026-10-25"
-  },
-  {
    "id": "wiki_sankranti",
    "title": "Makar Sankranti",
    "url": "https://en.wikipedia.org/wiki/Makar_Sankranti",
@@ -7184,13 +7176,6 @@
    "id": "wiki_jammi",
    "title": "Prosopis cineraria",
    "url": "https://en.wikipedia.org/wiki/Prosopis_cineraria",
-   "publisher": "Wikipedia",
-   "accessed": "2026-10-25"
-  },
-  {
-   "id": "wiki_gunpark",
-   "title": "Gun Park",
-   "url": "https://en.wikipedia.org/wiki/Gun_Park",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },

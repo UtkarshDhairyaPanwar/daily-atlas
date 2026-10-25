@@ -2771,7 +2771,7 @@
    ],
    "section_id": "orientation",
    "spotlight_id": null,
-   "core": true
+   "core": false
   },
   {
    "id": "c_fort",
@@ -2796,7 +2796,7 @@
    ],
    "section_id": "land",
    "spotlight_id": null,
-   "core": true
+   "core": false
   },
   {
    "id": "c_nmr",
@@ -2821,7 +2821,7 @@
    ],
    "section_id": "land",
    "spotlight_id": "kanyakumari",
-   "core": true,
+   "core": false,
    "image_id": "img_valluvar_statue"
   },
   {
@@ -2847,7 +2847,7 @@
    ],
    "section_id": "land",
    "spotlight_id": "nilgiri_tahr",
-   "core": true,
+   "core": false,
    "image_id": "img_nilgiri_tahr"
   },
   {
@@ -3025,7 +3025,7 @@
    ],
    "section_id": "language",
    "spotlight_id": null,
-   "core": true
+   "core": false
   },
   {
    "id": "c_kural",
