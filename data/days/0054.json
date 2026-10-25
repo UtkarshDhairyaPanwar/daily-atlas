@@ -6,7 +6,7 @@
  "title": "Why food history is world history",
  "native_name": null,
  "as_of": "2026-10-25",
- "reading_minutes": 54,
+ "reading_minutes": 50,
  "hero": {
   "image_id": "img_peppercorns",
   "kicker": "Day 54 · Food",
@@ -932,29 +932,6 @@
      ]
     },
     {
-     "id": "cassava",
-     "kind": "organism",
-     "name": "Cassava in Africa",
-     "where": {
-      "label": "Nigeria, largest producer",
-      "lat": 9.08,
-      "lon": 8.68
-     },
-     "when": "Brought by the Portuguese, 16th century",
-     "image_ids": [
-      "img_cassava"
-     ],
-     "media_ids": [],
-     "spot_it": "Long brown tubers with white starchy flesh; the bushy plant has hand-shaped leaves.",
-     "story_md": "Cassava, or manioc, was domesticated in the southern Amazon. The Portuguese carried it to West and Central Africa in the 16th century, partly to feed captives on slave ships. It spread because it tolerates drought and poor soil, and the roots can stay in the ground for months as a living store. Raw cassava contains compounds that release cyanide, so Indigenous Amazonians and later African cooks developed long processing methods: grating, soaking, fermenting and drying. Today Africa grows more cassava than the rest of the world combined, and Nigeria is the largest producer. In India, cassava, called tapioca or kappa, is a staple of Kerala.",
-     "why_it_matters": "A South American root became one of the main foods of a whole continent.",
-     "memory_hook": "Africa's staple root is from the Amazon and has to be detoxed before dinner.",
-     "source_ids": [
-      "wiki_cassava",
-      "wiki_columbian"
-     ]
-    },
-    {
      "id": "cacao",
      "kind": "drink",
      "name": "Cacao, money that grew on trees",
@@ -1020,29 +997,6 @@
      "source_ids": [
       "wiki_baba_budan",
       "wiki_coffee_history"
-     ]
-    },
-    {
-     "id": "coffee_brazil",
-     "kind": "event",
-     "name": "Coffee crosses to the Americas",
-     "where": {
-      "label": "Brazil, largest producer",
-      "lat": -20.0,
-      "lon": -45.0
-     },
-     "when": "1720s onward",
-     "image_ids": [
-      "img_coffee_plant_hawaii"
-     ],
-     "media_ids": [],
-     "spot_it": "Rows of glossy coffee bushes on a hillside plantation, berries ripening from green to red.",
-     "story_md": "The Dutch took coffee plants to Java in the 1690s, and a single tree sent to Amsterdam's botanical garden became the parent of many plants in the Americas. A French naval officer, Gabriel de Clieu, claimed he carried a seedling to Martinique in the 1720s and shared his drinking water with it on the voyage. From the Caribbean and the Guianas coffee reached Brazil, which by the 1840s was the world's largest producer, and still is. Like sugar, coffee in the Americas was grown with enslaved labour: Brazil only abolished slavery in 1888, the last country in the Americas to do so.",
-     "why_it_matters": "Your morning coffee has a direct line back to Atlantic slavery.",
-     "memory_hook": "One tree in a Dutch greenhouse fathered a continent of coffee.",
-     "source_ids": [
-      "wiki_coffee_history",
-      "wiki_atlantic_slave"
      ]
     }
    ],
@@ -1364,8 +1318,18 @@
    "id": "salt",
    "order": 10,
    "title": "Salt: the tax that lit a fire",
-   "intro_md": "Salt is the only rock humans eat, and until refrigeration it was the main way to preserve meat, fish and vegetables. That made it easy to tax: everyone needs it, and it comes from a few places. China had a state salt monopoly from the 2nd century BCE. In France, the hated **gabelle** salt tax forced households to buy a minimum amount at fixed prices; it was one of the grievances of the Revolution and was abolished in 1790.\n\nIn India the British ran salt as a monopoly. Making salt from seawater without a licence was a crime. In 1930 that rule gave Gandhi the perfect symbol: a tax that hit the poorest, on something nature gave freely, enforced by a foreign government.\n\nSalt is also why Roman soldiers are often said to have been paid in salt, and why we have the word 'salary'. That story, as you will see, is less solid than it sounds.",
-   "visual": null,
+   "intro_md": "Salt is the only rock humans eat, and until refrigeration it was the main way to preserve meat, fish and vegetables. That made it easy to tax: everyone needs it, and it comes from a few places. China had a state salt monopoly from the 2nd century BCE. In France, the hated **gabelle** salt tax forced households to buy a minimum amount at fixed prices; it was one of the grievances of the Revolution and was abolished in 1790.\n\nIn India the British ran salt as a monopoly. Making salt from seawater without a licence was a crime. In 1930 that rule gave Gandhi the perfect symbol: a tax that hit the poorest, on something nature gave freely, enforced by a foreign government.\n\nSalt also made fortunes. Under Wieliczka near Krakow, miners worked rock salt from the 13th century until 1996 and carved whole chapels, chandeliers included, out of it; the mine was on UNESCO's first World Heritage list in 1978. And salt gave English the word 'salary', though the story that Roman soldiers were paid in salt is unproven.",
+   "visual": {
+    "type": "photo_grid",
+    "title": "Salt: the march, the pans, the mine",
+    "data": {
+     "image_ids": [
+      "img_gandhi_dandi",
+      "img_rann_salt_2",
+      "img_wieliczka_chapel"
+     ]
+    }
+   },
    "spotlights": [
     {
      "id": "salt_march",
@@ -1414,29 +1378,6 @@
      "source_ids": [
       "wiki_salt_march"
      ]
-    },
-    {
-     "id": "wieliczka",
-     "kind": "monument",
-     "name": "Wieliczka Salt Mine",
-     "where": {
-      "label": "Wieliczka, near Krakow, Poland",
-      "lat": 49.983,
-      "lon": 20.054
-     },
-     "when": "Mined from the 13th century to 1996",
-     "image_ids": [
-      "img_wieliczka_chapel"
-     ],
-     "media_ids": [],
-     "spot_it": "A vast underground chapel with chandeliers, altars and floor tiles all carved from grey-green rock salt.",
-     "story_md": "Under the town of Wieliczka near Krakow, miners dug about 245 kilometres of tunnels over 700 years. Rock salt was so valuable that the mine paid for a large share of the medieval Polish kingdom's budget. Miners carved chapels deep underground, the largest being St Kinga's Chapel, about 100 metres below the surface, where even the chandeliers are made of salt crystals. Commercial mining ended in 1996 because of flooding and low prices. It was on UNESCO's very first World Heritage list in 1978, and over a million visitors now walk its tunnels each year.",
-     "why_it_matters": "It shows how much wealth one buried mineral could create.",
-     "memory_hook": "A cathedral carved entirely from the thing you sprinkle on chips.",
-     "source_ids": [
-      "wiki_wieliczka",
-      "unesco_wieliczka"
-     ]
     }
    ],
    "check": [
@@ -1447,7 +1388,8 @@
     "wiki_salt_march",
     "britannica_salt_march",
     "wiki_gabelle",
-    "wiki_wieliczka"
+    "wiki_wieliczka",
+    "unesco_wieliczka"
    ]
   },
   {
@@ -1555,28 +1497,6 @@
       "wiki_sen",
       "nobel_sen"
      ]
-    },
-    {
-     "id": "versailles_march",
-     "kind": "event",
-     "name": "The Women's March on Versailles",
-     "where": {
-      "label": "Versailles, France",
-      "lat": 48.805,
-      "lon": 2.12
-     },
-     "when": "5 to 6 October 1789",
-     "image_ids": [
-      "img_versailles_march"
-     ],
-     "media_ids": [],
-     "spot_it": "A crowd of women with pikes, muskets and a cannon on wheels, marching in the rain, from a contemporary French print.",
-     "story_md": "In 1789 a Paris labourer could spend well over half of his daily wage on bread. A poor harvest in 1788 had pushed prices higher still. On the morning of 5 October women at the Paris markets began a protest that grew into a crowd of thousands, who walked about 20 kilometres to the palace of Versailles. They demanded bread and the king's presence in Paris. The next day Louis XVI, Marie Antoinette and their children were escorted to the capital, effectively prisoners. The royal family never lived at Versailles again.",
-     "why_it_matters": "It was the moment the price of bread became the politics of a revolution.",
-     "memory_hook": "The women walked to Versailles for bread and came back with the king.",
-     "source_ids": [
-      "wiki_versailles"
-     ]
     }
    ],
    "check": [
@@ -1679,28 +1599,6 @@
       "wiki_fritz_haber",
       "nobel_haber",
       "erisman_2008"
-     ]
-    },
-    {
-     "id": "dunedin_ship",
-     "kind": "machine",
-     "name": "The Dunedin, first refrigerated cargo",
-     "where": {
-      "label": "Port Chalmers, New Zealand",
-      "lat": -45.817,
-      "lon": 170.62
-     },
-     "when": "Sailed 15 February 1882",
-     "image_ids": [
-      "img_dunedin"
-     ],
-     "media_ids": [],
-     "spot_it": "A three-masted sailing ship with a funnel for a steam-driven freezer, in an old photograph at a New Zealand wharf.",
-     "story_md": "In 1882 the sailing ship Dunedin left Port Chalmers, New Zealand, with about 5,000 frozen sheep carcasses, cooled by a coal-fired refrigeration machine. Sparks from the machine set the sails on fire more than once, and the captain is said to have crawled into the hold to fix the cold air flow and nearly frozen. After 98 days the meat arrived in London in good condition. It created New Zealand's meat and dairy export industry and helped feed industrial Britain. The ship itself vanished at sea in 1890, probably lost in a storm.",
-     "why_it_matters": "It began the global cold chain that brings food across the world today.",
-     "memory_hook": "A sailing ship carried five thousand frozen sheep 98 days to London.",
-     "source_ids": [
-      "wiki_dunedin"
      ]
     },
     {
@@ -1995,23 +1893,6 @@
      "memory_hook": "Sicily had a pasta industry before Marco Polo was born.",
      "source_ids": [
       "wiki_pasta"
-     ]
-    },
-    {
-     "id": "salary_myth",
-     "kind": "idea",
-     "name": "Disputed: Roman soldiers were paid in salt",
-     "when": "Word from Latin salarium",
-     "image_ids": [
-      "img_rann_salt_2"
-     ],
-     "media_ids": [],
-     "spot_it": "Coarse white salt crystals, piled in heaps at a salt works.",
-     "story_md": "The English word salary does come from the Latin *salarium*, which is related to *sal*, salt. From there grew the tale that Roman soldiers were paid in salt, or given money to buy it. There is no clear ancient evidence that soldiers received salt as wages. The Roman writer Pliny the Elder links the word to salt, but in a vague way, and scholars still argue about what salarium originally meant. It may have been an allowance, or connected to the Via Salaria, the salt road into Rome. Salt mattered enormously in the Roman economy; the payroll story is unproven.",
-     "why_it_matters": "Even real word histories can grow invented details.",
-     "memory_hook": "The word came from salt; the salt wages probably did not.",
-     "source_ids": [
-      "wiki_salary"
      ]
     }
    ],
@@ -2608,7 +2489,7 @@
     "wiki_cassava"
    ],
    "section_id": "columbian",
-   "spotlight_id": "cassava",
+   "spotlight_id": null,
    "core": false
   },
   {
@@ -2670,7 +2551,7 @@
     "wiki_wieliczka"
    ],
    "section_id": "salt",
-   "spotlight_id": "wieliczka",
+   "spotlight_id": null,
    "core": false,
    "image_id": "img_wieliczka_chapel"
   },
@@ -2695,7 +2576,7 @@
     "wiki_versailles"
    ],
    "section_id": "famine",
-   "spotlight_id": "versailles_march",
+   "spotlight_id": null,
    "core": false
   },
   {
@@ -2719,7 +2600,7 @@
     "wiki_dunedin"
    ],
    "section_id": "science",
-   "spotlight_id": "dunedin_ship",
+   "spotlight_id": null,
    "core": false
   },
   {
@@ -4046,7 +3927,7 @@
    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
    "attribution": "Photo: Teomancimit, CC BY-SA 3.0, via Wikimedia Commons",
    "verified_on": "2026-10-26",
-   "alt": "Circular stone enclosures with tall T-shaped pillars under a protective roof",
+   "alt": "Circular stone enclosures with tall T-shaped limestone pillars",
    "caption": "Gobekli Tepe, near Sanliurfa, Turkey."
   },
   {
@@ -4410,21 +4291,6 @@
    "caption": "San Marzano tomatoes ripening."
   },
   {
-   "id": "img_cassava",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Harvested_cassava_roots_06.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Harvested_cassava_roots_06.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Harvested_cassava_roots_06.jpg/1280px-Harvested_cassava_roots_06.jpg",
-   "width": 4032,
-   "height": 2268,
-   "author": "Denis kasozi",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "attribution": "Photo: Denis kasozi, CC BY-SA 4.0, via Wikimedia Commons",
-   "verified_on": "2026-10-26",
-   "alt": "A pile of long brown cassava roots",
-   "caption": "Harvested cassava roots."
-  },
-  {
    "id": "img_cacao_pod",
    "file_page": "https://commons.wikimedia.org/wiki/File:Cocoa_pod.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Cocoa_pod.jpg",
@@ -4468,21 +4334,6 @@
    "verified_on": "2026-10-26",
    "alt": "Coffee estates on green hills",
    "caption": "Coffee country in the Chikmagalur hills, Karnataka."
-  },
-  {
-   "id": "img_coffee_plant_hawaii",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Coffee_berries_on_plants_at_Fairview_Estate,_Kiambu,_KE.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coffee_berries_on_plants_at_Fairview_Estate%2C_Kiambu%2C_KE.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Coffee_berries_on_plants_at_Fairview_Estate%2C_Kiambu%2C_KE.jpg/1280px-Coffee_berries_on_plants_at_Fairview_Estate%2C_Kiambu%2C_KE.jpg",
-   "width": 6080,
-   "height": 3808,
-   "author": "Daniel Case",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "attribution": "Photo: Daniel Case, CC BY-SA 4.0, via Wikimedia Commons",
-   "verified_on": "2026-10-26",
-   "alt": "Coffee bushes with green berries on a plantation",
-   "caption": "Coffee berries on a plantation bush, Kiambu, Kenya."
   },
   {
    "id": "img_jaggery",
@@ -4618,21 +4469,6 @@
    "verified_on": "2026-10-26",
    "alt": "Painting of an iron steamship firing on burning Chinese junks",
    "caption": "The East India Company steamer Nemesis destroying war junks, 7 January 1841, by E. Duncan."
-  },
-  {
-   "id": "img_opium_patna",
-   "file_page": "https://commons.wikimedia.org/wiki/File:A_busy_stacking_room_in_the_opium_factory_at_Patna,_India._L_Wellcome_V0019154.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/A_busy_stacking_room_in_the_opium_factory_at_Patna%2C_India._L_Wellcome_V0019154.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/A_busy_stacking_room_in_the_opium_factory_at_Patna%2C_India._L_Wellcome_V0019154.jpg/1280px-A_busy_stacking_room_in_the_opium_factory_at_Patna%2C_India._L_Wellcome_V0019154.jpg",
-   "width": 5950,
-   "height": 4815,
-   "author": "Unknown",
-   "license": "Public domain",
-   "license_url": "",
-   "attribution": "Photo: Unknown, Public domain, via Wikimedia Commons",
-   "verified_on": "2026-10-26",
-   "alt": "Lithograph of a huge warehouse with tall racks of opium balls and workers",
-   "caption": "The stacking room of the opium factory at Patna, about 1850."
   },
   {
    "id": "img_fortune",
@@ -4845,21 +4681,6 @@
    "caption": "Amartya Sen, about 2000."
   },
   {
-   "id": "img_versailles_march",
-   "file_page": "https://commons.wikimedia.org/wiki/File:A_Versailles,_%C3%A0_Versailles_5_octobre_1789_-_Restoration.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/A_Versailles%2C_%C3%A0_Versailles_5_octobre_1789_-_Restoration.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/A_Versailles%2C_%C3%A0_Versailles_5_octobre_1789_-_Restoration.jpg/1280px-A_Versailles%2C_%C3%A0_Versailles_5_octobre_1789_-_Restoration.jpg",
-   "width": 4781,
-   "height": 3351,
-   "author": "Unknown authorUnknown author",
-   "license": "Public domain",
-   "license_url": "",
-   "attribution": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
-   "verified_on": "2026-10-26",
-   "alt": "Contemporary print of women with weapons and a cannon marching",
-   "caption": "'A Versailles, a Versailles', contemporary print of 5 October 1789."
-  },
-  {
    "id": "img_appert",
    "file_page": "https://commons.wikimedia.org/wiki/File:Appert_Nicolas.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Appert_Nicolas.jpg",
@@ -4903,21 +4724,6 @@
    "verified_on": "2026-10-26",
    "alt": "A tall steel high-pressure reactor tube displayed outdoors",
    "caption": "A BASF high-pressure ammonia reactor of the Haber-Bosch type."
-  },
-  {
-   "id": "img_dunedin",
-   "file_page": "https://commons.wikimedia.org/wiki/File:SS_Dunedin_by_Frederick_Tudgay.JPG",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/SS_Dunedin_by_Frederick_Tudgay.JPG",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/SS_Dunedin_by_Frederick_Tudgay.JPG/1280px-SS_Dunedin_by_Frederick_Tudgay.JPG",
-   "width": 1650,
-   "height": 1089,
-   "author": "Frederick Tudgay",
-   "license": "Public domain",
-   "license_url": "",
-   "attribution": "Photo: Frederick Tudgay, Public domain, via Wikimedia Commons",
-   "verified_on": "2026-10-26",
-   "alt": "Painting of a three-masted sailing ship at sea",
-   "caption": "The Dunedin, painted by Frederick Tudgay."
   },
   {
    "id": "img_borlaug",
@@ -5068,21 +4874,6 @@
    "verified_on": "2026-10-26",
    "alt": "A double-decker chicken burger in a bun",
    "caption": "The Chicken Maharaja Mac, McDonald's India."
-  },
-  {
-   "id": "img_mcdonalds_store",
-   "file_page": "https://commons.wikimedia.org/wiki/File:IndiaMcDonalds.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/IndiaMcDonalds.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/IndiaMcDonalds.jpg/1280px-IndiaMcDonalds.jpg",
-   "width": 4032,
-   "height": 3024,
-   "author": "HominyGrits007",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "attribution": "Photo: HominyGrits007, CC BY-SA 4.0, via Wikimedia Commons",
-   "verified_on": "2026-10-26",
-   "alt": "A McDonald's restaurant front in Delhi",
-   "caption": "McDonald's in Delhi."
   },
   {
    "id": "img_tikka_masala",

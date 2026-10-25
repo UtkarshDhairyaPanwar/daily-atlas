@@ -1724,8 +1724,7 @@
      "why_it_matters": "It made antibiotic resistance visible, step by step.",
      "memory_hook": "Eleven days from no defence to a thousandfold dose.",
      "source_ids": [
-      "baym_2016",
-      "wiki_megaplate"
+      "baym_2016"
      ]
     },
     {
@@ -2222,7 +2221,9 @@
       "img_darwin_old",
       "img_thinkpath"
      ],
-     "media_ids": [],
+     "media_ids": [
+      "vid_whatis"
+     ],
      "spot_it": "An old man with a long white beard, walking the gravel 'Sandwalk' behind Down House in Kent each day.",
      "story_md": "Darwin spent his last 40 years at **Down House** in Kent, often ill, doing experiments in his garden and greenhouse. He walked a daily loop he called the **Sandwalk**, his 'thinking path', kicking a flint off the path at each lap to count them. He wrote about orchids, climbing plants, carnivorous plants and emotions. His last book, in **1881**, was about **earthworms**, how they turn soil over and slowly bury old buildings. It sold well. He died on **19 April 1882** and, against his family's wishes for a village burial, was buried in **Westminster Abbey**, a few steps from Isaac Newton.",
      "why_it_matters": "The patient, experimental life behind the idea is part of why it held up.",
@@ -6166,8 +6167,8 @@
   },
   {
    "id": "wiki_tusk",
-   "title": "Tusklessness (Wikipedia)",
-   "url": "https://en.wikipedia.org/wiki/Tusklessness",
+   "title": "Gorongosa National Park (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Gorongosa_National_Park",
    "publisher": "Wikipedia",
    "accessed": "2026-10-26"
   },
@@ -6285,8 +6286,8 @@
   },
   {
    "id": "wiki_megaplate",
-   "title": "Microbial Evolution and Growth Arena Plate (Wikipedia)",
-   "url": "https://en.wikipedia.org/wiki/Microbial_Evolution_and_Growth_Arena_Plate",
+   "title": "Antimicrobial resistance (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
    "publisher": "Wikipedia",
    "accessed": "2026-10-26"
   },
@@ -6517,15 +6518,15 @@
   {
    "id": "petrie_1991",
    "title": "Peahens prefer peacocks with elaborate trains (Petrie, Halliday, Sanders, Animal Behaviour 1991)",
-   "url": "https://www.sciencedirect.com/science/article/pii/S0003347205800654",
-   "publisher": "Animal Behaviour",
+   "url": "https://en.wikipedia.org/wiki/Indian_peafowl",
+   "publisher": "Animal Behaviour (as cited on Wikipedia)",
    "accessed": "2026-10-26"
   },
   {
    "id": "takahashi_2008",
    "title": "Peahens do not prefer peacocks with more elaborate trains (Takahashi et al., Animal Behaviour 2008)",
-   "url": "https://www.sciencedirect.com/science/article/pii/S0003347207004332",
-   "publisher": "Animal Behaviour",
+   "url": "https://en.wikipedia.org/wiki/Indian_peafowl",
+   "publisher": "Animal Behaviour (as cited on Wikipedia)",
    "accessed": "2026-10-26"
   },
   {

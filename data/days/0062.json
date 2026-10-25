@@ -6,7 +6,7 @@
  "title": "What makes a city and how cities began",
  "native_name": null,
  "as_of": "2026-10-25",
- "reading_minutes": 60,
+ "reading_minutes": 53,
  "hero": {
   "image_id": "img_uruk_site",
   "kicker": "Day 62 · Cities",
@@ -561,28 +561,6 @@
    "visual": null,
    "spotlights": [
     {
-     "id": "eridu",
-     "kind": "place",
-     "name": "Eridu, the city the gods built first",
-     "where": {
-      "label": "Tell Abu Shahrain, Dhi Qar, Iraq",
-      "lat": 30.816,
-      "lon": 45.996
-     },
-     "when": "c. 5400 BCE first temple; occupied into 1st millennium BCE",
-     "image_ids": [
-      "img_eridu"
-     ],
-     "media_ids": [],
-     "spot_it": "A wind-scoured mound in the south Iraqi desert where 18 temples were built one on top of another.",
-     "story_md": "Sumerian tradition named Eridu the first city in the world, home of Enki, god of fresh water and wisdom. Archaeology supports a very long story. Excavators in the 1940s found a sequence of about **18 temples** stacked on the same spot, beginning with a small mud-brick shrine around **5400 BCE** and ending in a large platform temple. Each rebuilding kept the sacred place in the same position for some 3,000 years. Fish bones found in the early shrines may be offerings to the water god. Eridu was never the biggest city, but it shows how a holy place can anchor a settlement for millennia.",
-     "why_it_matters": "It shows religion fixing people to one spot long enough for a town to grow.",
-     "memory_hook": "Eighteen temples on one patch of ground: the gods did not move, so people stayed.",
-     "source_ids": [
-      "wiki_eridu"
-     ]
-    },
-    {
      "id": "warka_vase",
      "kind": "art",
      "name": "The Warka Vase",
@@ -691,7 +669,7 @@
    "id": "mechanism",
    "order": 5,
    "title": "Why people crowd together",
-   "intro_md": "Living in a city was, for most of history, a bad deal for the body. Ancient and medieval cities were dirtier, more crowded and more diseased than villages. Until the twentieth century many could not even sustain their own numbers without migrants from the countryside. So why did people keep moving in?\n\nThe textbook story, from **V. Gordon Childe**, runs like this. Farming produced a **surplus**. Surplus could be stored, taxed and handed out. That let some people stop farming and become **specialists**. Specialists needed managers, managers needed **records**, records became writing. A ruling class grew around the store, and the store needed a wall.\n\nLater research has complicated every step. Göbekli Tepe hints that gathering came before farming. Jane Jacobs argued that trade towns came first. And physicists have shown that cities obey strange mathematical laws: as they get bigger, each person becomes more productive and each road and pipe serves more people. A city is not just a pile of villages. It is a machine for multiplying contact.",
+   "intro_md": "Living in a city was, for most of history, a bad deal for the body. Until the twentieth century many cities were so diseased that they needed constant migrants from the countryside just to hold their numbers. So why did people keep moving in?\n\nThe textbook story, from **V. Gordon Childe**, runs like this. Farming produced a **surplus**. Surplus could be stored, taxed and handed out. That let some people stop farming and become **specialists**. Specialists needed managers, managers needed **records**, records became writing. Writing was invented at least three times, in Mesopotamia, China and Mesoamerica, and each time near cities with central stores. A ruling class grew around the store, and the store needed a wall.\n\nLater research has complicated every step. Göbekli Tepe hints that gathering came before farming. Jane Jacobs argued that trade towns came first. And physicists have shown that cities obey strange mathematical laws: as they get bigger, each person becomes more productive and each road and pipe serves more people. A city is not just a pile of villages. It is a machine for multiplying contact.",
    "visual": null,
    "spotlights": [
     {
@@ -753,43 +731,6 @@
       "bettencourt_2007",
       "wiki_west",
       "ted_west"
-     ]
-    },
-    {
-     "id": "new_obsidian",
-     "kind": "idea",
-     "name": "Jane Jacobs' 'cities first' theory",
-     "when": "Proposed 1969",
-     "image_ids": [
-      "img_jacobs"
-     ],
-     "media_ids": [],
-     "spot_it": "A thought experiment about an imaginary trading town called New Obsidian, where farming begins in the city, not before it.",
-     "story_md": "In **The Economy of Cities** (1969) Jane Jacobs turned Childe upside down. She imagined New Obsidian, a trading town in Anatolia around 9000 BCE that dealt in volcanic glass. Traders brought in wild seeds and animals as payment; townspeople, selecting the best, invented farming inside the town; agriculture then spread outward to the countryside. Cities, she argued, came first, and rural life was a city invention. Most archaeologists reject the timeline: farming villages clearly predate cities. But her deeper point, that trade and the mixing of skills drive innovation, has aged well, and Göbekli Tepe shows that big gatherings could come before full farming.",
-     "why_it_matters": "It reminds us that cities are made by exchange, not only by surplus.",
-     "memory_hook": "Jacobs' heresy: the farm was invented downtown.",
-     "source_ids": [
-      "wiki_jacobs"
-     ]
-    },
-    {
-     "id": "accounts",
-     "kind": "document",
-     "name": "Writing as a city tool",
-     "when": "c. 3300 to 3000 BCE",
-     "image_ids": [
-      "img_ration_tab",
-      "img_seal"
-     ],
-     "media_ids": [],
-     "spot_it": "Clay tablets with numbers first, then pictures of commodities, then wedge-shaped signs.",
-     "story_md": "Writing was invented at least three times independently: in Mesopotamia around **3300 BCE**, in China by about 1200 BCE and in Mesoamerica by about 600 BCE. In each case it appeared in or near cities with central stores and rulers. In Mesopotamia it grew out of clay tokens and numerical tablets. About **85%** of the earliest Uruk texts are administrative: rations, fields, animals, workers. The Indus cities had a script on seals and tags that is still undeciphered. Peru's Caral may have had knotted cords. Writing extended memory beyond any one person, which is exactly what a society of strangers needs.",
-     "why_it_matters": "Records let a city trust people it has never met.",
-     "memory_hook": "Cities wrote receipts long before they wrote poems.",
-     "source_ids": [
-      "wiki_uruk_period",
-      "wiki_kushim",
-      "childe_1950"
      ]
     }
    ],
@@ -1046,7 +987,7 @@
    "id": "hearths",
    "order": 7,
    "title": "Cities were invented more than once",
-   "intro_md": "For a long time, scholars imagined a single cradle of cities in the Middle East, with the idea spreading outward. The evidence says otherwise. Cities arose **independently** in at least five or six regions: Mesopotamia, the Indus, China, the Andes, Mesoamerica and, later, parts of Africa. Each had different crops, gods and building materials, and yet they converged on similar answers: walls or boundaries, monuments, specialists, stores, and some way to keep records.\n\nThe differences are as instructive as the similarities. **Caral** in Peru had monumental pyramids but no pottery. **Teotihuacan** housed its people in apartment blocks. **Angkor** spread a low-density city across 1,000 km² of rice fields and canals. And in **2024**, laser scans from aircraft revealed cities in the **Amazon** that were 2,500 years old, in a forest once imagined as untouched wilderness.\n\nThe lesson: there is more than one way to be a city. Dense and walled is only one model.",
+   "intro_md": "For a long time, scholars imagined a single cradle of cities in the Middle East, with the idea spreading outward. The evidence says otherwise. Cities arose **independently** in at least five or six regions: Mesopotamia, the Indus, China, the Andes, Mesoamerica and, later, parts of Africa. Each had different crops, gods and building materials, and yet they converged on similar answers: walls or boundaries, monuments, specialists, stores, and some way to keep records.\n\nThe differences are as instructive as the similarities. **Caral** in Peru had monumental pyramids but no pottery. **Teotihuacan** housed its people in apartment blocks. **Angkor** spread a low-density city across 1,000 km² of rice fields and canals. And in **2024**, laser scans from aircraft revealed cities in the **Amazon** that were 2,500 years old, in a forest once imagined as untouched wilderness.\n\nThere is more than one way to be a city.",
    "visual": [
     {
      "type": "map",
@@ -1341,7 +1282,7 @@
    "id": "second_urban",
    "order": 8,
    "title": "India's second cities: the Ganga plain",
-   "intro_md": "After the Indus cities faded around 1900 BCE, South Asia went more than a thousand years without anything as big. Then, from about **600 BCE**, a second wave of cities rose on the Ganga plain. Historians call it the **second urbanisation**.\n\nThis time the cities grew out of the kingdoms called **mahajanapadas**. Iron tools cleared forest and ploughed heavy soils, rice paddies gave big surpluses, and punch-marked silver coins oiled trade. Buddhist and Jain texts are full of urban life: merchants, courtesans, guilds, moneylenders, gamblers. The Buddha preached in cities such as Rajagriha, Shravasti and Vaishali, and died near a small town, Kushinagar.\n\nThe greatest of these was **Pataliputra**, capital of the Mauryas, which a Greek ambassador described in astonished detail. Far to the south, digs at **Keeladi** near Madurai are showing an urban culture in Tamil country by at least the 6th to 3rd centuries BCE. India's urban story is not one beginning but at least two.",
+   "intro_md": "After the Indus cities faded around 1900 BCE, South Asia went more than a thousand years without anything as big. Then, from about **600 BCE**, a second wave of cities rose on the Ganga plain. Historians call it the **second urbanisation**.\n\nThis time the cities grew out of the kingdoms called **mahajanapadas**. Iron tools cleared forest and ploughed heavy soils, rice paddies gave big surpluses, and punch-marked silver coins oiled trade. Buddhist and Jain texts are full of urban life: merchants, courtesans, guilds, moneylenders, gamblers. The Buddha preached in cities such as Rajagriha, Shravasti and Vaishali, and died near a small town, Kushinagar.\n\nRulers thought of cities as things to design and police: the **Arthashastra** lays out a fort city with three royal roads each way and twelve gates, and fines people for dumping dirt in the street. The greatest of these cities was **Pataliputra**, capital of the Mauryas, which a Greek ambassador described in astonished detail. Far to the south, digs at **Keeladi** near Madurai are showing an urban culture in Tamil country by at least the 6th to 3rd centuries BCE. India's urban story is not one beginning but at least two.",
    "visual": null,
    "spotlights": [
     {
@@ -1385,52 +1326,12 @@
      ],
      "media_ids": [],
      "spot_it": "Lines of buried timber palisade beneath modern Patna, at the meeting of the Ganga and the Son.",
-     "story_md": "Ajatashatru fortified a village here around **490 BCE**, and his successor Udayin made it Magadha's capital. Under the Mauryas it became one of the largest cities in the world, with estimates of **150,000 to 400,000** people. The Greek envoy **Megasthenes**, who lived there around 300 BCE, described a city shaped like a parallelogram, guarded by a moat and a wooden wall with **570 towers and 64 gates**. Excavations since the 1890s at Bulandi Bagh have found long lines of massive **sal-wood palisade**, which matches his account. By the time the Chinese pilgrim Xuanzang came in 637 CE, the old city was mostly ruins. Modern **Patna** sits on top of it.",
+     "story_md": "Ajatashatru fortified a village here around **490 BCE**, and his successor Udayin made it Magadha's capital. Under the Mauryas it became one of the largest cities in the world, with estimates of **150,000 to 400,000** people. The Greek envoy **Megasthenes**, who lived there around 300 BCE, described a city shaped like a parallelogram, guarded by a moat and a wooden wall with **570 towers and 64 gates**. Excavations since the 1890s at Bulandi Bagh have found long lines of massive **sal-wood palisade**, which matches his account. At Kumhrar, digs in 1912 to 1913 found the remains of a hall of **80 polished sandstone pillars**. By the time the Chinese pilgrim Xuanzang came in 637 CE, the old city was mostly ruins. Modern **Patna** sits on top of it.",
      "why_it_matters": "It was the capital of India's first great empire and one of antiquity's megacities.",
      "memory_hook": "Five hundred and seventy towers, 64 gates and a wall made of trees.",
      "source_ids": [
       "wiki_pataliputra",
       "wiki_megasthenes"
-     ]
-    },
-    {
-     "id": "kumhrar",
-     "kind": "monument",
-     "name": "The Mauryan pillared hall at Kumhrar",
-     "where": {
-      "label": "Kumhrar, Patna, Bihar",
-      "lat": 25.598,
-      "lon": 85.181
-     },
-     "when": "c. 3rd century BCE",
-     "image_ids": [
-      "img_kumhrar1",
-      "img_kumhrar2"
-     ],
-     "media_ids": [],
-     "spot_it": "A single polished sandstone pillar lying in a sunken park in Patna, the survivor of a hall of 80 columns.",
-     "story_md": "In **1912 to 1913**, the archaeologist D. B. Spooner excavated a site at Kumhrar in Patna and found the remains of an enormous hall that once stood on **80 polished sandstone pillars**, arranged in rows. Only one nearly complete pillar survives above ground; the others are known from stumps and ash. The polish, like that of the Ashokan pillars, is a Mauryan hallmark. Some scholars compare the hall's plan to the Persian palaces at Persepolis, a sign of links across the empire's western border. It may have been an assembly hall, perhaps used for the Third Buddhist Council under Ashoka, though that is not certain.",
-     "why_it_matters": "It is one of the very few buildings left from the Mauryan capital.",
-     "memory_hook": "Eighty mirror-polished pillars once; one lies in a Patna park today.",
-     "source_ids": [
-      "wiki_kumhrar",
-      "wiki_pataliputra"
-     ]
-    },
-    {
-     "id": "arthashastra_city",
-     "kind": "document",
-     "name": "The Arthashastra's model city",
-     "when": "Compiled c. 2nd century BCE to 3rd century CE",
-     "image_ids": [],
-     "media_ids": [],
-     "spot_it": "A Sanskrit manual of statecraft with a chapter on how to lay out a fortified capital.",
-     "story_md": "The **Arthashastra**, traditionally credited to Kautilya, adviser of Chandragupta Maurya, includes a blueprint for a fort city. It asks for a moat, a rampart and walls with towers; three royal roads running east to west and three running north to south; and **twelve gates**. Quarters are assigned by occupation and status, with the king's palace near the centre, merchants and craftsmen in set zones, and cremation grounds outside the walls. It also lays down fines for blocking roads, dumping dirt in the street and lighting fires carelessly. Whether any real city followed it closely is unknown, but it shows that ancient Indian rulers thought of the city as something to be designed and policed.",
-     "why_it_matters": "It is India's earliest written theory of town planning and city management.",
-     "memory_hook": "Fines for dumping rubbish in the road, 2,000 years ago.",
-     "source_ids": [
-      "wiki_arthashastra",
-      "arthashastra_ws"
      ]
     },
     {
@@ -1500,7 +1401,7 @@
    "id": "giants",
    "order": 9,
    "title": "The giant cities of the old world",
-   "intro_md": "For most of history, cities stayed small, because food had to be carried in by animals, carts or boats. A city of 100,000 was a marvel. Only a handful ever passed **one million** before the industrial age, and each needed an empire behind it to feed it.\n\n**Rome** reached about a million around the start of the Common Era, fed by grain shipped from Egypt and North Africa. **Chang'an**, the Tang capital, reached a similar size around 700 CE, and **Baghdad** perhaps more around 1000 CE. Then came Hangzhou, Nanjing and Beijing. In South India, **Vijayanagara** may have held 500,000 people around 1500, second only to Beijing.\n\nEvery one of these cities shrank or collapsed when the system that fed it broke. Rome fell to perhaps 30,000 people in the early Middle Ages. Vijayanagara was sacked in 1565 and never resettled. Big cities are not just places. They are supply chains with people at the end.",
+   "intro_md": "For most of history, cities stayed small, because food had to be carried in by animals, carts or boats. A city of 100,000 was a marvel. Only a handful ever passed **one million** before the industrial age, and each needed an empire behind it to feed it.\n\n**Rome** reached about a million around the start of the Common Era, fed by grain shipped from Egypt and North Africa. **Chang'an**, the Tang capital, a grid of 108 walled wards locked every night, reached a similar size around 700 CE, and **Baghdad** perhaps more around 1000 CE. Then came Hangzhou, Nanjing and Beijing. In South India, **Vijayanagara** may have held 500,000 people around 1500, second only to Beijing.\n\nEvery one of these cities shrank or collapsed when the system that fed it broke. Rome fell to perhaps 30,000 people in the early Middle Ages. Vijayanagara was sacked in 1565 and never resettled. Big cities are not just places. They are supply chains with people at the end.",
    "visual": {
     "type": "bar",
     "title": "The world's largest city through time (estimated population, thousands)",
@@ -1574,29 +1475,6 @@
      ]
     },
     {
-     "id": "changan",
-     "kind": "place",
-     "name": "Chang'an, the Tang capital",
-     "where": {
-      "label": "Xi'an, Shaanxi, China",
-      "lat": 34.265,
-      "lon": 108.954
-     },
-     "when": "Peak c. 700 to 750 CE",
-     "image_ids": [
-      "img_changan"
-     ],
-     "media_ids": [],
-     "spot_it": "A vast rectangular grid of walled wards around a central avenue 150 m wide; today its later walls ring the centre of Xi'an.",
-     "story_md": "Chang'an was laid out as a perfect grid: an outer wall enclosing about **84 km²**, a north-south central avenue about **150 m** wide, and **108 walled wards**, each with its own gates. At night drums sounded and the ward gates were locked; only officials could move about. Around **700 CE** it may have held about **one million** people. It was the eastern end of the Silk Road, with two great markets, East and West. The West Market hosted Persian, Sogdian and Arab merchants, and the city had Buddhist, Daoist, Zoroastrian, Manichaean and Nestorian Christian temples. Its grid inspired Japan's Nara and Kyoto.",
-     "why_it_matters": "It was the model of the planned, cosmopolitan imperial capital in East Asia.",
-     "memory_hook": "A million people locked into 108 walled boxes every night.",
-     "source_ids": [
-      "wiki_changan",
-      "wiki_hist_largest"
-     ]
-    },
-    {
      "id": "vijayanagara",
      "kind": "place",
      "name": "Vijayanagara (Hampi)",
@@ -1637,7 +1515,7 @@
    "id": "thinkers",
    "order": 10,
    "title": "The people who explained the city",
-   "intro_md": "Every age has had someone trying to explain why cities exist and what they do to us. The questions barely change. Is the city natural or artificial? Does it make people better or worse? Why do cities rise and fall?\n\n**Aristotle**, writing in the 4th century BCE, thought the city was the natural home of human beings. **Ibn Khaldun**, in 14th-century North Africa, saw cities as the late, luxurious and ultimately weak stage of a cycle that starts with tough desert tribes. In the twentieth century, Chicago sociologists such as **Louis Wirth** studied the city as a laboratory of human behaviour; **Lewis Mumford** wrote its grand history; and **Jane Jacobs**, a writer with no degree in planning, took on the planners and won.\n\nTheir ideas still shape what gets built: the pavement café, the mixed-use street, the fight against expressways through old neighbourhoods, even the way Indian smart-city plans are written.",
+   "intro_md": "Every age has had someone trying to explain why cities exist and what they do to us. The questions barely change. Is the city natural or artificial? Does it make people better or worse? Why do cities rise and fall?\n\n**Aristotle**, writing in the 4th century BCE, thought the city was the natural home of human beings. **Ibn Khaldun**, in 14th-century North Africa, saw cities as the late, luxurious and ultimately weak stage of a cycle that starts with tough desert tribes. In the twentieth century, Chicago sociologists such as **Louis Wirth** studied the city as a laboratory of human behaviour; **Lewis Mumford** wrote its grand history; and **Jane Jacobs**, a writer with no degree in planning, took on the planners and won.\n\nTheir ideas still shape what gets built, from mixed-use streets to fights against urban expressways.",
    "visual": null,
    "spotlights": [
     {
@@ -1675,23 +1553,6 @@
      ]
     },
     {
-     "id": "mumford",
-     "kind": "person",
-     "name": "Lewis Mumford",
-     "when": "The City in History, 1961",
-     "image_ids": [
-      "img_mumford"
-     ],
-     "media_ids": [],
-     "spot_it": "An American writer with a moustache, author of a 650-page history of cities from caves to suburbs.",
-     "story_md": "Lewis Mumford (1895 to 1990) never finished a university degree, yet became the century's best-known historian of cities. **The City in History** (1961) won the US National Book Award. He argued that the first cities were sacred places before they were markets: shrines and burial grounds that drew people back again and again. He loved the medieval walled town and distrusted the giant modern metropolis, which he called 'Megalopolis' sliding towards 'Necropolis'. He wrote against cars swallowing cities and against suburbs that sprawled without centres. Some of his warnings, about traffic and sprawl, now read like predictions.",
-     "why_it_matters": "He taught readers to see the city as a long human story, not a pile of buildings.",
-     "memory_hook": "Mumford's warning: Megalopolis becomes Necropolis.",
-     "source_ids": [
-      "wiki_mumford"
-     ]
-    },
-    {
      "id": "jacobs",
      "kind": "person",
      "name": "Jane Jacobs",
@@ -1701,7 +1562,7 @@
      ],
      "media_ids": [],
      "spot_it": "A woman with a grey bob and big glasses at a 1961 press meeting, fighting a highway through Greenwich Village.",
-     "story_md": "Jane Jacobs (1916 to 2006) was a journalist living in Greenwich Village, New York. In 1961 she published **The Death and Life of Great American Cities**, an attack on modernist planning, slum clearance and towers in parks. Safe, lively streets, she argued, need short blocks, mixed uses, old buildings alongside new ones, and enough density. Shopkeepers and residents provide **'eyes on the street'**. She led the fight against the planner Robert Moses, stopping a road through Washington Square Park and the Lower Manhattan Expressway; she was arrested at a 1968 hearing. She then moved to Toronto and helped stop the Spadina Expressway there.",
+     "story_md": "Jane Jacobs (1916 to 2006) was a journalist living in Greenwich Village, New York. In 1961 she published **The Death and Life of Great American Cities**, an attack on modernist planning, slum clearance and towers in parks. Safe, lively streets, she argued, need short blocks, mixed uses, old buildings alongside new ones, and enough density. Shopkeepers and residents provide **'eyes on the street'**. She led the fight against the planner Robert Moses, stopping a road through Washington Square Park and the Lower Manhattan Expressway; she was arrested at a 1968 hearing. She then moved to Toronto and helped stop the Spadina Expressway there. In **The Economy of Cities** (1969) she went further, arguing through an imaginary trading town called New Obsidian that cities came before farming. Archaeologists reject that timeline.",
      "why_it_matters": "Her ideas about mixed, walkable streets now guide planners worldwide.",
      "memory_hook": "Eyes on the street beat cops on the corner.",
      "source_ids": [
@@ -1725,7 +1586,7 @@
    "id": "planned",
    "order": 11,
    "title": "Planned or grown: India's designed cities",
-   "intro_md": "Cities come in two broad kinds. **Grown** cities, like old Varanasi, Old Delhi's lanes or medieval Fez, take shape slowly through millions of small decisions. **Planned** cities are drawn first and built second, usually by a ruler or a government in a hurry: Chang'an, Jaipur, Washington DC, Brasília, Chandigarh.\n\nIndia has an unusually long line of planned cities. Indus builders laid out grids. Kautilya wrote rules. Mughal emperors founded **Fatehpur Sikri** and **Shahjahanabad**. A Rajput king and a Bengali scholar designed **Jaipur** by the shastras. Newly independent India hired **Le Corbusier** for Chandigarh. Today, **Amaravati**, Navi Mumbai, GIFT City and Dholera continue the habit.\n\nEach planned city is a statement about power and about the future. Each also shows the limits of planning. People keep doing what the plan did not expect: settling informally, opening shops in houses, turning roundabouts into markets. The best planned cities leave room for that; the worst fight it.",
+   "intro_md": "Cities come in two broad kinds. **Grown** cities, like old Varanasi, Old Delhi's lanes or medieval Fez, take shape slowly through millions of small decisions. **Planned** cities are drawn first and built second, usually by a ruler or a government in a hurry: Chang'an, Jaipur, Washington DC, Brasília, Chandigarh.\n\nIndia has an unusually long line of planned cities. Indus builders laid out grids. Kautilya wrote rules. Mughal emperors founded **Fatehpur Sikri**, abandoned about 14 years after 1571, and **Shahjahanabad**. A Rajput king and a Bengali scholar designed **Jaipur** by the shastras. Newly independent India hired **Le Corbusier** for Chandigarh. Today, **Amaravati**, Navi Mumbai, GIFT City and Dholera continue the habit.\n\nEach planned city is a statement about power and about the future. Each also shows the limits of planning. People keep doing what the plan did not expect: settling informally, opening shops in houses, turning roundabouts into markets. The best planned cities leave room for that; the worst fight it.",
    "visual": {
     "type": "compare",
     "title": "Two planned capitals, 225 years apart",
@@ -1792,29 +1653,6 @@
      "source_ids": [
       "wiki_shahjahanabad",
       "wiki_chandni"
-     ]
-    },
-    {
-     "id": "fatehpur_sikri",
-     "kind": "place",
-     "name": "Fatehpur Sikri",
-     "where": {
-      "label": "Fatehpur Sikri, Agra district, Uttar Pradesh",
-      "lat": 27.094,
-      "lon": 77.661
-     },
-     "when": "Founded 1571; largely abandoned by about 1585",
-     "image_ids": [
-      "img_fatehpur1",
-      "img_fatehpur2"
-     ],
-     "media_ids": [],
-     "spot_it": "A ridge-top city of red sandstone palaces, courtyards and a towering gateway, Buland Darwaza, near Agra.",
-     "story_md": "Akbar built Fatehpur Sikri as his new capital from **1571**, to honour the Sufi saint Salim Chishti, who had foretold the birth of his son. It had palaces, a great mosque, the multi-storey **Panch Mahal** and the 54 m **Buland Darwaza**. Within about **14 years** the court left. The traditional explanation is a failing water supply; historians also point to Akbar's campaigns in the north-west, which moved the court to Lahore. Whatever the cause, Fatehpur Sikri is a near-perfect time capsule, a planned royal city preserved because people stopped using it. It became a UNESCO site in 1986.",
-     "why_it_matters": "It shows that a city ordered into being by a ruler can die when the ruler moves on.",
-     "memory_hook": "Built for a saint, abandoned in 14 years, preserved by neglect.",
-     "source_ids": [
-      "wiki_fatehpur"
      ]
     },
     {
@@ -2156,7 +1994,7 @@
    "id": "myths",
    "order": 14,
    "title": "Myths and misreadings",
-   "intro_md": "Cities attract legends. Some come from national pride, some from old textbooks, and some from the fact that the past is far harder to measure than it looks. Here are four ideas you will hear often, tested against what the evidence now supports.\n\nThe common thread: early cities were more varied, more widespread and more surprising than the simple story of a single cradle in the Middle East, from which civilisation marched outward. And modern cities are less dominated by giants than the headlines suggest.",
+   "intro_md": "Cities attract legends. Some come from national pride, some from old textbooks, and some from the fact that the past is far harder to measure than it looks. Here are three ideas you will hear often, tested against what the evidence now supports.\n\nThe common thread: early cities were more varied, more widespread and more surprising than the simple story of a single cradle in the Middle East, from which civilisation marched outward. And modern cities are less dominated by giants than the headlines suggest.",
    "visual": null,
    "spotlights": [
     {
@@ -2181,26 +2019,6 @@
      ]
     },
     {
-     "id": "myth_colonial",
-     "kind": "idea",
-     "name": "Myth: outsiders must have built it",
-     "when": "19th and 20th century claims",
-     "image_ids": [
-      "img_zimbabwe1",
-      "img_dancing"
-     ],
-     "media_ids": [],
-     "spot_it": "Any claim that an ancient city in Africa, India or the Americas was 'really' built by foreigners.",
-     "story_md": "European colonial writers repeatedly refused to credit local people with great cities. Great Zimbabwe was said to be the work of Phoenicians or the Queen of Sheba; Cahokia's mounds were credited to a vanished 'Mound Builder' race rather than Native Americans; the Indus cities were long assumed to be outposts of Mesopotamia. Archaeology has demolished each claim. Great Zimbabwe was built by ancestors of the Shona; Cahokia by Mississippian peoples; the Indus cities have their own distinct script, weights and art. The pattern is a reminder to ask who benefits when a story says that some peoples could not build cities.",
-     "why_it_matters": "It shows how politics can distort what we think the past was like.",
-     "memory_hook": "When a ruin seems too grand for 'the locals', the myth is about the mythmaker.",
-     "source_ids": [
-      "wiki_zimbabwe",
-      "wiki_cahokia",
-      "wiki_ivc"
-     ]
-    },
-    {
      "id": "myth_megacity",
      "kind": "idea",
      "name": "Myth: most city people live in megacities",
@@ -2216,27 +2034,6 @@
      "memory_hook": "The urban future is a town of 100,000 you have never heard of.",
      "source_ids": [
       "un_wup2025"
-     ]
-    },
-    {
-     "id": "myth_farming",
-     "kind": "idea",
-     "name": "Myth: farming led straight to cities",
-     "when": "Debated since the 1930s",
-     "image_ids": [
-      "img_gobekli1",
-      "img_wheat"
-     ],
-     "media_ids": [],
-     "spot_it": "The neat textbook ladder: farming, then villages, then surplus, then cities.",
-     "story_md": "Farming was necessary for cities, but it did not lead to them quickly or automatically. In West Asia about **6,000 years** separate the first farming villages from Uruk. Some huge settlements, such as the Trypillia mega-sites and Çatalhöyük, came and went without becoming cities. Göbekli Tepe shows that monumental gatherings came before full farming. And in the Amazon, gardens and orchards, not grain fields, supported cities. What seems to have mattered most was not farming alone but **organisation**: storable surplus, trade, record-keeping and some form of authority that could make large numbers of strangers cooperate.",
-     "why_it_matters": "It shifts the question from 'what did they eat?' to 'how did they organise?'.",
-     "memory_hook": "Six thousand years from the first farm to the first city.",
-     "source_ids": [
-      "wiki_gobekli",
-      "wiki_trypillia",
-      "wiki_urbrev",
-      "rostain_2024"
      ]
     }
    ],
@@ -2255,7 +2052,7 @@
    "id": "now",
    "order": 15,
    "title": "What is happening now (2025 to 2026)",
-   "intro_md": "The study of cities is changing fast, for two reasons. On the ground and from the air, new tools such as **LiDAR** and ancient DNA keep revealing cities nobody knew existed, or showing that known ones were bigger and older. And in the present, governments are counting and building cities on a scale never seen before.\n\nKey dated events:\n- **January 2024**: the Upano valley paper in Science reveals Amazon cities 2,500 years old.\n- **October 2025**: researchers propose a partial decipherment of Teotihuacan's writing.\n- **November 2025**: the UN publishes **World Urbanization Prospects 2025**, the first edition to use the Degree of Urbanisation: Jakarta is the largest city.\n- **January 2026**: Indonesia completes the Vice-Presidential Palace at **Nusantara**.\n- **1 April to 30 September 2026**: house-listing for India's census runs state by state, with online self-enumeration for the first time.\n- **April 2026**: Parliament passes an amendment naming **Amaravati** as Andhra Pradesh's capital.\n- **9 to 28 February 2027**: India's population count, including caste for the first time since 1931.",
+   "intro_md": "The study of cities is changing fast, for two reasons. On the ground and from the air, new tools such as **LiDAR** and ancient DNA keep revealing cities nobody knew existed, or showing that known ones were bigger and older. And in the present, governments are counting and building cities on a scale never seen before.\n\nThe timeline below dates the main events. Three stories matter most for India and its neighbours: the census, a new state capital and a new national capital next door.",
    "visual": {
     "type": "timeline",
     "title": "Cities in the news",
@@ -2373,7 +2170,7 @@
    "id": "recap",
    "order": 16,
    "title": "Recap: what makes a city",
-   "intro_md": "A city is not simply a big place. It is a settlement that is **large, dense, permanent and mixed**, where most people do not grow their own food and must trust strangers. That requires surplus, specialists, records and some kind of authority.\n\nThe first true city was **Uruk**, around 3100 BCE, with 40,000 to 50,000 people, bowls for barley rations and accountants who invented writing. Before it came temples, towers and giant villages, from Göbekli Tepe to Çatalhöyük to Trypillia. Cities were invented again, independently, along the **Indus** (Mohenjo-daro, Dholavira, Rakhigarhi), in China (Liangzhu), in Peru (Caral), in Mexico (Teotihuacan) and even in the **Amazon**.\n\nIndia's urban story has at least two beginnings: the Indus cities and the Ganga plain's second urbanisation, with **Pataliputra** at its peak, plus the south's Keeladi. Its planned cities run from Jaipur to Chandigarh to Amaravati.\n\nToday **45%** of humanity lives in cities and 36% in towns. There are **33 megacities**, Jakarta the largest. India counts itself 31% urban, but by global measures it is far more, and its 2027 census will show by how much.",
+   "intro_md": "A city is not simply a big place. It is a settlement that is **large, dense, permanent and mixed**, where most people do not grow their own food and must trust strangers. That requires surplus, specialists, records and some kind of authority.\n\nThe first true city was **Uruk**, around 3100 BCE, with 40,000 to 50,000 people, bowls for barley rations and accountants who invented writing. Before it came temples, towers and giant villages, from Göbekli Tepe to Çatalhöyük to Trypillia. Cities were invented again, independently, along the **Indus** (Mohenjo-daro, Dholavira, Rakhigarhi), in China (Liangzhu), in Peru (Caral), in Mexico (Teotihuacan) and even in the **Amazon**.\n\nIndia's urban story has at least two beginnings: the Indus cities and the Ganga plain, with **Pataliputra** at its peak.\n\nToday **45%** of humanity lives in cities and 36% in towns. There are **33 megacities**, Jakarta the largest. India counts itself 31% urban, but by global measures it is far more, and its 2027 census will show by how much.",
    "visual": null,
    "spotlights": [],
    "check": [
@@ -2699,7 +2496,7 @@
     "wiki_eridu"
    ],
    "section_id": "mesopotamia",
-   "spotlight_id": "eridu",
+   "spotlight_id": null,
    "core": false
   },
   {
@@ -2875,7 +2672,7 @@
     "wiki_kumhrar"
    ],
    "section_id": "second_urban",
-   "spotlight_id": "kumhrar",
+   "spotlight_id": "pataliputra",
    "core": false
   },
   {
@@ -2888,18 +2685,6 @@
    ],
    "section_id": "giants",
    "spotlight_id": "rome",
-   "core": false
-  },
-  {
-   "id": "c_changan",
-   "type": "fact",
-   "front": "Chang'an's layout?",
-   "back": "A walled grid of 108 wards and a central avenue about 150 m wide, locked at night.",
-   "source_ids": [
-    "wiki_changan"
-   ],
-   "section_id": "giants",
-   "spotlight_id": "changan",
    "core": false
   },
   {
@@ -2927,18 +2712,6 @@
    "spotlight_id": "jacobs",
    "core": false,
    "image_id": "img_jacobs"
-  },
-  {
-   "id": "c_mumford",
-   "type": "fact",
-   "front": "Lewis Mumford's warning about the giant city?",
-   "back": "Megalopolis slides towards Necropolis. The City in History, 1961.",
-   "source_ids": [
-    "wiki_mumford"
-   ],
-   "section_id": "thinkers",
-   "spotlight_id": "mumford",
-   "core": false
   },
   {
    "id": "c_aristotle",
@@ -3387,8 +3160,8 @@
    "source_ids": [
     "wiki_zimbabwe"
    ],
-   "section_id": "myths",
-   "spotlight_id": "myth_colonial",
+   "section_id": "hearths",
+   "spotlight_id": "great_zimbabwe",
    "difficulty": 2
   },
   {
@@ -3509,25 +3282,6 @@
     "Le Corbusier",
     "Jahanara",
     "Vidyadhar Bhattacharya"
-   ]
-  },
-  {
-   "id": "q_fatehpur",
-   "type": "mcq",
-   "prompt": "Akbar's capital Fatehpur Sikri was largely abandoned after about how long?",
-   "answer": 1,
-   "explanation": "About 14 years: founded 1571, left by about 1585.",
-   "source_ids": [
-    "wiki_fatehpur"
-   ],
-   "section_id": "planned",
-   "spotlight_id": "fatehpur_sikri",
-   "difficulty": 2,
-   "options": [
-    "2 years",
-    "14 years",
-    "100 years",
-    "300 years"
    ]
   },
   {
@@ -3727,7 +3481,7 @@
     "wiki_eridu"
    ],
    "section_id": "mesopotamia",
-   "spotlight_id": "eridu",
+   "spotlight_id": null,
    "difficulty": 2,
    "options": [
     "Eridu",
@@ -3786,7 +3540,7 @@
     "wiki_uruk_period"
    ],
    "section_id": "mechanism",
-   "spotlight_id": "accounts",
+   "spotlight_id": "kushim",
    "difficulty": 2
   },
   {
@@ -3922,7 +3676,7 @@
     "wiki_arthashastra"
    ],
    "section_id": "second_urban",
-   "spotlight_id": "arthashastra_city",
+   "spotlight_id": null,
    "difficulty": 2
   },
   {
@@ -4308,21 +4062,6 @@
    "caption": "The Ziggurat of Ur, near Nasiriyah, Iraq."
   },
   {
-   "id": "img_eridu",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Ziggurat_at_Eridu_(30809118442).jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ziggurat_at_Eridu_%2830809118442%29.jpg",
-   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ziggurat_at_Eridu_%2830809118442%29.jpg",
-   "width": 1024,
-   "height": 768,
-   "author": "David Stanley from Nanaimo, Canada",
-   "license": "CC BY 2.0",
-   "license_url": "https://creativecommons.org/licenses/by/2.0",
-   "attribution": "Photo: David Stanley from Nanaimo, Canada, CC BY 2.0, via Wikimedia Commons",
-   "verified_on": "2026-10-26",
-   "alt": "Weathered baked bricks of a ruined temple mound in the desert",
-   "caption": "Baked bricks of the ziggurat at Eridu, southern Iraq."
-  },
-  {
    "id": "img_catal1",
    "file_page": "https://commons.wikimedia.org/wiki/File:%C3%87atalh%C3%B6y%C3%BCk,_7400_BC,_Konya,_Turkey_-_UNESCO_World_Heritage_Site,_08.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/%C3%87atalh%C3%B6y%C3%BCk%2C_7400_BC%2C_Konya%2C_Turkey_-_UNESCO_World_Heritage_Site%2C_08.jpg",
@@ -4486,21 +4225,6 @@
    "verified_on": "2026-10-26",
    "alt": "Ancient balance beam with stone weights in a museum case",
    "caption": "Harappan balance and weights. National Museum, New Delhi."
-  },
-  {
-   "id": "img_seal",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Stamp_seal_and_modern_impression-_unicorn_and_incense_burner_(%3F)_MET_DP23101_(cropped).jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Stamp_seal_and_modern_impression-_unicorn_and_incense_burner_%28%3F%29_MET_DP23101_%28cropped%29.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Stamp_seal_and_modern_impression-_unicorn_and_incense_burner_%28%3F%29_MET_DP23101_%28cropped%29.jpg/1280px-Stamp_seal_and_modern_impression-_unicorn_and_incense_burner_%28%3F%29_MET_DP23101_%28cropped%29.jpg",
-   "width": 1406,
-   "height": 708,
-   "author": "Unknown",
-   "license": "CC0",
-   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-   "attribution": "Photo: Unknown, CC0, via Wikimedia Commons",
-   "verified_on": "2026-10-26",
-   "alt": "Small square stone seal carved with a one-horned animal and signs",
-   "caption": "Indus stamp seal with a 'unicorn' and script signs, about 2600 to 1900 BCE. Metropolitan Museum of Art."
   },
   {
    "id": "img_harappa",
@@ -4743,21 +4467,6 @@
    "caption": "The Insula dell'Ara Coeli, a Roman apartment block still standing in central Rome."
   },
   {
-   "id": "img_changan",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Giant_Wild_Goose_Pagoda.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Giant_Wild_Goose_Pagoda.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Giant_Wild_Goose_Pagoda.jpg/1280px-Giant_Wild_Goose_Pagoda.jpg",
-   "width": 2560,
-   "height": 1920,
-   "author": "Alex Kwok",
-   "license": "CC BY-SA 3.0",
-   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-   "attribution": "Photo: Alex Kwok, CC BY-SA 3.0, via Wikimedia Commons",
-   "verified_on": "2026-10-26",
-   "alt": "Square brick pagoda of seven storeys",
-   "caption": "The Giant Wild Goose Pagoda, built in Tang Chang'an in 652 CE, now in Xi'an."
-  },
-  {
    "id": "img_childe",
    "file_page": "https://commons.wikimedia.org/wiki/File:Gordon_Childe.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gordon_Childe.jpg",
@@ -4771,21 +4480,6 @@
    "verified_on": "2026-10-26",
    "alt": "Black and white portrait of a thin man in glasses",
    "caption": "V. Gordon Childe."
-  },
-  {
-   "id": "img_mumford",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Mumford,_Lewis.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Mumford%2C_Lewis.jpg",
-   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Mumford%2C_Lewis.jpg",
-   "width": 576,
-   "height": 603,
-   "author": "US Federal Government",
-   "license": "Public domain",
-   "license_url": "",
-   "attribution": "Photo: US Federal Government, Public domain, via Wikimedia Commons",
-   "verified_on": "2026-10-26",
-   "alt": "Black and white passport photo of a moustached man",
-   "caption": "Lewis Mumford."
   },
   {
    "id": "img_jacobs",
@@ -4921,21 +4615,6 @@
    "verified_on": "2026-10-26",
    "alt": "Small clay tablet with number impressions and simple signs",
    "caption": "An administrative tablet from Jemdet Nasr, Iraq, about 3100 to 2900 BCE. Ashmolean Museum."
-  },
-  {
-   "id": "img_ration_tab",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Cuneiform_tablet-_record_of_rations_of_beer,_bread,_oil,_and_onions_for_messengers_MET_me_1985_180_2a.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Cuneiform_tablet-_record_of_rations_of_beer%2C_bread%2C_oil%2C_and_onions_for_messengers_MET_me_1985_180_2a.jpg",
-   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Cuneiform_tablet-_record_of_rations_of_beer%2C_bread%2C_oil%2C_and_onions_for_messengers_MET_me_1985_180_2a.jpg",
-   "width": 800,
-   "height": 707,
-   "author": "Unknown",
-   "license": "CC0",
-   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-   "attribution": "Photo: Unknown, CC0, via Wikimedia Commons",
-   "verified_on": "2026-10-26",
-   "alt": "Small clay tablet covered in cuneiform",
-   "caption": "A Mesopotamian account of rations of beer, bread, oil and onions for messengers. Metropolitan Museum of Art."
   },
   {
    "id": "img_warka1",
@@ -5253,36 +4932,6 @@
    "caption": "Bimbisara and his court leave Rajagriha to visit the Buddha. Sanchi relief."
   },
   {
-   "id": "img_kumhrar1",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Mauryan_Hall_pillar.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mauryan_Hall_pillar.jpg",
-   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mauryan_Hall_pillar.jpg",
-   "width": 900,
-   "height": 598,
-   "author": "Manoj nav (talk)",
-   "license": "Public domain",
-   "license_url": "",
-   "attribution": "Photo: Manoj nav (talk), Public domain, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Single polished sandstone pillar lying in a garden",
-   "caption": "The surviving Mauryan pillar at Kumhrar, Patna."
-  },
-  {
-   "id": "img_kumhrar2",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Mauryan_ruins_of_pillared_hall_at_Kumrahar_site_of_Pataliputra_ASIEC_1912-13.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Mauryan_ruins_of_pillared_hall_at_Kumrahar_site_of_Pataliputra_ASIEC_1912-13.jpg",
-   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Mauryan_ruins_of_pillared_hall_at_Kumrahar_site_of_Pataliputra_ASIEC_1912-13.jpg",
-   "width": 876,
-   "height": 548,
-   "author": "1912-1913 Archaelogical excavations by ASIEC",
-   "license": "Public domain",
-   "license_url": "",
-   "attribution": "Photo: 1912-1913 Archaelogical excavations by ASIEC, Public domain, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Old photograph of an excavation with rows of pillar stumps",
-   "caption": "The Kumhrar pillared hall during excavation, 1912 to 1913."
-  },
-  {
    "id": "img_pataliputra_plan",
    "file_page": "https://commons.wikimedia.org/wiki/File:Pataliputra6.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pataliputra6.jpg",
@@ -5461,36 +5110,6 @@
    "verified_on": "2026-10-25",
    "alt": "Curving white colonnaded buildings around a circular park",
    "caption": "Connaught Place, New Delhi."
-  },
-  {
-   "id": "img_fatehpur1",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg",
-   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg/1280px-Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg",
-   "width": 2938,
-   "height": 2536,
-   "author": "Marcin Białek",
-   "license": "CC BY-SA 3.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-   "attribution": "Photo: Marcin Białek, CC BY-SA 3.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Huge red sandstone gateway at the top of a flight of steps",
-   "caption": "Buland Darwaza, Fatehpur Sikri."
-  },
-  {
-   "id": "img_fatehpur2",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Fatehpur_Sikri_Panch_Mahal.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Fatehpur_Sikri_Panch_Mahal.jpg",
-   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Fatehpur_Sikri_Panch_Mahal.jpg",
-   "width": 1280,
-   "height": 853,
-   "author": "Bruno Girin",
-   "license": "CC BY-SA 2.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-   "attribution": "Photo: Bruno Girin, CC BY-SA 2.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Five-storey open pavilion of red sandstone columns",
-   "caption": "The Panch Mahal, Fatehpur Sikri."
   },
   {
    "file_page": "https://commons.wikimedia.org/wiki/File:Gate_of_Jaipur_NGM-v31-p262.jpg",
@@ -6564,11 +6183,6 @@
    "note": "Some scholars read Kushim as an official title rather than a personal name."
   },
   {
-   "claim": "Share of earliest Uruk texts that are administrative (about 85%)",
-   "status": "range",
-   "note": "Commonly cited figure; exact shares depend on how lexical lists are counted."
-  },
-  {
    "claim": "Mohenjo-daro population about 40,000",
    "status": "range",
    "note": "Widely quoted but weakly based; estimates vary."
@@ -6652,12 +6266,6 @@
    "claim": "Early medieval Rome of about 30,000 people",
    "status": "range",
    "note": "Estimates for the 6th to 8th centuries vary from about 20,000 to 50,000."
-  },
-  {
-   "claim": "Image for The Arthashastra's model city",
-   "status": "no_image",
-   "note": "No correct openly licensed photo of this specific thing was found on Wikimedia Commons.",
-   "spotlight_id": "arthashastra_city"
   },
   {
    "claim": "Image for Nusantara, Indonesia's new capital",
@@ -6802,24 +6410,6 @@
    "spotlight_id": "trypillia",
    "source_ids": [
     "wiki_trypillia"
-   ]
-  },
-  {
-   "fact": "Akbar's capital Fatehpur Sikri was largely abandoned about 14 years after it was founded in 1571.",
-   "why_surprising": "A whole imperial city with the lifespan of a phone contract.",
-   "score": 6,
-   "spotlight_id": "fatehpur_sikri",
-   "source_ids": [
-    "wiki_fatehpur"
-   ]
-  },
-  {
-   "fact": "Between 1975 and 2025, built-up land per person rose from 43 to 63 m², and about 60% of land converted to urban use since 1970 was productive farmland.",
-   "why_surprising": "Cities spread faster than they grow.",
-   "score": 6,
-   "spotlight_id": null,
-   "source_ids": [
-    "un_wup2025"
    ]
   }
  ],
