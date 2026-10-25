@@ -1477,7 +1477,9 @@
       "lon": 19.0402
      },
      "when": "July 1946",
-     "image_ids": [],
+     "image_ids": [
+      "img_pengo"
+     ],
      "media_ids": [],
      "spot_it": "Notes with long rows of zeros; the largest issued was 100 quintillion pengő, and a sextillion note was printed but never used.",
      "story_md": "After the Second World War, Hungary's economy was shattered and Soviet reparations drained what was left. The government printed pengő to pay for everything. In **July 1946**, monthly inflation reached about **41.9 quadrillion per cent** (4.19 × 10¹⁶%), the highest rate on record. Prices doubled roughly every **15 hours**. The central bank issued a note for **100 quintillion** (10²⁰) pengő, the highest denomination ever circulated. On **1 August 1946** the forint replaced it at a rate of one forint to 400 octillion pengő. All Hungarian money in circulation that day was worth a fraction of one US cent.",
@@ -4523,6 +4525,21 @@
    "caption": "Germany, 1923: banknotes used as wallpaper. Bundesarchiv."
   },
   {
+   "id": "img_pengo",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Hungarian_One_Sextillion_Peng%C5%91_Paper_Money_in_1946.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hungarian_One_Sextillion_Peng%C5%91_Paper_Money_in_1946.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Hungarian_One_Sextillion_Peng%C5%91_Paper_Money_in_1946.jpg/1280px-Hungarian_One_Sextillion_Peng%C5%91_Paper_Money_in_1946.jpg",
+   "width": 2448,
+   "height": 1836,
+   "author": "KKPCW",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: KKPCW, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Hungarian banknote from 1946 displayed in a museum case",
+   "caption": "A one sextillion (10^21) pengő note of 1946: printed but never issued, because the forint replaced the pengő first. MUFG Bank Currency Museum, Tokyo."
+  },
+  {
    "id": "img_zimbabwe",
    "file_page": "https://commons.wikimedia.org/wiki/File:Zimbabwe_$100_trillion_2009_Obverse.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Zimbabwe_%24100_trillion_2009_Obverse.jpg",
@@ -5652,12 +5669,6 @@
    "status": "no_image",
    "note": "Logos are trademarks; no suitable openly licensed image.",
    "spotlight_id": "stablecoins"
-  },
-  {
-   "claim": "Image for Hungary, 1946: the worst inflation ever recorded",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "pengo"
   }
  ],
  "best_facts": [

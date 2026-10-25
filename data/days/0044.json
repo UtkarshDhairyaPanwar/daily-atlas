@@ -1239,6 +1239,8 @@
      "name": "Flash memory",
      "when": "1980s",
      "image_ids": [
+      "img_masuoka",
+      "img_ssd",
       "img_usb_drive"
      ],
      "media_ids": [],
@@ -1336,7 +1338,8 @@
      },
      "when": "First production use about 2019",
      "image_ids": [
-      "img_asml_hq"
+      "img_asml_hq",
+      "img_cleanroom"
      ],
      "media_ids": [],
      "spot_it": "A machine the size of a bus, built in the Netherlands, that fires lasers at falling droplets of tin to make light.",
@@ -1359,7 +1362,10 @@
       "lon": 121.0137
      },
      "when": "Founded 1987",
-     "image_ids": [],
+     "image_ids": [
+      "img_tsmc",
+      "img_tsmc_fab"
+     ],
      "media_ids": [],
      "spot_it": "Huge white fabrication buildings in Hsinchu Science Park, Taiwan; the company's name rarely appears on the products its chips power.",
      "story_md": "Morris Chang spent 25 years at Texas Instruments before Taiwan's government asked him to build a chip industry. In **1987** he founded the Taiwan Semiconductor Manufacturing Company with a new business model: it would make no chips of its own design, only manufacture chips designed by others. That let companies like Apple, Nvidia, AMD and Qualcomm design chips without owning factories that cost tens of billions of dollars. TSMC began volume production of its **2 nanometre** process in late 2025, with Apple reported to have taken about half of early capacity. The name 2 nm is a label; no feature on the chip is actually 2 nm wide.",
@@ -1521,6 +1527,7 @@
      "name": "Firmware: the first code that runs",
      "when": "BIOS named 1975; UEFI from the 2000s",
      "image_ids": [
+      "img_bios",
       "img_motherboard"
      ],
      "media_ids": [],
@@ -1539,7 +1546,8 @@
      "name": "The keypress and the USB cable",
      "when": "USB 1.0 in 1996",
      "image_ids": [
-      "img_keyswitch"
+      "img_keyswitch",
+      "img_bhatt"
      ],
      "media_ids": [],
      "spot_it": "A keyboard switch under every key, a small stem and spring; and the rectangular USB plug that took three tries to insert.",
@@ -1557,7 +1565,9 @@
      "kind": "machine",
      "name": "The graphics processor",
      "when": "Term popularised by Nvidia in 1999",
-     "image_ids": [],
+     "image_ids": [
+      "img_gpu"
+     ],
      "media_ids": [],
      "spot_it": "A large circuit board with fans and a heat sink, holding a chip made of thousands of small, simple cores working in parallel.",
      "story_md": "A screen of 1920 by 1080 pixels has about 2 million dots, each needing its colour worked out 60 or more times a second. A CPU has a few powerful cores; a **GPU** has thousands of simpler ones that all run the same small program on different pixels at once. Nvidia marketed its GeForce 256 in 1999 as the world's first GPU. Researchers then found that training neural networks is the same kind of massively parallel arithmetic. In 2012 a network called AlexNet, trained on two Nvidia gaming cards, won a major image-recognition contest. That set off the AI boom, and on 29 October 2025 Nvidia became the first company valued at **5 trillion dollars**.",
@@ -1648,7 +1658,8 @@
      },
      "when": "1953 to 1966",
      "image_ids": [
-      "img_isi"
+      "img_isi",
+      "img_mahalanobis"
      ],
      "media_ids": [],
      "spot_it": "The red-brick campus of the Indian Statistical Institute in Baranagar, Kolkata, where P. C. Mahalanobis brought computing to India.",
@@ -1693,7 +1704,9 @@
       "lon": 73.8128
      },
      "when": "1991",
-     "image_ids": [],
+     "image_ids": [
+      "img_param"
+     ],
      "media_ids": [],
      "spot_it": "Racks of processor boards at C-DAC in Pune, under a name that means supreme in Sanskrit.",
      "story_md": "In 1987 India asked to buy a Cray supercomputer for weather forecasting. The United States, worried it could be used for nuclear weapons work, blocked the sale. India set up the **Centre for Development of Advanced Computing** (C-DAC) in Pune in 1988 under **Vijay Bhatkar**, with a three-year deadline and a budget of about 30 crore rupees, roughly what a Cray would have cost. Its answer, **PARAM 8000**, came out in 1991 built from many processors working in parallel. India later exported PARAM machines. The series continues: PARAM Rudra systems were unveiled in 2024 under the National Supercomputing Mission.",
@@ -1715,7 +1728,9 @@
       "lon": 80.2336
      },
      "when": "First chips 2018",
-     "image_ids": [],
+     "image_ids": [
+      "img_shakti"
+     ],
      "media_ids": [],
      "spot_it": "A small IIT Madras chip built on RISC-V, an instruction set anyone can use free.",
      "story_md": "Processor designs like x86 and ARM are owned by companies and need licences. **RISC-V** is an open instruction set from the University of California, Berkeley. In 2016 a team at **IIT Madras** led by V. Kamakoti began SHAKTI, a family of RISC-V processors. A test chip was made in 2018 at Intel's factory in Oregon, and in 2020 the Moushik chip was fabricated at the Semiconductor Laboratory in Mohali. The aim is processors India can design, audit and modify itself, for defence, power grids and sensors, without depending on a foreign licence.",
@@ -1919,7 +1934,11 @@
      "kind": "machine",
      "name": "Quantum computers and the 2025 Nobel",
      "when": "1985 experiments; Nobel 7 October 2025",
-     "image_ids": [],
+     "image_ids": [
+      "img_quantum",
+      "img_martinis",
+      "img_quantum_delhi"
+     ],
      "media_ids": [],
      "spot_it": "A gold, chandelier-like cylinder of stacked plates and coiled cables: the refrigerator that cools a quantum chip to near absolute zero.",
      "story_md": "Ordinary bits are 0 or 1. A **qubit** can be in a blend of both, and qubits can be linked so that their states depend on each other. In 1984 and 1985 at Berkeley, Clarke, Devoret and Martinis showed that a superconducting circuit could tunnel through an energy barrier and absorb energy in fixed steps, like an atom. That is the qubit Google and IBM use today; Martinis later led Google's quantum hardware. In October 2025 Google reported its Quantum Echoes result on the **Willow** chip. Useful, error-corrected quantum computers that beat classical ones on practical tasks have not yet been shown.",
@@ -4583,6 +4602,216 @@
    "verified_on": "2026-10-26",
    "alt": "Main building of the Indian Statistical Institute in Kolkata",
    "caption": "Main building of the Indian Statistical Institute, Kolkata."
+  },
+  {
+   "id": "img_masuoka",
+   "file_page": "https://commons.wikimedia.org/wiki/File:%E8%88%9B%E5%B2%A1%E5%AF%8C%E5%A3%AB%E9%9B%84.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/%E8%88%9B%E5%B2%A1%E5%AF%8C%E5%A3%AB%E9%9B%84.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/%E8%88%9B%E5%B2%A1%E5%AF%8C%E5%A3%AB%E9%9B%84.jpg",
+   "width": 170,
+   "height": 255,
+   "author": "文部科学省大臣官房人事課栄典班",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Photo: 文部科学省大臣官房人事課栄典班, CC BY 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Portrait of Fujio Masuoka",
+   "caption": "Fujio Masuoka, inventor of flash memory."
+  },
+  {
+   "id": "img_ssd",
+   "file_page": "https://commons.wikimedia.org/wiki/File:1TB_2280_NVME_SSD.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/1TB_2280_NVME_SSD.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/1TB_2280_NVME_SSD.jpg",
+   "width": 777,
+   "height": 1600,
+   "author": "User5515",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "attribution": "Photo: User5515, CC0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A thin NVMe SSD stick with flash chips",
+   "caption": "A 1 TB NVMe SSD: flash memory on a stick."
+  },
+  {
+   "id": "img_tsmc",
+   "file_page": "https://commons.wikimedia.org/wiki/File:TSMC_Global_R%EF%BC%86D_Center_at_night.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/TSMC_Global_R%EF%BC%86D_Center_at_night.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/TSMC_Global_R%EF%BC%86D_Center_at_night.jpg/1280px-TSMC_Global_R%EF%BC%86D_Center_at_night.jpg",
+   "width": 7360,
+   "height": 4912,
+   "author": "曾 成訓",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "attribution": "Photo: 曾 成訓, CC BY 2.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Large modern TSMC building lit at night",
+   "caption": "TSMC's Global R&D Center in Hsinchu, Taiwan."
+  },
+  {
+   "id": "img_tsmc_fab",
+   "file_page": "https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/231105-1_TSMC_Fab_21_construction.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/231105-1_TSMC_Fab_21_construction.jpg/1280px-231105-1_TSMC_Fab_21_construction.jpg",
+   "width": 8064,
+   "height": 6048,
+   "author": "Hunter Trick (TrickHunter)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Hunter Trick (TrickHunter), CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Construction site of a large chip factory",
+   "caption": "TSMC Fab 21 under construction in Arizona, 2023."
+  },
+  {
+   "id": "img_param",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Vijay_Bhatkar_Portrait_Photo.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Vijay_Bhatkar_Portrait_Photo.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Vijay_Bhatkar_Portrait_Photo.jpg/1280px-Vijay_Bhatkar_Portrait_Photo.jpg",
+   "width": 1364,
+   "height": 2048,
+   "author": "Nachiketas",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Nachiketas, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Portrait of Vijay Bhatkar",
+   "caption": "Vijay Bhatkar, who led the PARAM project at C-DAC."
+  },
+  {
+   "id": "img_shakti",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Shakti_microcontroller.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Shakti_microcontroller.png",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Shakti_microcontroller.png",
+   "width": 655,
+   "height": 374,
+   "author": "Martin.J",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Photo: Martin.J, CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A small SHAKTI microcontroller chip on a board",
+   "caption": "A SHAKTI microcontroller from IIT Madras."
+  },
+  {
+   "id": "img_bhatt",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Ajay_Bhatt_at_Intel_ISEF.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ajay_Bhatt_at_Intel_ISEF.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Ajay_Bhatt_at_Intel_ISEF.jpg/1280px-Ajay_Bhatt_at_Intel_ISEF.jpg",
+   "width": 1384,
+   "height": 1164,
+   "author": "LepVektor (talk) (Uploads)",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: LepVektor (talk) (Uploads), Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Ajay Bhatt speaking at an event",
+   "caption": "Ajay Bhatt, co-inventor of USB, at Intel ISEF."
+  },
+  {
+   "id": "img_quantum",
+   "file_page": "https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/IBM_Q_system_%28Fraunhofer_2%29.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/IBM_Q_system_%28Fraunhofer_2%29.jpg/1280px-IBM_Q_system_%28Fraunhofer_2%29.jpg",
+   "width": 5166,
+   "height": 3584,
+   "author": "IBM Research",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "attribution": "Photo: IBM Research, CC BY 2.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Glass case holding a cylindrical quantum computer",
+   "caption": "IBM Quantum System One at Fraunhofer, Germany."
+  },
+  {
+   "id": "img_martinis",
+   "file_page": "https://commons.wikimedia.org/wiki/File:John_M._Martinis,_2025_Nobel_laurate_in_physics.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/John_M._Martinis%2C_2025_Nobel_laurate_in_physics.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/John_M._Martinis%2C_2025_Nobel_laurate_in_physics.jpg/1280px-John_M._Martinis%2C_2025_Nobel_laurate_in_physics.jpg",
+   "width": 5822,
+   "height": 3448,
+   "author": "Karen Zhou",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Karen Zhou, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Portrait of John Martinis",
+   "caption": "John Martinis, 2025 Nobel laureate in physics."
+  },
+  {
+   "id": "img_quantum_delhi",
+   "file_page": "https://commons.wikimedia.org/wiki/File:IBM_Quantum_Computer_Demo_at_ITUWTSA_2024,_Delhi_2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IBM_Quantum_Computer_Demo_at_ITUWTSA_2024%2C_Delhi_2.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/IBM_Quantum_Computer_Demo_at_ITUWTSA_2024%2C_Delhi_2.jpg/1280px-IBM_Quantum_Computer_Demo_at_ITUWTSA_2024%2C_Delhi_2.jpg",
+   "width": 3000,
+   "height": 4000,
+   "author": "Dev Jadiya",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Dev Jadiya, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Visitors around a quantum computer display in Delhi",
+   "caption": "An IBM quantum computer demonstration at ITU WTSA 2024, New Delhi."
+  },
+  {
+   "id": "img_gpu",
+   "file_page": "https://commons.wikimedia.org/wiki/File:NVIDIA-GTX-1070-FoundersEdition-FL.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/NVIDIA-GTX-1070-FoundersEdition-FL.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/NVIDIA-GTX-1070-FoundersEdition-FL.jpg/1280px-NVIDIA-GTX-1070-FoundersEdition-FL.jpg",
+   "width": 4700,
+   "height": 3500,
+   "author": "Evan-Amos",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Evan-Amos, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A black and silver graphics card with a fan",
+   "caption": "An Nvidia GeForce GTX 1070 graphics card."
+  },
+  {
+   "id": "img_bios",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Bios_chip-2011-04-11.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bios_chip-2011-04-11.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bios_chip-2011-04-11.jpg/1280px-Bios_chip-2011-04-11.jpg",
+   "width": 2640,
+   "height": 2048,
+   "author": "Tremaster",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Photo: Tremaster, CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A small chip with a BIOS label on a motherboard",
+   "caption": "A BIOS firmware chip on a motherboard."
+  },
+  {
+   "id": "img_mahalanobis",
+   "file_page": "https://commons.wikimedia.org/wiki/File:P._C._Mahalanobis.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/P._C._Mahalanobis.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/P._C._Mahalanobis.jpg",
+   "width": 762,
+   "height": 849,
+   "author": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Portrait of P. C. Mahalanobis",
+   "caption": "P. C. Mahalanobis, founder of the Indian Statistical Institute."
+  },
+  {
+   "id": "img_cleanroom",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Clean_room.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Clean_room.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Clean_room.jpg/1280px-Clean_room.jpg",
+   "width": 2247,
+   "height": 1742,
+   "author": "Uploaded by Duk 08:45, 16 Feb 2005 (UTC)",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Uploaded by Duk 08:45, 16 Feb 2005 (UTC), Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Workers in full-body suits inside a brightly lit chip factory cleanroom",
+   "caption": "A semiconductor cleanroom."
   }
  ],
  "media": [
@@ -5572,30 +5801,6 @@
    "note": "Arm reported more than 200 billion by 2021; later totals are higher but were not checked for this day."
   },
   {
-   "claim": "Image for TSMC, the factory for everyone else's chips",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "tsmc"
-  },
-  {
-   "claim": "Image for The graphics processor",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "gpu"
-  },
-  {
-   "claim": "Image for PARAM, the supercomputer born of a refusal",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "param"
-  },
-  {
-   "claim": "Image for SHAKTI, an open Indian processor",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "shakti"
-  },
-  {
    "claim": "Image for Vikram 3201, ISRO's 32-bit processor",
    "status": "no_image",
    "note": "No correct openly licensed image found on Wikimedia Commons.",
@@ -5606,12 +5811,6 @@
    "status": "no_image",
    "note": "No correct openly licensed image found on Wikimedia Commons.",
    "spotlight_id": "sanand"
-  },
-  {
-   "claim": "Image for Quantum computers and the 2025 Nobel",
-   "status": "no_image",
-   "note": "No correct openly licensed image found on Wikimedia Commons.",
-   "spotlight_id": "quantum"
   }
  ],
  "best_facts": [
