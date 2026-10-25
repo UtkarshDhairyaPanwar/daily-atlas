@@ -512,11 +512,11 @@ function renderQuiz(item, d, el, done) {
     const opts = item.options;
     const draw = () => {
       el.innerHTML = `${head}<ol class="clues">${clues.slice(0, shown).map((c, i) => `<li><span class="eyebrow">Clue ${i + 1}</span><br>${esc(c)}</li>`).join("")}</ol>
-        ${opts ? `<div class="opts">${opts.map((o, i) => `<button class="opt press" data-i="${i}">${esc(o)}</button>`).join("")}</div>` : `<input class="txt" style="margin-top:14px" placeholder="Your guess" autocomplete="off"><button class="btn primary block" style="margin-top:10px" data-go>Guess</button>`}
+        ${opts ? `<div class="opts">${opts.map((o, i) => `<button class="opt press" data-i="${i}">${esc(o)}</button>`).join("")}</div>` : `<input class="txt" style="margin-top:14px" placeholder="Type a guess (optional)" autocomplete="off"><div class="row" style="margin-top:10px"><button class="btn block" data-reveal style="flex:1">Show answer</button><button class="btn primary block" data-go style="flex:1">Guess</button></div>`}
         ${shown < clues.length ? `<button class="linkbtn" data-more>Another clue (${clues.length - shown} left)</button>` : ""}</div>`;
       const more = $("[data-more]", el); if (more) more.onclick = () => { shown++; draw(); };
       if (opts) $$(".opt", el).forEach(b => b.onclick = () => { if (answered) return; const i = +b.dataset.i; $$(".opt", el).forEach(x => x.classList.add(+x.dataset.i === item.answer ? "right" : x === b ? "wrong" : "dim")); more && more.remove(); finish(i === item.answer, `<span style="font-family:var(--ui);font-size:14px;display:block;margin-bottom:6px">${shown} of ${clues.length} clues used.</span>`); });
-      else { const go = () => { const v = $(".txt", el).value.trim().toLowerCase(); if (!v) return; const ans = [item.answer, ...(item.accept || [])].map(a => String(a).toLowerCase()); const ok = ans.some(a => a.includes(v) || v.includes(a)); more && more.remove(); finish(ok, `<span style="font-family:var(--ui);font-size:14px;display:block;margin-bottom:6px">Answer: ${esc(item.answer)}</span>`); }; $("[data-go]", el).onclick = go; $(".txt", el).onkeydown = e => e.key === "Enter" && go(); }
+      else { const go = () => { const v = $(".txt", el).value.trim().toLowerCase(); if (!v) return; const ans = [item.answer, ...(item.accept || [])].map(a => String(a).toLowerCase()); const ok = ans.some(a => a.includes(v) || v.includes(a)); more && more.remove(); finish(ok, `<span style="font-family:var(--ui);font-size:14px;display:block;margin-bottom:6px">Answer: ${esc(item.answer)}</span>`); }; $("[data-go]", el).onclick = go; $(".txt", el).onkeydown = e => e.key === "Enter" && go(); $("[data-reveal]", el).onclick = () => { more && more.remove(); finish(false, `<span style="font-family:var(--ui);font-size:14px;display:block;margin-bottom:6px">Answer: ${esc(item.answer)}</span>`); }; }
     };
     draw();
   } else if (type === "compare") {
@@ -561,7 +561,7 @@ function stepHref(k, entry) {
   return { warm: `#/warm/${entry.id}`, read: `#/read/${entry.id}`, learn: `#/learn/${entry.id}`, play: `#/play/${entry.id}`, make: `#/make/${entry.id}`, close: `#/close/${entry.id}` }[k];
 }
 function ringSvg(f) {
-  const segs = [[f.reviewDone, "var(--ink)"], [f.readDone, "var(--accent)"], [f.cardsDone, "#B9AD98"]];
+  const segs = [[f.reviewDone, "var(--blue)"], [f.readDone, "var(--accent)"], [f.cardsDone, "var(--gold)"]];
   const R = [42, 31, 20];
   return `<svg class="ring" viewBox="0 0 100 100">${segs.map(([v, c], i) => { const r = R[i], C = 2 * Math.PI * r; return `<circle class="bg" cx="50" cy="50" r="${r}"/>${v > 0.005 ? `<circle cx="50" cy="50" r="${r}" stroke="${c}" stroke-dasharray="${C * clamp(v, 0, 1)} ${C}" transform="rotate(-90 50 50)"/>` : ""}`; }).join("")}</svg>`;
 }
@@ -571,6 +571,28 @@ function stampHtml(e, cls = "", w = 330) {
   if (p?.completedOn != null) return `<div class="stamp ${cls}"><div class="in"><div class="pic" style="background-image:url('${esc(imgUrl(hero, w))}')"><span class="pm">DONE<br>${esc(dStr(p.completedOn).slice(5).replace("-", "·"))}</span></div><div class="nm">${esc(e.title)}</div></div><span class="post">DONE<br>${esc(dStr(p.completedOn).slice(5).replace("-", "·"))}</span></div>`;
   return `<div class="stamp empty ${cls}"><div class="in"><div class="nm">${esc(e.title)}</div></div></div>`;
 }
+// Area colours (Duolingo-like palette), [main, shadow]
+const AREA_COL = {
+  "India": ["#FF9600", "#E08600"], "World": ["#1CB0F6", "#1899D6"], "Sports": ["#58CC02", "#58A700"], "Cities": ["#CE82FF", "#A568CC"],
+  "Brands": ["#FF4B4B", "#EA2B2B"], "History": ["#E5A400", "#C48C00"], "How things work": ["#2B70C9", "#1F5BA8"], "Psychology": ["#FF86D0", "#E06AB4"],
+  "Art": ["#CE82FF", "#A568CC"], "Nature": ["#58CC02", "#58A700"], "Music": ["#FF86D0", "#E06AB4"], "Film": ["#4B4B4B", "#2E2E2E"],
+  "Festivals": ["#FF9600", "#E08600"], "Medicine": ["#00CD9C", "#00A880"], "Money": ["#58CC02", "#58A700"], "Crime": ["#4B4B4B", "#2E2E2E"],
+  "Paranormal": ["#8549BA", "#6A3896"], "Food": ["#FF9600", "#E08600"], "Games": ["#1CB0F6", "#1899D6"], "Religion": ["#E5A400", "#C48C00"],
+  "Astronomy": ["#2B70C9", "#1F5BA8"], "Type": ["#4B4B4B", "#2E2E2E"], "Climate": ["#00CD9C", "#00A880"], "Myth": ["#8549BA", "#6A3896"],
+  "Fashion": ["#FF86D0", "#E06AB4"], "Social": ["#1CB0F6", "#1899D6"], "Internet": ["#CE82FF", "#A568CC"], "Language": ["#FF4B4B", "#EA2B2B"]
+};
+const col = a => AREA_COL[a] || ["#58CC02", "#58A700"];
+const ICON = {
+  star: '<svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6 6.6.8-4.9 4.6 1.3 6.6L12 17.3l-5.9 3.2 1.3-6.6L2.5 9.3l6.6-.8z"/></svg>',
+  check: '<svg viewBox="0 0 24 24"><path d="M9.5 16.2 5.3 12l-1.8 1.8 6 6L21 8.3l-1.8-1.8z"/></svg>',
+  lock: '<svg viewBox="0 0 24 24"><path d="M7 10V7a5 5 0 0 1 10 0v3h1.5v11h-13V10zm2 0h6V7a3 3 0 0 0-6 0z"/></svg>',
+  book: '<svg viewBox="0 0 24 24"><path d="M4 4h7a3 3 0 0 1 3 3v13a2 2 0 0 0-2-2H4zM20 4h-4a2 2 0 0 0-2 2v12a2 2 0 0 1 2-2h4z"/></svg>',
+  flame: '<svg viewBox="0 0 24 24"><path fill="#FF9600" d="M12 2s5 4.6 5 10a5 5 0 0 1-10 0c0-2.2 1.2-3.8 2.4-5 .2 1.6 1 2.8 2.1 3.2C11 7.6 12 2 12 2z"/></svg>',
+  gem: '<svg viewBox="0 0 24 24"><path fill="#1CB0F6" d="M6 3h12l4 6-10 12L2 9z"/></svg>',
+  stamp: '<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="#FFC800"/><path fill="#fff" d="M12 6.5l1.6 3.4 3.7.4-2.8 2.5.8 3.7L12 14.6l-3.3 1.9.8-3.7-2.8-2.5 3.7-.4z"/></svg>'
+};
+const ZIG = [0, -54, -82, -54, 0, 54, 82, 54];
+
 route(/^\/today$/, async () => {
   await loadDeckDays();
   const entry = todayTarget();
@@ -580,60 +602,78 @@ route(/^\/today$/, async () => {
   const st = stepStatus(entry, data);
   const nextK = STEP_DEF.find(([k]) => !st[k])?.[0];
   const sk = streak();
-  const t = now(), dt = nToDate(t);
-  const monthDays = dt.getDate();
-  let studiedMonth = 0; for (let i = 0; i < monthDays; i++) if (studied(dStr(t - i))) studiedMonth++;
-  const hero = data && data._img[data.hero?.image_id];
-  const due = dueIds().length;
-  const isStandalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
-  const nextEntry = PLAN[PLAN.indexOf(entry) + 1];
+  const known = Object.values(S.cards).filter(c => c.step >= 2).length;
   const done = PLAN.filter(e => S.progress[e.id]?.completedOn != null);
+  const isStandalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+  const [c, cd] = col(entry.area);
+  const idx = PLAN.indexOf(entry);
+  const win = PLAN.slice(Math.max(0, idx - 2), idx + 9);
+  const stepsDone = STEP_DEF.filter(([k]) => st[k]).length;
+  const nextEntry = PLAN.slice(idx + 1).find(e => e.file) || PLAN[idx + 1];
+  const t = now(), dt = nToDate(t);
 
-  // month heat
+  const nodeHtml = (e, k) => {
+    const [ec, ecd] = col(e.area);
+    const isDone = S.progress[e.id]?.completedOn != null, isCur = e === entry;
+    const cls = isDone ? "done" : isCur ? "cur" : e.file ? "ready" : "locked";
+    const icon = isDone ? ICON.check : isCur ? ICON.star : e.file ? ICON.book : ICON.lock;
+    const pct = isCur ? stepsDone / STEP_DEF.length : 0;
+    const ring = isCur ? `<span class="ringc" style="--clip:${pct >= 1 ? "none" : `conic-gradient(#000 0 ${pct * 360}deg, transparent 0)`}"><i style="${pct ? "" : "display:none"};-webkit-mask:conic-gradient(#000 0 ${pct * 360}deg,transparent 0);mask:conic-gradient(#000 0 ${pct * 360}deg,transparent 0)"></i></span>` : "";
+    return `<div class="node-wrap" style="--c:${ec};--cd:${ecd};transform:translateX(${ZIG[k % 8]}px)">
+      ${isCur ? `<span class="bubble">${stepsDone ? "CONTINUE" : "START"}</span>` : ""}
+      <button class="node ${cls}" data-node="${e.id}" aria-label="Day ${e.n}: ${esc(e.title)}">${ring}${icon}</button>
+      <div class="node-lab">${e.n} · ${esc(e.title)}</div>
+    </div>`;
+  };
+
+  setView(`<div class="wrap" style="--area:${c};--area-d:${cd}">
+    <div class="statbar"><span class="s" title="Day streak">${ICON.flame}${sk.count}</span><span class="s" title="Cards you know">${ICON.gem}<span style="color:#1CB0F6">${known}</span></span><span class="s" title="Topics stamped">${ICON.stamp}<span style="color:#E5A400">${done.length}</span></span><span class="s" style="color:var(--ink-3);font-size:13px">${WD[dt.getDay()]} ${dt.getDate()} ${MON[dt.getMonth()].slice(0, 3)}</span></div>
+    <div class="unit"><div class="t"><div class="eyebrow">Day ${entry.n} · ${esc(entry.area)}</div><h2>${esc(entry.title)}</h2></div><a class="ub" href="#/library" aria-label="All topics">${ICON.book.replace("<svg", '<svg style="width:26px;height:26px;fill:#fff"')}</a></div>
+    ${!isStandalone && !S.settings.hideInstall ? `<div class="banner" style="margin-top:14px"><div><b>Add to your Home Screen</b>Safari: Share, then Add to Home Screen. Keeps progress safe, works offline.</div><button class="bx" data-hideinstall aria-label="Dismiss">✕</button></div>` : ""}
+    <div class="path">${win.map((e, k) => {
+      const html = nodeHtml(e, k);
+      if (e !== entry) return html;
+      return html + `<div class="pop" style="--c:${c};--cd:${cd}">
+        <h3>${data ? (f.met && !nextK ? "Day complete" : (STEP_DEF.find(([k2]) => k2 === nextK) || STEP_DEF[0])[1]) : "Being written"}</h3>
+        <p>${data ? (nextK ? (STEP_DEF.find(([k2]) => k2 === nextK) || [0, 0, ""])[2] : `${esc(entry.title)} is in your passport`) : "This topic is still being researched. Review your cards meanwhile."}</p>
+        ${data ? `<div class="steps-mini">${STEP_DEF.map(([k2]) => `<i class="${st[k2] ? "on" : ""}"></i>`).join("")}</div>` : ""}
+        <a class="btn" href="${data ? (nextK ? stepHref(nextK, entry) : `#/close/${entry.id}`) : "#/review"}">${data ? (nextK ? (stepsDone ? "Continue" : "Start") : "See ticket") : "Review cards"}</a>
+      </div>`;
+    }).join("")}</div>
+
+    ${data ? `<div class="card pad">
+      <div class="ring-row">${ringSvg(f)}<div class="legend">
+        <div><span><i style="background:var(--blue)"></i>Review</span><b>${f.reviewGoal ? `${f.reviewGoal - f.dueLeft}/${f.reviewGoal}` : "none due"}</b></div>
+        <div><span><i style="background:var(--accent)"></i>Read</span><b>${Math.round(f.readDone * 100)}%</b></div>
+        <div><span><i style="background:var(--gold)"></i>New cards</span><b>${f.learnedN}/${f.coreN}</b></div>
+      </div></div><div class="small muted" style="margin-top:10px">Daily minimum: fill the three rings. Everything past them is a bonus.</div></div>` : ""}
+
+    ${f.met ? `<div class="card pad" style="margin-top:16px"><div class="eyebrow accent">${P(entry.id).completedOn != null ? "Day done" : "Minimum done"}</div><h3 style="margin-top:6px">Keep going?</h3>
+      <div class="stack" style="margin-top:12px">${nextEntry ? `<button class="btn primary block" data-ahead>Next: ${esc(nextEntry.title)}</button>` : ""}<a class="btn block" href="#/review/extra">Practise pictures</a></div></div>` : ""}
+
+    <div class="section-title"><h3>${MON[dt.getMonth()]}</h3><span class="small faint">${sk.count} day streak</span></div>
+    <div class="heat">${monthHeat(t, sk)}</div>
+    <div class="tiny faint" style="margin-top:8px">Orange: minimum done. Light: short day. Blue: freeze used.</div>
+  </div>`, { tab: "today" });
+
+  $$("[data-node]").forEach(b => b.onclick = () => {
+    const e = PLAN.find(x => x.id === b.dataset.node);
+    if (e === entry) { location.hash = data ? (nextK ? stepHref(nextK, entry) : `#/close/${entry.id}`) : "#/review"; return; }
+    location.hash = e.file ? `#/read/${e.id}` : `#/day/${e.id}`;
+  });
+  const ah = $("[data-ahead]"); if (ah) ah.onclick = () => aheadSheet(nextEntry);
+  const hi = $("[data-hideinstall]"); if (hi) hi.onclick = () => { S.settings.hideInstall = true; save(); hi.parentElement.remove(); };
+  const cur = $(".node.cur"); if (cur) cur.scrollIntoView({ block: "center" });
+  prefetchNext(entry);
+});
+function monthHeat(t, sk) {
+  const dt = nToDate(t);
   const first = dayN(new Date(dt.getFullYear(), dt.getMonth(), 1)), lead = new Date(dt.getFullYear(), dt.getMonth(), 1).getDay();
   const dim = new Date(dt.getFullYear(), dt.getMonth() + 1, 0).getDate();
   let heat = WD.map(w => `<div class="wd">${w[0]}</div>`).join("") + Array(lead).fill('<div class="pad0"></div>').join("");
-  for (let i = 0; i < dim; i++) { const n = first + i, k = dStr(n); const s = studied(k), fz = sk.frozen.includes(k); heat += `<div class="${s ? (S.days[k]?.floor ? "s2" : "s1") : fz ? "fz" : ""} ${n === t ? "today" : ""}">${i + 1}</div>`; }
-
-  setView(`<div class="wrap">
-    <header class="today-head">
-      <div class="eyebrow">${WD[dt.getDay()]}, ${dt.getDate()} ${MON[dt.getMonth()]}</div>
-      <h1 style="margin-top:6px">${P(entry.id).completedOn === now() || (f.met && !nextK) ? "Today is done." : f.met ? "Minimum done." : nextK === "warm" && !r.reviews ? "Good to see you." : "Keep going."}</h1>
-      <div class="chips"><span class="chip hot"><b>${sk.count}</b> day streak</span><span class="chip"><b>${studiedMonth}/${monthDays}</b> this month</span><span class="chip"><b>${done.length}/36</b> stamps</span></div>
-      ${S.settings.cue ? `<div class="small faint" style="margin-top:10px">Your time: ${esc(S.settings.cue)}</div>` : ""}
-    </header>
-
-    <a class="card hero-card" href="${data ? stepHref(nextK || "read", entry) : `#/day/${entry.id}`}" style="display:block;text-decoration:none;color:inherit">
-      <div class="img" style="${hero ? `background-image:url('${esc(imgUrl(hero, 960))}')` : ""}"><div class="cap"><div class="eyebrow">Day ${entry.n} · ${esc(entry.region)}</div><h2>${esc(entry.title)}</h2></div></div>
-      <div class="body">${data ? `<div class="ring-row">${ringSvg(f)}<div class="legend">
-          <div><span><i style="background:var(--ink)"></i>Review</span><b>${f.reviewGoal ? `${f.reviewGoal - f.dueLeft}/${f.reviewGoal}` : "none due"}</b></div>
-          <div><span><i style="background:var(--accent)"></i>Read</span><b>${Math.round(f.readDone * 100)}%</b></div>
-          <div><span><i style="background:#B9AD98"></i>New cards</span><b>${f.learnedN}/${f.coreN}</b></div>
-        </div></div><div class="small muted" style="margin-top:12px">Daily minimum: the three rings. Everything past them is a bonus.</div>`
-        : `<p class="muted">${entry.kind === "review" ? "Review day. Mixed cards and games across everything so far." : "This day is being written."}</p>`}</div>
-    </a>
-
-    ${!isStandalone && !S.settings.hideInstall ? `<div class="banner"><div><b>Add this to your Home Screen</b>In Safari: Share, then Add to Home Screen. It keeps your progress safe and works offline.</div><button class="bx" data-hideinstall aria-label="Dismiss">✕</button></div>` : ""}
-    ${data ? `<div class="steps">${STEP_DEF.map(([k, name, sub], i) => `<a class="step ${st[k] ? "done" : k === nextK ? "next" : ""}" href="${stepHref(k, entry)}"><span class="dot">${st[k] ? "✓" : i + 1}</span><span class="t"><b>${name}</b><span>${k === "warm" ? (due ? `${plural(due, "card")} due, then 5 guesses` : sub) : sub}</span></span><span class="go">›</span></a>`).join("")}</div>` : `<div style="margin-top:16px"><a class="btn primary block" href="#/review">${due ? `Review ${plural(due, "due card")}` : "Practise past cards"}</a></div>`}
-
-    ${f.met ? `<div class="card pad" style="margin-top:18px"><div class="eyebrow accent">${P(entry.id).completedOn != null ? "Day done" : "Minimum done"}</div><h3 style="margin-top:6px">Want more?</h3>
-      <div class="stack" style="margin-top:12px">
-        ${nextEntry ? `<button class="btn primary block" data-ahead>Next: ${esc(nextEntry.title)}</button>` : ""}
-        <a class="btn block" href="#/review/extra">Practise today's pictures</a>
-      </div></div>` : ""}
-
-    <div class="section-title"><h3>${MON[dt.getMonth()]}</h3></div>
-    <div class="heat">${heat}</div>
-    <div class="tiny faint" style="margin-top:8px">Dark: minimum done. Light: short day. Blue: freeze used.</div>
-
-    <div class="section-title"><h3>Passport</h3><a class="small" href="#/passport" style="color:var(--accent);font-weight:600;text-decoration:none">All 36 ›</a></div>
-    <div class="stamps strip">${PLAN.filter(e => e.kind !== "review").slice(0, 12).map(e => stampHtml(e)).join("")}</div>
-  </div>`, { tab: "today" });
-
-  const ah = $("[data-ahead]"); if (ah) ah.onclick = () => aheadSheet(nextEntry);
-  const hi = $("[data-hideinstall]"); if (hi) hi.onclick = () => { S.settings.hideInstall = true; save(); hi.parentElement.remove(); };
-  prefetchNext(entry);
-});
+  for (let i = 0; i < dim; i++) { const n = first + i, k = dStr(n); const s2 = studied(k), fz = sk.frozen.includes(k); heat += `<div class="${s2 ? (S.days[k]?.floor ? "s2" : "s1") : fz ? "fz" : ""} ${n === t ? "today" : ""}">${i + 1}</div>`; }
+  return heat;
+}
 
 async function aheadSheet(next) {
   const d = await loadDay(next);
@@ -679,7 +719,7 @@ route(/^\/read\/([\w-]+)(\?nocards)?$/, async (id, nocards) => {
   const allSpots = secs.flatMap(s => s.spotlights || []);
   const wordsLeft = () => { const unread = secs.filter(s => !p.read[s.id]).length; return Math.max(1, Math.round((d.reading_minutes || 50) * unread / (secs.length || 1))); };
   let firstSpot = true;
-  setView(`<div class="wrap">${topbar(entry.title, "#/today", 0, `<span class="small faint" id="minleft">${wordsLeft()} min left</span>`)}
+  setView(`<div class="wrap" style="--area:${col(entry.area)[0]};--area-d:${col(entry.area)[1]}">${topbar(entry.title, "#/today", 0, `<span class="small faint" id="minleft">${wordsLeft()} min left</span>`)}
     <div class="read-hero">${hero ? `<img src="${esc(imgUrl(hero, 1280))}" alt="${esc(hero.alt)}" fetchpriority="high">` : ""}
       <div class="cap"><div class="eyebrow">${esc(d.hero?.kicker || `Day ${entry.n}`)}</div><h1>${esc(d.title)}${d.native_name ? `<span class="native" style="color:rgba(255,255,255,.75)">${esc(d.native_name)}</span>` : ""}</h1>${d.hero?.headline ? `<p>${esc(d.hero.headline.replace(new RegExp("^" + d.title + ":\\s*"), "").replace(/^./, c => c.toUpperCase()))}</p>` : ""}</div></div>
     ${hero ? credit(hero) : ""}
@@ -867,11 +907,11 @@ route(/^\/make\/([\w-]+)$/, async id => {
   const sd = d.side_dish, ot = d.offline_task;
   const sdImg = sd?.image_ids?.map(i => d._img[i]).filter(Boolean)[0];
   setView(`<div class="wrap">${topbar(`Make · ${entry.title}`, "#/today")}
-    <section class="sec" style="padding-top:22px"><div class="eyebrow accent">1 · Explain it back</div><h2>${esc(entry.title)} in five lines</h2>
-      <p class="muted small" style="margin:6px 0 12px">No scrolling back. Write it as if telling a friend over chai. Putting it in your own words is what makes it yours.</p>
+    <section class="sec" style="padding-top:22px"><div class="eyebrow accent">1 · Explain it back · optional</div><h2>${esc(entry.title)} in five lines</h2>
+      <p class="muted small" style="margin:6px 0 12px">Type it, or just say it out loud. No scrolling back. Putting it in your own words is what makes it stick.</p>
       <textarea class="txt" id="explain" placeholder="Start with where it is and the one thing you would tell anyone...">${esc(p.explain || "")}</textarea></section>
-    <section class="sec"><div class="eyebrow accent">2 · Why?</div><h2>Three why questions</h2>
-      ${whys.map(c => `<div class="card pad" style="margin-top:12px" data-why="${esc(c.id)}"><div class="h3" style="font-size:19px">${esc(c.front)}</div><textarea class="txt" style="min-height:90px;margin-top:10px" placeholder="Your answer">${esc(p.whys[c.id] || "")}</textarea><button class="linkbtn" data-rv>Compare with the answer</button><div class="prose" style="font-size:16px" hidden>${md(c.back)}</div></div>`).join("")}</section>
+    <section class="sec"><div class="eyebrow accent">2 · Why?</div><h2>Three why questions</h2><p class="muted small" style="margin-top:6px">Think of your answer, type it if you like, then compare.</p>
+      ${whys.map(c => `<div class="card pad" style="margin-top:12px" data-why="${esc(c.id)}"><div class="h3" style="font-size:19px">${esc(c.front)}</div><textarea class="txt" style="min-height:70px;margin-top:10px" placeholder="Your answer (optional)">${esc(p.whys[c.id] || "")}</textarea><button class="linkbtn" data-rv>Compare with the answer</button><div class="prose" style="font-size:16px" hidden>${md(c.back)}</div></div>`).join("")}</section>
     ${sd ? `<section class="sec"><div class="eyebrow accent">3 · Side dish · ${esc(sd.area || "")}</div><h2>${esc(sd.title)}</h2>${sdImg ? `<div style="margin:12px 0"><button data-view="${esc(sdImg.id)}" style="width:100%"><img src="${esc(imgUrl(sdImg, 960))}" alt="${esc(sdImg.alt)}" loading="lazy" style="border-radius:12px;width:100%;max-height:300px;object-fit:cover"></button>${credit(sdImg)}</div>` : ""}<div class="prose">${md(sd.body_md)}</div>
       ${sd.card_ids?.length ? `<button class="btn block" style="margin-top:14px" data-sdcards>Add ${sd.card_ids.length} side dish cards</button>` : ""}</section>` : ""}
     ${ot ? `<section class="sec"><div class="eyebrow accent">4 · Off the screen</div><h2>${esc(ot.title)}</h2><div class="prose">${md(ot.body_md)}</div><label class="row" style="margin-top:14px;font-weight:600"><input type="checkbox" id="offl" ${p.offline ? "checked" : ""} style="width:22px;height:22px;accent-color:var(--accent)"> Done it</label></section>` : ""}
@@ -916,26 +956,32 @@ function ticket(entry, d, fresh = false) {
 route(/^\/day\/([\w-]+)$/, async id => {
   const entry = entryById(id), d = await loadDay(entry);
   if (d) { location.replace(`#/read/${id}`); return; }
-  setView(`<div class="wrap">${topbar(entry?.title || "Day", "#/library")}<div class="empty-state"><div class="eyebrow">Day ${entry?.n} · ${esc(entry?.region || "")}</div><h2 style="margin-top:8px">${esc(entry?.title || "")}</h2><p class="muted" style="margin-top:10px">${entry?.kind === "review" ? "Review day: mixed cards across the region, Connections-style grouping, guess the state from clues, and a blank map of everything so far." : "Being written. Each day is researched and fact-checked a week ahead."}</p><a class="btn block" style="margin-top:22px" href="#/review">Review your deck</a></div></div>`, { tabbar: false });
+  setView(`<div class="wrap">${topbar(entry?.title || "Day", "#/library")}<div class="empty-state"><div class="eyebrow">Day ${entry?.n} · ${esc(entry?.region || "")}</div><h2 style="margin-top:8px">${esc(entry?.title || "")}</h2><p class="muted" style="margin-top:10px">${entry?.kind === "review" ? "Review day: mixed cards across the region, Connections-style grouping, guess the state from clues, and a blank map of everything so far." : "Being researched now. Topics are written in queue order and appear in the Library as soon as they pass review."}</p><a class="btn block" style="margin-top:22px" href="#/review">Review your deck</a></div></div>`, { tabbar: false });
 });
 
 // ---------- Passport ----------
 route(/^\/passport$/, async () => {
-  await Promise.all(PLAN.filter(e => S.progress[e.id]?.completedOn != null).map(loadDay));
-  const states = PLAN.filter(e => e.kind !== "review");
-  const done = states.filter(e => S.progress[e.id]?.completedOn != null);
-  const regions = [...new Set(states.map(e => e.region))];
-  setView(`<div class="wrap"><header class="today-head"><div class="eyebrow">Passport</div><h1 style="margin-top:6px">${done.length} of 36 stamped</h1><div class="progress" style="margin-top:14px;height:6px"><i style="width:${done.length / 36 * 100}%"></i></div></header>
-    ${regions.map(r => `<div class="section-title"><h3>${esc(r)}</h3><span class="small faint">${states.filter(e => e.region === r && S.progress[e.id]?.completedOn != null).length}/${states.filter(e => e.region === r).length}</span></div><div class="stamps">${states.filter(e => e.region === r).map(e => `<a href="#/day/${e.id}" style="text-decoration:none;color:inherit">${stampHtml(e)}</a>`).join("")}</div>`).join("")}
+  const doneE = PLAN.filter(e => S.progress[e.id]?.completedOn != null);
+  await Promise.all(doneE.map(loadDay));
+  const areas = [...new Set(PLAN.map(e => e.area))];
+  setView(`<div class="wrap"><header class="today-head"><div class="eyebrow">Passport</div><h1 style="margin-top:6px">${doneE.length} of ${PLAN.length} stamped</h1><div class="progress" style="margin-top:14px"><i style="width:${Math.max(1, doneE.length / PLAN.length * 100)}%"></i></div></header>
+    ${doneE.length ? `<div class="section-title"><h3>Your stamps</h3></div><div class="stamps">${doneE.map(e => `<a href="#/close/${e.id}" style="text-decoration:none;color:inherit">${stampHtml(e)}</a>`).join("")}</div>` : `<p class="muted" style="margin-top:16px">Finish a day to earn its stamp.</p>`}
+    <div class="section-title"><h3>By area</h3></div>
+    ${areas.map(a => { const all = PLAN.filter(e => e.area === a), d = all.filter(e => S.progress[e.id]?.completedOn != null).length, [c] = col(a); return `<a class="lib-item" href="#/library?${encodeURIComponent(a)}"><div class="th" style="background:${c};color:#fff">${esc(a[0])}</div><div class="t"><b>${esc(a)}</b><span>${d} of ${all.length} · ${all.filter(e => e.file).length} ready</span><div class="progress" style="height:8px;margin-top:6px"><i style="width:${d / all.length * 100}%;background:${c}"></i></div></div></a>`; }).join("")}
   </div>`, { tab: "passport" });
 });
 
 // ---------- Library ----------
-route(/^\/library$/, async () => {
-  await Promise.all(PLAN.filter(e => e.file).map(loadDay));
-  setView(`<div class="wrap"><header class="today-head"><div class="eyebrow">Library</div><h1 style="margin-top:6px">The route</h1><p class="muted" style="margin-top:6px">Region by region, so neighbours sit side by side. A review day closes each week.</p></header>
-    <div style="margin-top:10px">${PLAN.map(e => { const d = cache[e.id], h = d && d._img[d.hero?.image_id], pr = S.progress[e.id]; return `<a class="lib-item" href="${d ? `#/read/${e.id}` : `#/day/${e.id}`}"><div class="th" style="${h ? `background-image:url('${esc(imgUrl(h, 330))}')` : ""}">${h ? "" : e.n}</div><div class="t"><b>${esc(e.title)}</b><span>Day ${e.n} · ${esc(e.region)}${e.kind === "light" ? " · light day" : ""}${e.kind === "review" ? " · review" : ""}</span></div>${pr?.completedOn != null ? '<span class="pill ok">Stamped</span>' : d ? '<span class="pill">Ready</span>' : '<span class="pill">Soon</span>'}</a>`; }).join("")}</div>
+route(/^\/library(?:\?(.*))?$/, async (q) => {
+  const areas = [...new Set(PLAN.map(e => e.area))];
+  const sel = q ? decodeURIComponent(q) : "Ready";
+  const list = sel === "Ready" ? PLAN.filter(e => e.file) : sel === "All" ? PLAN : PLAN.filter(e => e.area === sel);
+  setView(`<div class="wrap"><header class="today-head"><div class="eyebrow">Library</div><h1 style="margin-top:6px">${PLAN.filter(e => e.file).length} topics ready</h1><p class="muted" style="margin-top:6px">${PLAN.length} in the queue, written in order. New ones appear here as they are finished.</p></header>
+    <div class="area-chips">${["Ready", "All", ...areas].map(a => `<button class="${a === sel ? "on" : ""}" data-area="${esc(a)}">${esc(a)}</button>`).join("")}</div>
+    <div>${list.slice(0, 400).map(e => { const pr = S.progress[e.id], [c] = col(e.area); return `<a class="lib-item" href="${e.file ? `#/read/${e.id}` : `#/day/${e.id}`}"><div class="th" style="${e.hero ? `background-image:url('${esc(e.hero)}')` : `background:${c};color:#fff`}">${e.hero ? "" : e.n}</div><div class="t"><b>${esc(e.title)}</b><span>Day ${e.n} · ${esc(e.area)}${e.minutes ? ` · ${e.minutes} min` : ""}</span></div>${pr?.completedOn != null ? '<span class="pill ok">Stamped</span>' : e.file ? '<span class="pill">Ready</span>' : '<span class="pill">Soon</span>'}</a>`; }).join("")}
+    ${list.length > 400 ? `<p class="small faint" style="margin-top:12px">Showing 400 of ${list.length}. Pick an area to narrow it.</p>` : ""}</div>
   </div>`, { tab: "library" });
+  $$("[data-area]").forEach(b => b.onclick = () => { location.hash = `#/library?${encodeURIComponent(b.dataset.area)}`; });
 });
 
 // ---------- Settings ----------
