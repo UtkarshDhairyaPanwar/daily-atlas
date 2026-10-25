@@ -838,7 +838,6 @@
    ],
    "source_ids": [
     "wiki_burzahom",
-    "wiki_harwan",
     "wiki_council4",
     "wiki_rajatarangini",
     "wiki_lalitaditya",
@@ -1530,7 +1529,9 @@
       "lon": 75.25
      },
      "when": "Old folk theatre, at least several centuries",
-     "image_ids": [],
+     "image_ids": [
+      "img_bhand"
+     ],
      "media_ids": [],
      "spot_it": "Actors in loud costumes and masks performing in an open courtyard, led by a piercing surnai oboe and a dhol, mocking a landlord or a foreign officer.",
      "story_md": "**Bhands**, hereditary performers from villages such as **Akingam** and **Wathora**, perform **pathers**, short plays of satire. Each pather has a stock theme: *Raja Pather* mocks the king, *Angrez Pather* the British officer who cannot speak Kashmiri, *Darza Pather* the tax man, *Shikargah Pather* the hunt, with actors in animal masks. The music comes from the **surnai**, a shrill oboe. The bhands often play as Muslim performers at a Shiva shrine in Akingam, an old link between the two faiths. Their audience shrank sharply during the conflict, and revival groups now stage it at festivals.",
@@ -1825,9 +1826,7 @@
       "img_noonchai",
       "img_kahwa"
      ],
-     "media_ids": [
-      "vid_noonchai"
-     ],
+     "media_ids": [],
      "spot_it": "A pink, salty, milky tea poured from a brass or copper samovar, and a clear golden green tea with saffron strands and almond slivers.",
      "story_md": "**Noon chai** (*noon* means salt in Kashmiri) is made by boiling green tea leaves with a pinch of **baking soda** for a long time, then adding cold water, milk and salt. The soda and the long boil turn it a striking **pink**. Kashmiris drink it two or three times a day with bread from the kandur. **Kahwa**, for guests and for cold days, is green tea brewed with **saffron**, cardamom, cinnamon and almonds, usually sweetened. Both are served from the **samovar**, a metal urn with a central tube holding live coals, a Central Asian tool that came over the trade routes.",
      "why_it_matters": "It is the drink of Kashmiri daily life and hospitality.",
@@ -1970,9 +1969,7 @@
       "img_bakarwal",
       "img_bakarwal2"
      ],
-     "media_ids": [
-      "vid_noonchai"
-     ],
+     "media_ids": [],
      "spot_it": "Families on foot with goats and sheep, horses carrying tents and children, crossing high passes under snow peaks.",
      "story_md": "**Bakarwals** (from *bakri*, goat) are Gojri-speaking nomadic herders, mostly Muslim, recognised as a **Scheduled Tribe** in 1991. Each spring families leave the warm plains of Jammu, Kathua and Rajouri and walk their flocks for weeks over the **Pir Panjal**, to summer pastures in Kashmir and beyond, then return in autumn. The routes cross passes above 4,000 m. Changing land use, new roads and forest rules have narrowed their paths, and the government now runs trucks to move some families and flocks. Their sheepdogs, the **Bakarwal mastiff**, are a rare breed guarding flocks against bears and leopards.",
      "why_it_matters": "They are one of South Asia's last great walking migrations.",
@@ -1998,29 +1995,8 @@
    "id": "people",
    "order": 14,
    "title": "People to know: from the slopes to the stadium",
-   "intro_md": "Many of the territory's best-known people appear elsewhere today: the poets Lal Ded, Habba Khatoon, Mahjoor and Agha Shahid Ali; Kalhana and Abhinavagupta; Sheikh Abdullah; Shivkumar Sharma. Others worth knowing include **Karan Singh**, Hari Singh's son, who became regent at 18, then Sadr-i-Riyasat (head of state), and later a Union minister; **Mehbooba Mufti**, the first woman chief minister (2016 to 2018); Dogri poet **Padma Sachdev**; and the Kashmiri poet **Mahjoor** (1887 to 1952), who turned Kashmiri verse from mystic to political.\n\nSport has given the territory two firsts that matter to young Kashmiris: a skier from Gulmarg and a cricketer from Bijbehara, both from places where facilities were thin and training meant travelling far. Kashmir also has growing football: **Real Kashmir FC**, founded in 2016, reached the I-League and gave Srinagar its first professional club.",
+   "intro_md": "Many of the territory's best-known people appear elsewhere today: Lal Ded, Habba Khatoon, Agha Shahid Ali, Kalhana, Abhinavagupta, Sheikh Abdullah and Shivkumar Sharma. Others worth knowing: **Karan Singh**, Hari Singh's son, regent at 18 and later a Union minister; **Mehbooba Mufti**, the first woman chief minister (2016 to 2018); the poet **Mahjoor** (1887 to 1952), who turned Kashmiri verse from mystic to political; and Dogri poet **Padma Sachdev**.\n\nSport has two firsts. **Arif Khan**, a skier from Tangmarg below Gulmarg, was India's only athlete at the **2022 Beijing Winter Olympics**, entering the slalom and giant slalom. And a cricketer from Bijbehara, near the willow bat factories, became the first from J&K to play for India.",
    "spotlights": [
-    {
-     "id": "arif_khan",
-     "kind": "person",
-     "name": "Arif Khan",
-     "where": {
-      "label": "Gulmarg",
-      "lat": 34.0484,
-      "lon": 74.3805
-     },
-     "when": "Born 1990; Beijing 2022 Winter Olympics",
-     "image_ids": [],
-     "media_ids": [],
-     "spot_it": "An alpine skier in Indian colours on a slalom course, from a family that runs a ski equipment shop in Gulmarg.",
-     "story_md": "Arif Khan grew up in **Tangmarg** below Gulmarg, where his father ran a ski equipment shop, and started skiing at four. At the **2022 Beijing Winter Olympics** he was India's only athlete and the first Indian to qualify for two alpine events, the slalom and giant slalom, finishing the giant slalom in 45th place. He trained in Europe on borrowed money and crowdfunding, and became a public face for Gulmarg as a winter sports destination.",
-     "why_it_matters": "He showed that Kashmir's slopes can produce Olympians.",
-     "memory_hook": "One Indian at the 2022 Winter Games, and he was from Gulmarg.",
-     "source_ids": [
-      "wiki_arif",
-      "wiki_gulmarg"
-     ]
-    },
     {
      "id": "parvez_rasool",
      "kind": "person",
@@ -2362,9 +2338,7 @@
      },
      "when": "Resolution passed 28 September 2026",
      "image_ids": [
-      "img_omar",
-      "img_omar2",
-      "img_omar3"
+      "img_omar"
      ],
      "media_ids": [],
      "spot_it": "Chief Minister Omar Abdullah speaking in the assembly; banners reading 'Statehood is our right' at National Conference rallies.",
@@ -2400,7 +2374,7 @@
    "id": "recap",
    "order": 18,
    "title": "Myths, facts and a recap",
-   "intro_md": "**Myth: Kashmir is all snow.** The Jammu plains reach about 45 °C in June. Even the Valley gets 30 °C summers.\n\n**Myth: Article 370 stopped Indians from visiting or living in Kashmir.** Anyone could visit and rent. What it, and Article 35A, restricted was buying land and holding state jobs, reserved for permanent residents. Similar land protections still exist in Himachal Pradesh and the northeast.\n\n**Myth: Kashmiri Hindus and Muslims were always enemies.** They shared saints, shrines and a language for centuries; the bitter split dates mainly from 1989 to 1990.\n\n**Myth: the ring test proves a pashmina is real.** It was a test for shahtoosh, now banned, and fine machine-made fabrics can pass it too.\n\n**Myth: rogan josh is red from tomatoes.** The colour traditionally comes from mild dried Kashmiri chillies and the flower called **mawal** (cockscomb).\n\n**Recap.** A valley that was a lake; a hill country with a Dogra past; a thousand years of Sanskrit learning; Sufi saints and a poet-queen; a kingdom sold for 75 lakh; seven decades of special status and conflict; and now a territory joined by rail, asking to be a state again.",
+   "intro_md": "**Myth: Kashmir is all snow.** The Jammu plains reach about 45 °C in June.\n\n**Myth: Article 370 stopped Indians from visiting Kashmir.** Anyone could visit and rent. It, with Article 35A, reserved land purchase and state jobs for permanent residents, much as Himachal Pradesh and the northeast still protect land.\n\n**Myth: Kashmiri Hindus and Muslims were always enemies.** They shared saints, shrines and a language for centuries; the bitter split dates mainly from 1989 to 1990.\n\n**Myth: rogan josh is red from tomatoes.** The colour comes from mild Kashmiri chillies and **mawal**, cockscomb flower.\n\n**Recap.** A drained lake; a Dogra hill country; a thousand years of Sanskrit learning; Sufi saints and a poet-queen; a kingdom sold for 75 lakh; seven decades of special status and conflict; and now a territory joined by rail, asking to be a state again.",
    "visual": {
     "type": "photo_grid",
     "title": "The day in pictures",
@@ -5819,41 +5793,11 @@
   },
   {
    "id": "img_omar",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Omar_Abdullah_(portrait).jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Omar_Abdullah_%28portrait%29.jpg",
-   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Omar_Abdullah_%28portrait%29.jpg",
-   "width": 148,
-   "height": 194,
-   "author": "Joel's Goa Pics",
-   "license": "CC BY-SA 2.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-   "attribution": "Photo: Joel's Goa Pics, CC BY-SA 2.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Portrait of Omar Abdullah",
-   "caption": "Omar Abdullah."
-  },
-  {
-   "id": "img_omar2",
    "file_page": "https://commons.wikimedia.org/wiki/File:Omar_Abdullah.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Omar_Abdullah.jpg",
    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Omar_Abdullah.jpg",
    "width": 400,
    "height": 537,
-   "author": "Joel's Goa Pics",
-   "license": "CC BY-SA 2.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-   "attribution": "Photo: Joel's Goa Pics, CC BY-SA 2.0, via Wikimedia Commons",
-   "verified_on": "2026-10-25",
-   "alt": "Omar Abdullah",
-   "caption": "Omar Abdullah."
-  },
-  {
-   "id": "img_omar3",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Omar_Abdullah_(cropped).jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Omar_Abdullah_%28cropped%29.jpg",
-   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Omar_Abdullah_%28cropped%29.jpg",
-   "width": 316,
-   "height": 367,
    "author": "Joel's Goa Pics",
    "license": "CC BY-SA 2.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -5879,24 +5823,6 @@
    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "file_page": "https://commons.wikimedia.org/wiki/File:Dal_Lake_Srinagar.webm",
    "duration_s": 10,
-   "verified_on": "2026-10-25",
-   "verified_by": "Commons API imageinfo"
-  },
-  {
-   "id": "vid_noonchai",
-   "kind": "video",
-   "provider": "commons",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Pastoralists_Preparing_Noon_Chai_%28Pink-Salt_Tea%29_During_Transhumant_Migration_in_Jammu_and_Kashmir.webm",
-   "embed_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Pastoralists_Preparing_Noon_Chai_%28Pink-Salt_Tea%29_During_Transhumant_Migration_in_Jammu_and_Kashmir.webm",
-   "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Pastoralists_Preparing_Noon_Chai_%28Pink-Salt_Tea%29_During_Transhumant_Migration_in_Jammu_and_Kashmir.webm/1280px--Pastoralists_Preparing_Noon_Chai_%28Pink-Salt_Tea%29_During_Transhumant_Migration_in_Jammu_and_Kashmir.webm.jpg",
-   "start": 0,
-   "end": null,
-   "title": "Pastoralists preparing noon chai during migration",
-   "publisher": "EIC AI",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "file_page": "https://commons.wikimedia.org/wiki/File:Pastoralists_Preparing_Noon_Chai_(Pink-Salt_Tea)_During_Transhumant_Migration_in_Jammu_and_Kashmir.webm",
-   "duration_s": 33,
    "verified_on": "2026-10-25",
    "verified_by": "Commons API imageinfo"
   },
@@ -6222,16 +6148,9 @@
    "accessed": "2026-10-25"
   },
   {
-   "id": "wiki_harwan",
-   "title": "Harwan",
-   "url": "https://en.wikipedia.org/wiki/Harwan",
-   "publisher": "Wikipedia",
-   "accessed": "2026-10-25"
-  },
-  {
    "id": "wiki_council4",
-   "title": "Fourth Buddhist council",
-   "url": "https://en.wikipedia.org/wiki/Fourth_Buddhist_council",
+   "title": "Buddhist councils (Fourth council, Kashmir)",
+   "url": "https://en.wikipedia.org/wiki/Buddhist_councils",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -6272,8 +6191,8 @@
   },
   {
    "id": "wiki_lalded",
-   "title": "Lal Ded",
-   "url": "https://en.wikipedia.org/wiki/Lal_Ded",
+   "title": "Lalleshwari",
+   "url": "https://en.wikipedia.org/wiki/Lalleshwari",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -6391,9 +6310,9 @@
   },
   {
    "id": "sc_370",
-   "title": "In Re: Article 370 of the Constitution, judgment of 11 December 2023",
-   "url": "https://main.sci.gov.in/supremecourt/2019/28625/28625_2019_1_1501_48851_Judgement_11-Dec-2023.pdf",
-   "publisher": "Supreme Court of India",
+   "title": "Supreme Court judgment on Article 370, 11 December 2023 (summary and holdings)",
+   "url": "https://en.wikipedia.org/wiki/Revocation_of_the_special_status_of_Jammu_and_Kashmir#Supreme_Court_verdict",
+   "publisher": "Wikipedia, summarising the Supreme Court of India judgment",
    "accessed": "2026-10-25"
   },
   {
@@ -6440,9 +6359,9 @@
   },
   {
    "id": "jk_lang_act",
-   "title": "The Jammu and Kashmir Official Languages Act, 2020",
-   "url": "https://www.indiacode.nic.in/handle/123456789/15541",
-   "publisher": "India Code, Ministry of Law and Justice",
+   "title": "Official languages under the Jammu and Kashmir Official Languages Act, 2020",
+   "url": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(union_territory)#Languages",
+   "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
   {
@@ -6483,7 +6402,7 @@
   {
    "id": "wiki_kheer",
    "title": "Kheer Bhawani Temple",
-   "url": "https://en.wikipedia.org/wiki/Kheer_Bhawani",
+   "url": "https://en.wikipedia.org/wiki/Kheer_Bhawani_Temple",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -6524,8 +6443,8 @@
   },
   {
    "id": "wiki_sufiana",
-   "title": "Sufiana Kalam",
-   "url": "https://en.wikipedia.org/wiki/Sufiana_Kalam",
+   "title": "Music of Jammu and Kashmir (Sufiana Kalam)",
+   "url": "https://en.wikipedia.org/wiki/Music_of_Jammu_and_Kashmir",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -6538,8 +6457,8 @@
   },
   {
    "id": "wiki_basohli",
-   "title": "Basohli",
-   "url": "https://en.wikipedia.org/wiki/Basohli",
+   "title": "Basohli (town) and its painting",
+   "url": "https://en.wikipedia.org/wiki/Basohli_(town)",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -6552,36 +6471,36 @@
   },
   {
    "id": "wiki_pashmina",
-   "title": "Pashmina",
-   "url": "https://en.wikipedia.org/wiki/Pashmina",
+   "title": "Pashmina (material)",
+   "url": "https://en.wikipedia.org/wiki/Pashmina_(material)",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
   {
    "id": "wiki_kani",
-   "title": "Kani shawl",
-   "url": "https://en.wikipedia.org/wiki/Kani_shawl",
+   "title": "Kashmir shawl (including Kani weaving)",
+   "url": "https://en.wikipedia.org/wiki/Kashmir_shawl",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
   {
    "id": "wiki_papier",
-   "title": "Papier-mache in Kashmir",
-   "url": "https://en.wikipedia.org/wiki/Kashmiri_papier-m%C3%A2ch%C3%A9",
+   "title": "Kashmiri handicrafts (papier-mache)",
+   "url": "https://en.wikipedia.org/wiki/Kashmiri_handicrafts",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
   {
    "id": "wiki_khatamband",
-   "title": "Khatamband",
-   "url": "https://en.wikipedia.org/wiki/Khatamband",
+   "title": "Kashmiri handicrafts (walnut carving, khatamband)",
+   "url": "https://en.wikipedia.org/wiki/Kashmiri_handicrafts",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
   {
    "id": "wiki_willow",
-   "title": "Kashmir willow",
-   "url": "https://en.wikipedia.org/wiki/Kashmir_willow",
+   "title": "Cricket bat (English and Kashmir willow)",
+   "url": "https://en.wikipedia.org/wiki/Cricket_bat",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -6636,8 +6555,8 @@
   },
   {
    "id": "wiki_kalari",
-   "title": "Kalari (cheese)",
-   "url": "https://en.wikipedia.org/wiki/Kalari_(cheese)",
+   "title": "Kashmiri cuisine (kaladi and regional dishes)",
+   "url": "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -6671,8 +6590,8 @@
   },
   {
    "id": "wiki_bakarwal",
-   "title": "Bakarwal",
-   "url": "https://en.wikipedia.org/wiki/Bakarwal",
+   "title": "Bakarwal people",
+   "url": "https://en.wikipedia.org/wiki/Bakarwal_people",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -6692,8 +6611,8 @@
   },
   {
    "id": "wiki_zmorh",
-   "title": "Z-Morh Tunnel",
-   "url": "https://en.wikipedia.org/wiki/Z-Morh_Tunnel",
+   "title": "Sonamarg Tunnel (Z-Morh)",
+   "url": "https://en.wikipedia.org/wiki/Sonamarg_Tunnel",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -6720,8 +6639,8 @@
   },
   {
    "id": "wiki_apple_india",
-   "title": "Apple production in India",
-   "url": "https://en.wikipedia.org/wiki/Apple_production_in_India",
+   "title": "Jammu and Kashmir (union territory): economy and apple cultivation",
+   "url": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(union_territory)#Economy",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -6769,8 +6688,8 @@
   },
   {
    "id": "wiki_sindoor",
-   "title": "Operation Sindoor",
-   "url": "https://en.wikipedia.org/wiki/Operation_Sindoor",
+   "title": "2025 India to Pakistan conflict (Operation Sindoor)",
+   "url": "https://en.wikipedia.org/wiki/2025_India%E2%80%93Pakistan_conflict",
    "publisher": "Wikipedia",
    "accessed": "2026-10-25"
   },
@@ -6988,18 +6907,6 @@
    "claim": "Photo of Agha Shahid Ali",
    "status": "no_image",
    "spotlight_id": "agha_shahid_ali",
-   "note": "No correct, openly licensed photo was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of Bhand Pather",
-   "status": "no_image",
-   "spotlight_id": "bhand_pather",
-   "note": "No correct, openly licensed photo was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of Arif Khan",
-   "status": "no_image",
-   "spotlight_id": "arif_khan",
    "note": "No correct, openly licensed photo was found on Wikimedia Commons; left blank rather than use a wrong one."
   }
  ],
