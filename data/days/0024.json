@@ -1765,7 +1765,10 @@
       "lon": 78.48
      },
      "when": "Gummadi Vittal Rao, 1949 to 2023",
-     "image_ids": [],
+     "image_ids": [
+      "img_gaddar_1",
+      "img_gaddar_2"
+     ],
      "media_ids": [
       "vid_dappu"
      ],
@@ -6284,6 +6287,36 @@
    "id": "img_gunpark",
    "alt": "A white pillar memorial in a small park",
    "caption": "The martyrs' memorial at Gun Park, opposite the old Assembly."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gaddar_performs_in_Kolkata.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gaddar_performs_in_Kolkata.jpg",
+   "width": 720,
+   "height": 540,
+   "author": "Pinakpani",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Gaddar_performs_in_Kolkata.jpg",
+   "attribution": "Photo: Pinakpani, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "id": "img_gaddar_1",
+   "alt": "Gaddar performing on stage in Kolkata",
+   "caption": "Gaddar performing in Kolkata."
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Gaddar.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Gaddar.jpg/1280px-Gaddar.jpg",
+   "width": 2592,
+   "height": 1728,
+   "author": "Batthini Vinay Kumar Goud",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Gaddar.jpg",
+   "attribution": "Photo: Batthini Vinay Kumar Goud, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-25",
+   "id": "img_gaddar_2",
+   "alt": "Portrait of the singer Gaddar",
+   "caption": "Gaddar, the balladeer of the left and of the statehood movement."
   }
  ],
  "media": [
@@ -7420,12 +7453,6 @@
    "claim": "Hyderabad State area",
    "status": "range",
    "note": "Usually given as 82,698 sq mi, about 214,000 km²."
-  },
-  {
-   "claim": "Photo of Gaddar and the songs of the movement",
-   "status": "no_image",
-   "spotlight_id": "gaddar",
-   "note": "No correctly identified, openly licensed photo found on Wikimedia Commons on 2026-10-25 (Commons search was also rate limited)."
   }
  ],
  "best_facts": [
