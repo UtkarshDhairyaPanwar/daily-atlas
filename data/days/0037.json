@@ -1192,7 +1192,9 @@
       "lon": 32.6
      },
      "when": "c. 1323 BC",
-     "image_ids": [],
+     "image_ids": [
+      "img_gloves_1"
+     ],
      "media_ids": [],
      "spot_it": "Loose linen tunics with coloured woven borders and embroidered panels, and linen gloves cut like modern ones with separate fingers.",
      "story_md": "The king's tunics are the opposite of the stiff white kilt. Some are **decorated with tapestry bands** and embroidery showing animals and plants in colour, a technique Egypt may have learned from western Asia. There are linen **gloves**, some embroidered, found in the antechamber and annexe; gloves are almost never shown in Egyptian art, yet the king owned several pairs. Some textile historians think they were for driving a chariot. Many garments were folded and packed in chests, as if for a journey. Study of the clothing by textile specialists in the 1990s confirmed that most were real, worn garments, not just tomb props.",
@@ -1212,7 +1214,10 @@
       "lon": 31.12
      },
      "when": "c. 1323 BC",
-     "image_ids": [],
+     "image_ids": [
+      "img_mannequin_1",
+      "img_mannequin_2"
+     ],
      "media_ids": [],
      "spot_it": "A life-size painted wooden head and chest of the king with no arms, wearing a flat-topped yellow crown and a painted white shirt.",
      "story_md": "In the antechamber Carter found a **wooden torso** of the king, painted with a white garment and topped by a crown with a cobra. It has no arms or legs. Carter suggested it was a **dressmaker's dummy**, used to try on or show the king's clothes and jewellery, which would make it the oldest known mannequin. Other scholars think it had a ritual purpose, perhaps as a stand-in for the king's body. Either way, it is the right size for the king and has the same face as his other images. Its purpose is still uncertain.",
@@ -1620,7 +1625,9 @@
       "lon": 43.33
      },
      "when": "8th century BC; found 1988 to 1989",
-     "image_ids": [],
+     "image_ids": [
+      "img_nimrud_1"
+     ],
      "media_ids": [],
      "spot_it": "Gold crowns of winged figures and grapevines, heavy gold anklets, bracelets and earrings, laid out in cases in Baghdad.",
      "story_md": "In 1988 Iraqi archaeologists found **four tombs of Assyrian queens** under the palace floors at Nimrud. Assyrian kings were buried at Ashur, but their queens lay at Kalhu. The tombs held one of the greatest gold finds of the 20th century: crowns, earrings, armlets, anklets and hundreds of small gold appliqués once sewn onto clothes so that robes **glittered**. They give the clearest idea of how much metal Assyrian royal women wore. The treasure was hidden in a bank vault during the wars of 1991 and 2003 and survived; much of the site itself was bulldozed by the Islamic State group in 2015.",
@@ -1854,7 +1861,8 @@
      },
      "when": "Ruled 51 to 30 BC",
      "image_ids": [
-      "img_cleopatra_1"
+      "img_cleopatra_1",
+      "img_taylor_1"
      ],
      "media_ids": [],
      "spot_it": "A marble head of a woman with her hair in a 'melon' style, ridged sections pulled back to a bun, and a flat royal diadem band.",
@@ -4537,6 +4545,81 @@
    "caption": "An Ur III tablet from Girsu (a murder verdict), from the same state archives that list the weavers."
   },
   {
+   "id": "img_gloves_1",
+   "file_page": "https://commons.wikimedia.org/wiki/File:King_Tutankhamun%27s_tomb_goods_gloves_DSC_0880_(1)_(44795620015).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/King_Tutankhamun%27s_tomb_goods_gloves_DSC_0880_%281%29_%2844795620015%29.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/King_Tutankhamun%27s_tomb_goods_gloves_DSC_0880_%281%29_%2844795620015%29.jpg/1280px-King_Tutankhamun%27s_tomb_goods_gloves_DSC_0880_%281%29_%2844795620015%29.jpg",
+   "width": 3972,
+   "height": 2648,
+   "author": "Bill Abbott",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "attribution": "Photo: Bill Abbott, CC BY-SA 2.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A pair of linen gloves from Tutankhamun's tomb in a display case",
+   "caption": "Tutankhamun's gloves, Egyptian Museum, Cairo."
+  },
+  {
+   "id": "img_mannequin_1",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Illustration_from_The_Tomb_of_Tut-Ankh-Amen,_Plate_XXV,_The_King%27s_Mannequin.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Illustration_from_The_Tomb_of_Tut-Ankh-Amen%2C_Plate_XXV%2C_The_King%27s_Mannequin.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Illustration_from_The_Tomb_of_Tut-Ankh-Amen%2C_Plate_XXV%2C_The_King%27s_Mannequin.jpg/1280px-Illustration_from_The_Tomb_of_Tut-Ankh-Amen%2C_Plate_XXV%2C_The_King%27s_Mannequin.jpg",
+   "width": 1825,
+   "height": 3635,
+   "author": "Harry Burton (illustrator &amp; photographer)",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Harry Burton (illustrator &amp; photographer), Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Old photograph plate of a painted wooden torso of the king, without arms or legs",
+   "caption": "Carter and Mace's plate of 'The King's Mannequin', photographed by Harry Burton."
+  },
+  {
+   "id": "img_mannequin_2",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Vallei_der_Koningen._Tombe_van_Toetanchamon_Mannequin_van_Toetanchamon,_GDE002128.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Vallei_der_Koningen._Tombe_van_Toetanchamon_Mannequin_van_Toetanchamon%2C_GDE002128.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Vallei_der_Koningen._Tombe_van_Toetanchamon_Mannequin_van_Toetanchamon%2C_GDE002128.jpg/1280px-Vallei_der_Koningen._Tombe_van_Toetanchamon_Mannequin_van_Toetanchamon%2C_GDE002128.jpg",
+   "width": 5964,
+   "height": 5004,
+   "author": "Unknown",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Unknown, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Archive photograph of Tutankhamun's wooden mannequin",
+   "caption": "The mannequin of Tutankhamun, archive photograph."
+  },
+  {
+   "id": "img_nimrud_1",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Funerary_stone_tablet_of_the_Assyrian_Queen_Yaba,_wife_of_King_Tiglath-pileser_III._From_Nimrud,_Iraq._Iraq_Museum.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Funerary_stone_tablet_of_the_Assyrian_Queen_Yaba%2C_wife_of_King_Tiglath-pileser_III._From_Nimrud%2C_Iraq._Iraq_Museum.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Funerary_stone_tablet_of_the_Assyrian_Queen_Yaba%2C_wife_of_King_Tiglath-pileser_III._From_Nimrud%2C_Iraq._Iraq_Museum.jpg/1280px-Funerary_stone_tablet_of_the_Assyrian_Queen_Yaba%2C_wife_of_King_Tiglath-pileser_III._From_Nimrud%2C_Iraq._Iraq_Museum.jpg",
+   "width": 2639,
+   "height": 2397,
+   "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Inscribed stone tablet of Queen Yaba from her tomb at Nimrud",
+   "caption": "Funerary tablet of Queen Yaba, wife of Tiglath-pileser III, from Tomb II at Nimrud."
+  },
+  {
+   "id": "img_taylor_1",
+   "file_page": "https://commons.wikimedia.org/wiki/File:1963_Cleopatra_trailer_screenshot_(10).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/1963_Cleopatra_trailer_screenshot_%2810%29.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/1963_Cleopatra_trailer_screenshot_%2810%29.jpg",
+   "width": 1030,
+   "height": 437,
+   "author": "Trailer screenshot",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Trailer screenshot, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Film still of Elizabeth Taylor as Cleopatra in heavy eye make-up and a gold headdress",
+   "caption": "Elizabeth Taylor in the 1963 film trailer: Hollywood's Cleopatra."
+  },
+  {
    "id": "img_akhenaten_1",
    "file_page": "https://commons.wikimedia.org/wiki/File:Akhenaten,_Nefertiti_and_their_children.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Akhenaten%2C_Nefertiti_and_their_children.jpg",
@@ -5264,24 +5347,6 @@
    "claim": "Photo of The leather net loincloth",
    "status": "no_image",
    "spotlight_id": "leather_loincloth",
-   "note": "No openly licensed Commons photo of this exact thing was found on 2026-10-25; left without an image rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of Tutankhamun's tunics and gloves",
-   "status": "no_image",
-   "spotlight_id": "tut_wardrobe",
-   "note": "No openly licensed Commons photo of this exact thing was found on 2026-10-25; left without an image rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of The mannequin of Tutankhamun",
-   "status": "no_image",
-   "spotlight_id": "tut_mannequin",
-   "note": "No openly licensed Commons photo of this exact thing was found on 2026-10-25; left without an image rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of The Nimrud queens' tombs",
-   "status": "no_image",
-   "spotlight_id": "nimrud_queens",
    "note": "No openly licensed Commons photo of this exact thing was found on 2026-10-25; left without an image rather than use a wrong one."
   },
   {
