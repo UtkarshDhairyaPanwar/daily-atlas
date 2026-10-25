@@ -1006,7 +1006,10 @@
      "kind": "idea",
      "name": "Newly named organs",
      "when": "2016, 2018, 2020",
-     "image_ids": [],
+     "image_ids": [
+      "img_mesentery",
+      "img_interstitium"
+     ],
      "media_ids": [],
      "spot_it": "No single look: a fold of gut tissue, a fluid-filled mesh under the skin, a pair of glands behind the nose.",
      "story_md": "Three recent claims show how slippery the word \"organ\" is. In **2016** J. Calvin Coffey in Limerick argued that the **mesentery**, the fold that ties the intestines to the back of the abdomen, is one continuous structure and should count as an organ; many anatomy texts now agree. In **2018** a New York team described the **interstitium**, fluid-filled spaces in a collagen mesh under the skin and around organs, and called it a possible new organ. Many anatomists were unconvinced. In **2020** Dutch radiologists spotted a pair of **tubarial salivary glands** on cancer scans, about **4 cm** long, behind the nose. Others argue they were already described as minor glands.",
@@ -1158,7 +1161,9 @@
      "kind": "object",
      "name": "The heart",
      "when": "Beats about 100,000 times a day",
-     "image_ids": [],
+     "image_ids": [
+      "img_heart"
+     ],
      "media_ids": [],
      "spot_it": "A fist-sized, cone-shaped muscle tilted to the left of centre, with thick vessels rising from its top.",
      "story_md": "The heart has four chambers and four one-way valves; the \"lub-dub\" you hear through a stethoscope is valves snapping shut. It sits only slightly left of centre, but its strongest part, the left ventricle, points left, so that is where you feel the beat. Its rhythm starts in the **sinoatrial node**, a small patch of self-firing cells in the right atrium. That is why a heart taken out for transplant can keep beating with no nerves attached. Heart muscle cells are hardly replaced: about **1% a year** at 25 and under half a percent by 75, so damage from a heart attack is permanent scar.",
@@ -1191,7 +1196,10 @@
      "kind": "object",
      "name": "Alveoli, the air sacs",
      "when": "About 480 million",
-     "image_ids": [],
+     "image_ids": [
+      "img_alveoli",
+      "img_lung_histo"
+     ],
      "media_ids": [],
      "spot_it": "Under a microscope: a lacy foam of thin-walled bubbles, each about a fifth of a millimetre across.",
      "story_md": "In **2004** Matthias Ochs and colleagues counted alveoli in six adult lungs using careful sampling. The average was **480 million**, ranging from **274 to 790 million**, with bigger lungs simply having more. Each air sac is about **0.2 mm** across and wrapped in a net of capillaries. The wall between air and blood is often less than **a micrometre** thick. A film of surfactant, a soapy mix of fat and protein, stops the tiny sacs from collapsing as you breathe out. Babies born very early often lack it, which is why premature birth can mean struggling lungs and why synthetic surfactant has saved so many lives since the 1990s.",
@@ -1253,7 +1261,9 @@
      "kind": "object",
      "name": "The stomach",
      "when": "Holds about 1 to 1.5 litres comfortably",
-     "image_ids": [],
+     "image_ids": [
+      "img_stomach"
+     ],
      "media_ids": [],
      "spot_it": "A J-shaped bag under the left ribs; seen through an endoscope, pink folds called rugae that flatten as it fills.",
      "story_md": "The stomach lining makes hydrochloric acid strong enough to reach **pH 1.5 to 3.5**, enough to kill most germs and unfold proteins so enzymes can cut them. It does not digest itself because the lining is coated with a thick layer of alkaline mucus, and the surface cells are replaced every few days. An empty stomach holds only about 50 to 100 ml but stretches to take a litre or more. Very little is absorbed here: water, alcohol and some drugs such as aspirin. Most of what you eat leaves the stomach as a soupy mix called chyme, a few spoonfuls at a time.",
@@ -1308,7 +1318,9 @@
      "kind": "object",
      "name": "The liver",
      "when": "About 1.5 kg",
-     "image_ids": [],
+     "image_ids": [
+      "img_liver"
+     ],
      "media_ids": [],
      "spot_it": "A large wedge-shaped, dark reddish-brown organ tucked under the right ribs, the biggest solid organ inside you.",
      "story_md": "The liver receives all blood from the gut before the rest of the body does, so it is the body's checkpoint: it stores sugar as glycogen, makes blood-clotting proteins and cholesterol, breaks down alcohol and drugs, and turns toxic ammonia into urea. Its most famous trick is regrowth. Remove up to two-thirds and the remainder grows back to roughly the original size within weeks to months. That is what makes **living-donor liver transplants** possible: a healthy adult gives part of their liver to a relative, and both pieces regrow. The Greek myth of Prometheus, whose liver an eagle ate each day and which grew back each night, is an uncanny fit.",
@@ -1380,7 +1392,10 @@
      "kind": "object",
      "name": "The human brain",
      "when": "About 86 billion neurons",
-     "image_ids": [],
+     "image_ids": [
+      "img_brain",
+      "img_brain_section"
+     ],
      "media_ids": [],
      "spot_it": "A wrinkled, greyish-pink organ about the size of two fists, with a smaller striped structure, the cerebellum, at the back.",
      "story_md": "The wrinkles fold a large sheet of cortex, about **2 to 4 mm** thick, into the skull; flattened out it would cover roughly the area of a large pillowcase. The outer layer, grey matter, holds the neuron bodies; the white matter inside is the axons, wrapped in fatty myelin. A cut brain shows both clearly. The brain has no pain receptors of its own, which is why some brain surgery is done with the patient awake and talking, so surgeons can test speech as they go. It floats in about **150 ml** of cerebrospinal fluid, which makes it feel much lighter than its weight.",
@@ -1433,7 +1448,9 @@
      "kind": "object",
      "name": "Pancreatic islets and insulin",
      "when": "Insulin first injected 1922",
-     "image_ids": [],
+     "image_ids": [
+      "img_islet"
+     ],
      "media_ids": [],
      "spot_it": "Under a microscope: pale round clusters of cells, like islands, scattered in darker enzyme-making tissue.",
      "story_md": "The pancreas is mostly an enzyme factory for the gut. Scattered through it are about **1 million** small clusters of hormone cells, the **islets of Langerhans**, together only about **1 to 2%** of the organ. Their beta cells make **insulin**, which lets cells take sugar out of the blood. In type 1 diabetes, the immune system destroys them. In **1921** Frederick Banting and Charles Best in Toronto extracted insulin from dog pancreases, and in **January 1922** a 14-year-old boy, Leonard Thompson, became the first person treated. A disease that killed within months became one you could live with.",
@@ -1471,7 +1488,10 @@
      "kind": "object",
      "name": "Kidney and nephron",
      "when": "About 1 million nephrons each",
-     "image_ids": [],
+     "image_ids": [
+      "img_kidney",
+      "img_glomerulus"
+     ],
      "media_ids": [
       "vid_kidneys"
      ],
@@ -1570,7 +1590,9 @@
      "kind": "object",
      "name": "Cochlea and hair cells",
      "when": "About 15,000 hair cells per ear",
-     "image_ids": [],
+     "image_ids": [
+      "img_cochlea"
+     ],
      "media_ids": [],
      "spot_it": "A snail-shell coil, about the size of a pea, buried in the hardest bone of the skull.",
      "story_md": "The **cochlea** is a coiled tube of fluid, about two and a half turns. Sound vibrations from the stapes ripple the fluid, and a membrane running along the coil vibrates at different places for different pitches: high notes near the base, low notes near the tip. Sitting on it are about **15,000 hair cells** per ear, each topped with a tuft of stiff bristles that bend and fire. Humans cannot regrow hair cells, and loud noise breaks them, which is why hearing loss from concerts and headphones is permanent. Birds can regrow theirs, and researchers are trying to learn how.",
@@ -1586,7 +1608,9 @@
      "kind": "idea",
      "name": "How many smells can you tell apart?",
      "when": "2014 claim, 2015 rebuttal",
-     "image_ids": [],
+     "image_ids": [
+      "img_nose"
+     ],
      "media_ids": [],
      "spot_it": "No image of a smell: just a nose, and about 400 kinds of smell receptor at the top of it.",
      "story_md": "In **2014** a paper in *Science* by Caroline Bushdid and colleagues reported that humans can tell apart more than **1 trillion** smells, far more than the old figure of 10,000. It made headlines worldwide. In **2015** Richard Gerkin and Jason Castro showed that the estimate depended heavily on the maths used: small changes in assumptions moved the answer by many orders of magnitude, so the number of smells we can discriminate is still unknown. What is solid: humans have about **400** working smell receptor genes, and our sense of smell is better than its reputation; people can follow a chocolate scent trail across a field on hands and knees.",
@@ -1668,7 +1692,10 @@
      "kind": "document",
      "name": "Sushruta Samhita",
      "when": "Last centuries BCE to early centuries CE",
-     "image_ids": [],
+     "image_ids": [
+      "img_sushruta",
+      "img_sushruta_ms"
+     ],
      "media_ids": [],
      "spot_it": "Usually shown today as a seated sage with surgical tools; the text itself survives in palm-leaf and paper manuscripts.",
      "story_md": "The **Sushruta Samhita** is a Sanskrit text on medicine and surgery, compiled in layers from roughly the last centuries BCE into the early centuries CE. It tells surgeons to learn anatomy from a dead body, and later accounts describe the method: the body placed in a cage in a stream for about a week, then the softened layers gently rubbed away with brushes of grass to reveal what lay beneath. It counts **300 bones**, describes dozens of instruments, and gives detailed methods for repairing noses, ears and lips with flaps of skin. Its traditional link to Varanasi comes from later tradition, not firm evidence.",
@@ -1710,7 +1737,10 @@
      "kind": "person",
      "name": "Madhusudan Gupta",
      "when": "1836, Calcutta",
-     "image_ids": [],
+     "image_ids": [
+      "img_madhusudan",
+      "img_cmc"
+     ],
      "media_ids": [],
      "spot_it": "A nineteenth-century portrait of a Bengali physician; and the colonnaded front of Calcutta Medical College.",
      "story_md": "In upper-caste Hindu society of the 1830s, touching a corpse was deeply polluting. **Calcutta Medical College**, founded in 1835, needed students to dissect. **Madhusudan Gupta**, a teacher from a family of Ayurvedic physicians, agreed, following Professor Henry Goodeve into a locked storeroom with four students. The date is usually given as **10 January 1836**, though some sources say October. Stories that Fort William fired a **50-gun salute** to mark the day are often repeated but poorly supported. Gupta took sole responsibility to shield his students from backlash. Within a few years, dissection was routine in Indian medical colleges.",
@@ -1730,7 +1760,10 @@
      "kind": "person",
      "name": "Henry Vandyke Carter",
      "when": "Bombay, 1858 to 1888",
-     "image_ids": [],
+     "image_ids": [
+      "img_carter",
+      "img_grays"
+     ],
      "media_ids": [],
      "spot_it": "The precise, unshaded line drawings of Gray's Anatomy, labels written right on the structures: that is his hand.",
      "story_md": "Gray's Anatomy is named after **Henry Gray**, but its famous drawings are by **Henry Vandyke Carter**, who drew them in **1856 to 1857** in his mid twenties, for ten pounds a month. Gray took most of the credit and the royalties. In **1858**, the year the book came out, Carter joined the Indian Medical Service and spent about **30 years** in Bombay, as professor of anatomy and later principal of **Grant Medical College**. There he studied leprosy, mycetoma (once called Madura foot) and relapsing fever. Gray died in 1861 at 34; the book, in its 40-plus editions, has never been out of print.",
@@ -1751,7 +1784,9 @@
      "kind": "person",
      "name": "Yellapragada Subbarow",
      "when": "1895 to 1948",
-     "image_ids": [],
+     "image_ids": [
+      "img_subbarow"
+     ],
      "media_ids": [],
      "spot_it": "A portrait of a bespectacled man in a suit; India issued a postage stamp in his honour.",
      "story_md": "Born in **Bhimavaram** in present-day Andhra Pradesh, **Yellapragada Subbarow** went to Harvard in the 1920s. With Cyrus Fiske he found **phosphocreatine** and showed the part **ATP** plays in muscle, published in **1929**: the energy currency that every cell in this day's story spends. Harvard did not give him a permanent post. At Lederle Laboratories he then led work that produced a way to make **folic acid**, the cancer drug **methotrexate**, and the antibiotic chlortetracycline, discovered by Benjamin Duggar in his department. He died in New York in **1948**, aged 53, little known outside science.",
@@ -1851,7 +1886,9 @@
      "kind": "idea",
      "name": "The 10% brain myth",
      "when": "Popular since the early 1900s",
-     "image_ids": [],
+     "image_ids": [
+      "img_brain_section"
+     ],
      "media_ids": [],
      "spot_it": "Usually spotted in film plots where a pill unlocks the other 90%.",
      "story_md": "No one knows exactly where the claim began. It is often pinned on the psychologist **William James**, who wrote around 1907 that people use only a small part of their mental resources, which is a statement about effort, not brain tissue. Self-help writers turned it into a number. The evidence against is overwhelming. Brain scans show activity across the whole brain over the course of a day. The brain uses about **20%** of the body's energy; evolution would not keep an organ that costly if 90% sat idle. And there is no region that can be damaged without some effect.",
@@ -1965,7 +2002,9 @@
      "kind": "event",
      "name": "Pig kidneys in people",
      "when": "2024 to 2026",
-     "image_ids": [],
+     "image_ids": [
+      "img_mgh"
+     ],
      "media_ids": [],
      "spot_it": "A hospital photo; the kidney itself looks like a human one, but comes from a pig with dozens of gene edits.",
      "story_md": "More than 90,000 people in the US alone wait for a kidney. Pigs have kidneys of the right size, but the human immune system attacks them. Companies such as eGenesis and United Therapeutics edit pig genes, removing pig sugars that trigger attack and adding human genes. In **March 2024** Richard Slayman became the first living person to receive one, at **Massachusetts General Hospital**. In **January 2025** Tim Andrews got one there, came off dialysis, and kept it for **271 days**, more than double the previous record, before it was removed in **October 2025**. In **January 2026** he received a human kidney. Formal trials are now cleared.",
@@ -2027,7 +2066,10 @@
      "image_ids": [
       "img_rbc",
       "img_epithelium",
-      "img_skeleton"
+      "img_heart",
+      "img_skeleton",
+      "img_brain",
+      "img_alveoli"
      ]
     }
    },
@@ -2406,7 +2448,7 @@
    ],
    "section_id": "pump",
    "spotlight_id": "alveoli",
-   "core": true
+   "core": false
   },
   {
    "id": "c_gut_area",
@@ -2562,7 +2604,7 @@
    ],
    "section_id": "india",
    "spotlight_id": "cowasjee",
-   "core": true
+   "core": false
   },
   {
    "id": "c_madhusudan",
@@ -2574,7 +2616,7 @@
    ],
    "section_id": "india",
    "spotlight_id": "madhusudan",
-   "core": true
+   "core": false
   },
   {
    "id": "c_khorana",
@@ -2743,7 +2785,7 @@
   },
   {
    "id": "c_img_glom",
-   "type": "fact",
+   "type": "image",
    "front": "What is this kidney structure?",
    "back": "A glomerulus, the filter at the start of a nephron.",
    "source_ids": [
@@ -2751,7 +2793,8 @@
    ],
    "section_id": "defence",
    "spotlight_id": "kidney",
-   "core": false
+   "core": false,
+   "image_id": "img_glomerulus"
   },
   {
    "id": "c_img_stapes",
@@ -2806,7 +2849,7 @@
   },
   {
    "id": "c_img_alveoli",
-   "type": "fact",
+   "type": "image",
    "front": "What are these bubble-like spaces?",
    "back": "Alveoli, the lungs' air sacs.",
    "source_ids": [
@@ -2814,7 +2857,8 @@
    ],
    "section_id": "pump",
    "spotlight_id": "alveoli",
-   "core": false
+   "core": false,
+   "image_id": "img_alveoli"
   },
   {
    "id": "c_cmp_muscle",
@@ -4555,6 +4599,351 @@
    "verified_on": "2026-10-26",
    "alt": "Labelled diagram of the DNA double helix and its four bases",
    "caption": "DNA and its four bases: the code GenomeIndia set out to read across Indian populations."
+  },
+  {
+   "id": "img_heart",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Heart_diseccion.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Heart_diseccion.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Heart_diseccion.jpg",
+   "width": 960,
+   "height": 720,
+   "author": "Kenshinb",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Photo: Kenshinb, CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A human heart opened up during a dissection",
+   "caption": "A human heart dissected by medical students, showing the inside of a chamber."
+  },
+  {
+   "id": "img_leonardo_heart",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci,_Heart_and_its_Blood_Vessels.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Leonardo_da_vinci%2C_Heart_and_its_Blood_Vessels.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Leonardo_da_vinci%2C_Heart_and_its_Blood_Vessels.jpg",
+   "width": 365,
+   "height": 464,
+   "author": "Leonardo da Vinci",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Leonardo da Vinci, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Pen drawing of a heart with its vessels branching from the top",
+   "caption": "Leonardo's drawing of the heart and its vessels, from his notebooks."
+  },
+  {
+   "id": "img_alveoli",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Alveolar_sac.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Alveolar_sac.JPG",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Alveolar_sac.JPG/1280px-Alveolar_sac.JPG",
+   "width": 2816,
+   "height": 2112,
+   "author": "Jpogi",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Jpogi, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Micrograph of thin-walled bubble-like air spaces in lung tissue",
+   "caption": "Alveoli in a human lung: walls one or two cells thick."
+  },
+  {
+   "id": "img_lung_histo",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Lung_structure_normal.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Lung_structure_normal.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Lung_structure_normal.jpg",
+   "width": 475,
+   "height": 372,
+   "author": "National Heart Lung and Blood Institute",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: National Heart Lung and Blood Institute, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Diagram of the lungs, airways and a cluster of alveoli with capillaries",
+   "caption": "From windpipe to alveoli: the airway tree ends in grape-like air sacs wrapped in capillaries."
+  },
+  {
+   "id": "img_stomach",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Stomach_endoscopy_1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Stomach_endoscopy_1.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Stomach_endoscopy_1.jpg/1280px-Stomach_endoscopy_1.jpg",
+   "width": 1300,
+   "height": 1000,
+   "author": "No machine-readable author provided. Ignis assumed (based on copyright claims).",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "attribution": "Photo: No machine-readable author provided. Ignis assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Endoscope view inside a healthy stomach, pink folded lining",
+   "caption": "Inside a healthy stomach, seen through an endoscope; the opening is the pylorus."
+  },
+  {
+   "id": "img_liver",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Human_Hepar.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Human_Hepar.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Human_Hepar.jpg/1280px-Human_Hepar.jpg",
+   "width": 1600,
+   "height": 1200,
+   "author": "Suseno",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Suseno, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A whole human liver, dark red-brown, on a tray",
+   "caption": "A human liver, the largest internal organ, about 1.5 kg."
+  },
+  {
+   "id": "img_brain",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Brain_autopsy_lateral_view.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Brain_autopsy_lateral_view.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brain_autopsy_lateral_view.jpg/1280px-Brain_autopsy_lateral_view.jpg",
+   "width": 2272,
+   "height": 1704,
+   "author": "Jensflorian",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Jensflorian, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Side view of a preserved human brain showing its folds",
+   "caption": "A human brain seen from the side after fixation."
+  },
+  {
+   "id": "img_brain_section",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Sagittal_brain_slice,_UB_Museum_of_Neuroanatomy,_Buffalo,_New_York.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Sagittal_brain_slice%2C_UB_Museum_of_Neuroanatomy%2C_Buffalo%2C_New_York.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Sagittal_brain_slice%2C_UB_Museum_of_Neuroanatomy%2C_Buffalo%2C_New_York.jpg",
+   "width": 1280,
+   "height": 1920,
+   "author": "Caldwbr",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Caldwbr, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A human brain cut down the middle, showing grey and white matter",
+   "caption": "A brain sliced down the midline, at the University at Buffalo's neuroanatomy museum."
+  },
+  {
+   "id": "img_islet",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Human_pancreatic_islet.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Human_pancreatic_islet.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Human_pancreatic_islet.jpg/1280px-Human_pancreatic_islet.jpg",
+   "width": 1600,
+   "height": 1200,
+   "author": "Afferent",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Photo: Afferent, CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Stained islet: blue insulin cells mixed with red glucagon cells",
+   "caption": "A human pancreatic islet: insulin-making beta cells (blue) and glucagon-making alpha cells (red)."
+  },
+  {
+   "id": "img_kidney",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Kidneys.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Kidneys.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Kidneys.jpg",
+   "width": 960,
+   "height": 720,
+   "author": "Anatomist90",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Photo: Anatomist90, CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Two anatomical kidney preparations, bean-shaped",
+   "caption": "Kidneys, each about the size of a fist."
+  },
+  {
+   "id": "img_glomerulus",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Glomerulum_of_mouse_kidney_in_Scanning_Electron_Microscope,_magnification_1,000x.GIF",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Glomerulum_of_mouse_kidney_in_Scanning_Electron_Microscope%2C_magnification_1%2C000x.GIF",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Glomerulum_of_mouse_kidney_in_Scanning_Electron_Microscope%2C_magnification_1%2C000x.GIF",
+   "width": 1280,
+   "height": 1024,
+   "author": "SecretDisc",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "attribution": "Photo: SecretDisc, CC BY-SA 3.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Electron micrograph of a ball of tangled capillaries",
+   "caption": "A glomerulus, the kidney's filter, here from a mouse at 1,000x."
+  },
+  {
+   "id": "img_cochlea",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Gray928.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Gray928.png",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Gray928.png",
+   "width": 600,
+   "height": 408,
+   "author": "Henry Vandyke Carter",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Henry Vandyke Carter, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Engraved cross-section of the spiral cochlea",
+   "caption": "The cochlea in section, from Gray's Anatomy: a spiral of about two and a half turns."
+  },
+  {
+   "id": "img_nose",
+   "file_page": "https://commons.wikimedia.org/wiki/File:1403_Olfaction.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/1403_Olfaction.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1403_Olfaction.jpg/1280px-1403_Olfaction.jpg",
+   "width": 2196,
+   "height": 2246,
+   "author": "OpenStax",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Photo: OpenStax, CC BY 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Labelled diagram of the olfactory epithelium and bulb in the nasal cavity",
+   "caption": "Smell receptors sit in a stamp-sized patch high in the nose and wire straight to the olfactory bulb."
+  },
+  {
+   "id": "img_sushruta",
+   "file_page": "https://commons.wikimedia.org/wiki/File:A_statue_of_Sushruta_at_RACS,_Melbourne.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/A_statue_of_Sushruta_at_RACS%2C_Melbourne.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/A_statue_of_Sushruta_at_RACS%2C_Melbourne.jpg",
+   "width": 720,
+   "height": 960,
+   "author": "Heroesdontexist",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Heroesdontexist, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Statue of Sushruta as a robed sage",
+   "caption": "Statue of Sushruta at the Royal Australasian College of Surgeons, Melbourne."
+  },
+  {
+   "id": "img_sushruta_ms",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Page_of_text_from_the_Susrutasamhita_Wellcome_L0034906.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Page_of_text_from_the_Susrutasamhita_Wellcome_L0034906.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Page_of_text_from_the_Susrutasamhita_Wellcome_L0034906.jpg/1280px-Page_of_text_from_the_Susrutasamhita_Wellcome_L0034906.jpg",
+   "width": 4176,
+   "height": 1856,
+   "author": "Unknown",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Photo: Unknown, CC BY 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "A manuscript page of Sanskrit text",
+   "caption": "A page of the Sushruta Samhita on surgical procedures, Wellcome Collection."
+  },
+  {
+   "id": "img_madhusudan",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Madhusudan_Gupta.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Madhusudan_Gupta.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Madhusudan_Gupta.jpg",
+   "width": 791,
+   "height": 1037,
+   "author": "S. C. Belnos",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: S. C. Belnos, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Painted portrait of Madhusudan Gupta",
+   "caption": "Madhusudan Gupta, from an oil portrait by S.C. Belnos."
+  },
+  {
+   "id": "img_cmc",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Main_building_of_Calcutta_Medical_College_and_Hospital_03.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Main_building_of_Calcutta_Medical_College_and_Hospital_03.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Main_building_of_Calcutta_Medical_College_and_Hospital_03.jpg/1280px-Main_building_of_Calcutta_Medical_College_and_Hospital_03.jpg",
+   "width": 4128,
+   "height": 2322,
+   "author": "Pinakpani",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Pinakpani, CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Colonnaded heritage building of Calcutta Medical College",
+   "caption": "The main building of Calcutta Medical College, founded 1835."
+  },
+  {
+   "id": "img_carter",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Henry_Vandyke_Carter_(self-portrait,_1870).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Henry_Vandyke_Carter_%28self-portrait%2C_1870%29.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Henry_Vandyke_Carter_%28self-portrait%2C_1870%29.jpg",
+   "width": 424,
+   "height": 550,
+   "author": "Henry Vandyke Carter",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Henry Vandyke Carter, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Self-portrait of Henry Vandyke Carter",
+   "caption": "Henry Vandyke Carter, self-portrait, 1870."
+  },
+  {
+   "id": "img_grays",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Surgical_Anatomy_of_the_Arteries_of_the_neck_Gray%27s_Anatomy_1858.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Surgical_Anatomy_of_the_Arteries_of_the_neck_Gray%27s_Anatomy_1858.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Surgical_Anatomy_of_the_Arteries_of_the_neck_Gray%27s_Anatomy_1858.jpg",
+   "width": 470,
+   "height": 548,
+   "author": "Henry Vandyke Carter",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: Henry Vandyke Carter, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Line drawing of the arteries of the neck with labels on the structures",
+   "caption": "Carter's plate of the neck arteries from the first edition of Gray's Anatomy, 1858."
+  },
+  {
+   "id": "img_subbarow",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Yellapragada_Subbarow_1995.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Yellapragada_Subbarow_1995.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Yellapragada_Subbarow_1995.jpg",
+   "width": 220,
+   "height": 322,
+   "author": "UnknownUnknown",
+   "license": "Public domain",
+   "license_url": "",
+   "attribution": "Photo: UnknownUnknown, Public domain, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Indian postage stamp with a portrait of Yellapragada Subbarow",
+   "caption": "India's 1995 stamp honouring Yellapragada Subbarow."
+  },
+  {
+   "id": "img_mgh",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Massachusetts_General_Hospital_main_entrance.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Massachusetts_General_Hospital_main_entrance.jpg",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Massachusetts_General_Hospital_main_entrance.jpg/1280px-Massachusetts_General_Hospital_main_entrance.jpg",
+   "width": 3600,
+   "height": 1970,
+   "author": "Kenneth C. Zirkel",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "attribution": "Photo: Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Modern glass and brick hospital buildings in Boston",
+   "caption": "Massachusetts General Hospital, Boston, where the first pig kidneys went into living patients."
+  },
+  {
+   "id": "img_mesentery",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Mesentery_extending_from_the_duodenojejunal_flexure_to_the_ileocecal_junction._(with_label).png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mesentery_extending_from_the_duodenojejunal_flexure_to_the_ileocecal_junction._%28with_label%29.png",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mesentery_extending_from_the_duodenojejunal_flexure_to_the_ileocecal_junction._%28with_label%29.png",
+   "width": 1108,
+   "height": 1116,
+   "author": "[1]",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: [1], CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Illustration of the digestive system with the mesentery labelled",
+   "caption": "The mesentery, the fan of tissue holding the small intestine, recognised as one continuous organ in 2016."
+  },
+  {
+   "id": "img_interstitium",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Intersticio_(%C3%B3rgano).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Intersticio_%28%C3%B3rgano%29.jpg",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Intersticio_%28%C3%B3rgano%29.jpg",
+   "width": 980,
+   "height": 552,
+   "author": "Auguste Dargent Hospices Civils de Lyon, Hugo Dumargne, Marie Labruyère, Stép...",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "attribution": "Photo: Auguste Dargent Hospices Civils de Lyon, Hugo Dumargne, Marie Labruyère, Stép..., CC BY-SA 4.0, via Wikimedia Commons",
+   "verified_on": "2026-10-26",
+   "alt": "Schematic of fluid-filled spaces in a collagen mesh under tissue",
+   "caption": "The interstitium as described in 2018: fluid-filled spaces in a collagen mesh."
   }
  ],
  "media": [
@@ -5381,105 +5770,15 @@
    "note": "Reported by Indian government sources; exact genome count and number of partner institutions not independently confirmed for this day."
   },
   {
-   "claim": "Photo of Newly named organs",
-   "status": "no_image",
-   "spotlight_id": "new_organs",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of The heart",
-   "status": "no_image",
-   "spotlight_id": "heart",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of Alveoli, the air sacs",
-   "status": "no_image",
-   "spotlight_id": "alveoli",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of The stomach",
-   "status": "no_image",
-   "spotlight_id": "stomach",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of The liver",
-   "status": "no_image",
-   "spotlight_id": "liver",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of The human brain",
-   "status": "no_image",
-   "spotlight_id": "brain",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
    "claim": "Photo of Henry Molaison, patient H.M.",
    "status": "no_image",
    "spotlight_id": "hm",
    "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
   },
   {
-   "claim": "Photo of Pancreatic islets and insulin",
-   "status": "no_image",
-   "spotlight_id": "islets",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of Kidney and nephron",
-   "status": "no_image",
-   "spotlight_id": "kidney",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of Cochlea and hair cells",
-   "status": "no_image",
-   "spotlight_id": "cochlea",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of How many smells can you tell apart?",
-   "status": "no_image",
-   "spotlight_id": "smell",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of Sushruta Samhita",
-   "status": "no_image",
-   "spotlight_id": "sushruta",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
    "claim": "Photo of The Indian nose, 1794",
    "status": "no_image",
    "spotlight_id": "cowasjee",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of Madhusudan Gupta",
-   "status": "no_image",
-   "spotlight_id": "madhusudan",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of Henry Vandyke Carter",
-   "status": "no_image",
-   "spotlight_id": "carter",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of Yellapragada Subbarow",
-   "status": "no_image",
-   "spotlight_id": "subbarow",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of The 10% brain myth",
-   "status": "no_image",
-   "spotlight_id": "ten_percent",
    "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
   },
   {
@@ -5492,12 +5791,6 @@
    "claim": "Photo of One cubic millimetre of brain, mapped",
    "status": "no_image",
    "spotlight_id": "cortex_map",
-   "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
-  },
-  {
-   "claim": "Photo of Pig kidneys in people",
-   "status": "no_image",
-   "spotlight_id": "pig_kidney",
    "note": "No correct, openly licensed image was found on Wikimedia Commons; left blank rather than use a wrong one."
   }
  ],
@@ -5672,7 +5965,8 @@
   "title": "Leonardo's secret anatomy",
   "body_md": "Around **1507 to 1513**, Leonardo da Vinci dissected roughly **30 human bodies**, in hospitals in Florence, Milan and Rome, often at night and by candlelight, before refrigeration. He drew what he found with a precision no one would match for decades: the curves of the spine, the layers of muscle in the shoulder, a foetus curled in the womb, and the heart.\n\nHis heart drawings hold a remarkable insight. Leonardo built a glass model of the aorta, poured water with grass seeds through it, and watched swirls form behind the valve's three cusps. He concluded the swirls help the valve close. Modern MRI studies of blood flow have confirmed that such vortices exist and play a role.\n\nYet his anatomy changed almost nothing. He never published it. The notebooks passed to his pupil Francesco Melzi, then were scattered, and most of the anatomical sheets ended up in the **Royal Collection** at Windsor, where they were not widely studied until the late 1800s and 1900s. Vesalius, who did publish, got the credit for founding modern anatomy in 1543.\n\nThe lesson for anyone who makes things: a discovery that stays in a drawer does not count for much. Vesalius's woodcuts, printed and copied across Europe, changed medicine. Leonardo's drawings, better in places, waited four hundred years for an audience.",
   "image_ids": [
-   "img_leonardo"
+   "img_leonardo",
+   "img_leonardo_heart"
   ],
   "card_ids": [
    "c_img_leonardo",
